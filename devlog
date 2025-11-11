@@ -1,0 +1,8 @@
+0.2- 
+    -create database via sqlite
+    -create script called "CATSSimport.js" to format & input .par text
+        -Create Table named via book name + "-Init"
+        -Remove verse headers from text rows, move to own column
+        -Create primary key for each row
+        -Create Hebrew and Greek columns
+    BOOK NAME: | PrimaryKey | VerseID | Hebrew | Greek |

@@ -1,0 +1,15 @@
+Copyright <2025> <Nicholas D Moorman>
+see licensing note:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, except where the below licensing notes may or may not disqualify, (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Licensing Note:
+While the scripting and packaging of this project remains open source via mit license, the CATSS materials itself is under a license from UPENN that requires "(3) To control access to these materials and require any other party to whom the recipient supplies any portion of this material to observe these conditions and to register a signed USER AGREEMENT form with CCAT;"
+
+    Seeing as the data is publicly avaialable from UPENN, by hosting this data to github I have controlled access to the same extent at which UPENN has, so I do not forsee an issue with this distribution. That being said, please use your own discretion when using this data, and be sure to contact down all copy right holders before making a publication decisions.
+    For more copyright information check: https://ccat.sas.upenn.edu/gopher/text/religion/biblical/parallel/
+    Also See: /src/data/inputs/catss/about/userdec

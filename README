@@ -1,0 +1,41 @@
+Project Goal:
+Modernize the CATSS Hebrew/Greek parrallel text project by:
+-Transferring it to an SQL database.
+-disentangling text from markup information
+-Decode to standard hebrew and greek unicode
+-align with popular open-access BHS and LXX sources
+-formatting in such a way that an interlinear style display, as well as cross language searches is simple.
+-formatting in such a way that the project can be extended from phrase based alignment to as close to word based alignment as possible.
+-present the data to open-access reviewers to manually or deterministically remove errors.
+-Make this resource useable by the average person.
+-Do so in such a way that the process is reproduceable.
+
+Licensing Note:
+While the scripting and packaging of this project remains open source via mit license, the CATSS database itself is under a license from UPENN that requires "(3) To control access to these materials and require any other party to whom the recipient supplies any portion of this material to observe these conditions and to register a signed USER AGREEMENT form with CCAT;"
+
+    Seeing as the data is publicly avaialable from UPENN, by hosting this data to github I have controlled access to the same extent at which UPENN has, so I do not forsee an issue with this distribution. That being said, please use your own discretion when using this data, and be sure to contact down all copy right holders before making a publication decisions.
+    For more copyright information check: https://ccat.sas.upenn.edu/gopher/text/religion/biblical/parallel/
+    Also See: /src/data/inputs/catss/about/userdec
+
+
+    See /.devlog for more detailed development notes
+    see /src/data/inputs/about for info on the resources bundled in this project.
+
+
+    PROJECT OUTLINE:Modularized approach to cleaning CATSS data.
+
+Approach- run individual books through the process instead of the whole bible.
+-Step 1) Reformat to remove verse headers out of header rows and move them to a column, formatting them numerically. Give each line a prime key. End result: Table | Prime, VerseId, Hebrew, Greek |
+-Step 2) Hebrew Column Cleaning (seperates hebrew column into text and tags in a new hebrew table. preserves prime key for comparing to greek)
+-Step 3) Greek Column Cleaning (seperates greek column into text and tags in a new greek table. Preserves prime key for comparing to hebrew)
+-Step 4) Create sub keys in new tables by breaking the text column into individual words, breaking at whitespace and '/'
+-Step 5) Sub alignment step 1 (lazy align)
+
+---
+
+MAJOR MILESTONE 1 phrase level alignment data has been effectively cleaned. -Submit uncleaned data, cleaned data, and script for cleaning data to github to preserve. Two parallel paths can now be pursued.
+
+1.  Manually or deterministically reviewing tags for reimplementation
+2.  create a word level alignment based on catss. -------------------------------------------------------
+
+PATH 2) Morphological alignment for word level ordering.
