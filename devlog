@@ -1,4 +1,6 @@
-0.2- 
+0.1&0.2 2025-11-11 18:00 Initialization
+
+0.3- 2025-11-11 18:45 - pushed to MAIN & WORKING
     -create database via sqlite
     -create script called "CATSSimport.js" to format & input .par text
         -Create Table named via book name + "-Init"
@@ -6,3 +8,13 @@
         -Create primary key for each row
         -Create Hebrew and Greek columns
     BOOK NAME: | PrimaryKey | VerseID | Hebrew | Greek |
+
+IMPORTED DATA INTO init.db 
+Future databases tables should be created in new databases to prevent confusion.
+Or maybe I should just learn directories...
+
+Need to Validate all tables, but for now we will continue working with Genesis only.
+
+
+
+

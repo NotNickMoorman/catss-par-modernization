@@ -1,4 +1,3 @@
-// src/paths.js
 import { fileURLToPath } from "url";
 import { dirname, join, resolve } from "path";
 
@@ -7,17 +6,17 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Base directories
-export const ROOT = resolve(__dirname, "..");
-export const SRC = join(ROOT, "src");
-export const DATA = join(ROOT, "data");
-export const INPUT = join(DATA, "input");
-export const OUTPUT = join(DATA, "output");
-export const SCRIPTS = join(SRC, "scripts");
-export const MODS = join(SCRIPTS, "modules");
+export const ROOT = resolve(__dirname, "..", ".."); // root/src
+export const SRC = join(ROOT, "scripts"); // root/src/scripts
+export const DATA = join(ROOT, "data"); // root/src/data
+export const INPUT = join(DATA, "input"); // root/src/data/input
+export const OUTPUT = join(DATA, "output"); // root/src/data/output
+export const DB = join(DATA, "init.db"); // root/src/data/init.db
+export const MODS = join(SRC, "modules"); // root/src/scripts/modules
 
 // helpers
 export const pathTo = (folder, filename = "") => join(ROOT, folder, filename);
 export const SrcTo = (folder, filename = "") => join(SRC, folder, filename);
 
-// Output directories
+// Output log
 export const LOG_PATH = join(OUTPUT, "app.log");

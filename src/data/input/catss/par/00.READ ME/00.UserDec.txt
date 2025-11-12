@@ -1,0 +1,51 @@
+USER DECLARATION 
+CENTER FOR COMPUTER ANALYSIS OF TEXTS (CCAT) 
+UNIVERSITY OF PENNSYLVANIA 
+227 Logan Hall, Philadelphia, PA 19104-6304
+Telephone (215) 898-5827
+
+With regard to the texts it distributes, CCAT has made all reasonable 
+efforts to insure that appropriate consent and permission has been 
+obtained from copyright holders of published texts converted into 
+machine-readable form as well as from producers of the electronic 
+form, and thus that fair and permitted use of such materials does not 
+constitute an infringement on copyright.  Pertinent information is 
+included in the documentation supplied (see "Read Me" file) with the 
+electronic materials.
+
+In accepting the machine-readable materials listed below, as 
+distributed by CCAT, the recipient agrees to observe the following 
+"fair use" provisions:
+ 
+(1) Not to use or make available these materials for commercial 
+    purposes, without first obtaining the written consent of the
+    owners/encoders;
+(2) To observe any special restrictions that may be governing 
+    the use of particular texts or bodies of material stipulated in the
+    aforementioned documentation;
+(3) To control access to these materials and require any other party 
+    to whom the recipient supplies any portion of this material to observe
+    these conditions and to register a signed User Declaration form with
+    CCAT;
+(4) When making formal public reference to the materials, to acknowledge 
+    appropriately the holder of the copyright to any published text that
+    has been encoded as well as the encoder and the source from which the
+    machine-readable form has been obtained, to the extent that these 
+    details are supplied in the aforementioned documentation;
+(5) To report promptly to CCAT any errors discovered in these machine- 
+    readable materials. 
+
+Signed __________________________________ 
+Date _______________ 
+
+Name Printed_____________________________________________
+
+Address ____________________________________________
+
+Texts:  __ BHS  __ LXX  __ GNT  __ RSV  __ KJV  __ 
+						Other __________________
+Format:  __ Mac  __ IBM/DOS  __ Kaypro/CPM  __ Tape  
+
+If materials were not obtained directedly from CCAT, please indicate the source:
+___________________________________________________
+

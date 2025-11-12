@@ -1,0 +1,4817 @@
+
+Esth 1:1
+--+ '' =;B/$NH <nu1.1>	E)/TOUS
+--+ '' =;H/$NYT <nu1.1>	DEUTE/ROU
+--+ '' =;L/MLK <1.3>	BASILEU/ONTOS
+--+ '' =:)X$WRW$	A)RTACE/RCOU
+--+ '' =H/GDWL	TOU= MEGA/LOU
+--+ '' =B/R)$WN	TH=| MIA=|
+--+ '' =L/NYSN	TOU= NISA
+--+ '' =;XLM <ge41.1^>	E)NU/PNION EI)=DEN
+--+ '' =:MRDKY <2.5>	MARDOXAI=OS
+--+ '' =;BN <2.5>	O( TOU=
+--+ '' =:Y)YR <2.5>	IAI+ROU
+--+ '' =;BN <2.5>	TOU=
+--+ '' =:$M(Y <2.5>	SEMEI+OU
+--+ '' =;BN <2.5>	TOU=
+--+ '' =:QY$ <2.5>	KISAIOU
+--+ '' =;M/$BT,)Y$ <2.5>	E)K FULH=S
+--+ '' =:BNYMYN,YMYNY <2.5>	BENIAMIN
+--+ '' =;)Y$ <2.5>	A)/NQRWPOS
+--+ '' =;YHWDY <2.5>	IOUDAI=OS
+--+ ''	OI)KW=N
+--+ '' =:B/$W$N <2.5>	E)N SOU/SOIS
+--+ '' =;H/BYRH <1.2,5>	TH=| PO/LEI
+--+ '' =)Y$	A)/NQRWPOS
+--+ '' =GDWL	ME/GAS
+--+ '' =;H/YW$B <6.10>	QERAPEU/WN
+--+ '' =;B/$(R <6.10>	E)N TH=| AU)LH=|
+--+ '' =;H/MLK <6.10>	TOU= BASILE/WS
+--+ ''	H)=N DE\
+--+ ''	E)K
+--+ '' =H/GLH	TH=S AI)XMALWSI/AS [[2.6]]
+--+ '' =)$R	H(=S [[2.6]]
+--+ '' =HGLH	H)|XMALW/TEUSEN [[2.6]]
+--+ '' =NBWKDN)CR	NABOUXODONOSOR [[2.6]]
+--+ '' =MLK	O( BASILEU\S [[2.6]]
+--+ '' =BBL	BABULW=NOS [[2.6]]
+--+ '' =M/YRW$LYM	E)C IEROUSALHM [[2.6]]
+--+ '' =(M	META\ [[2.6]]
+--+ '' =YKNYH	IEXONIOU [[2.6]]
+--+ '' =MLK	TOU= BASILE/WS [[2.6]]
+--+ '' =YHWDH	IOUDAI/AS [[2.6]]
+--+ '' =W/ZH	KAI\ TOU=TO
+--+ '' =XLM/W	AU)TOU= TO\ E)NU/PNION
+--+ '' =W/HNH	KAI\ I)DOU\
+--+ '' =QWL	FWNAI\
+--+ '' =MHWMH	KAI\ QO/RUBOS
+--+ '' =R(M	BRONTAI\
+--+ '' =W/R($	KAI\ SEISMO/S
+--+ '' =?BHLH,MHWMH	TA/RAXOS
+--+ ''	E)PI\
+--+ '' =H/)RC	TH=S GH=S
+--+ '' =W/HNH	KAI\ I)DOU\
+--+ '' =$NY	DU/O
+--+ '' =TNYNYM	DRA/KONTES
+--+ '' =GDWLYM	MEGA/LOI
+--+ '' =(RWKYM <j20.22^>	E(/TOIMOI <ss23.5>
+--+ '' =ZH	{...}
+--+ '' =L/QR)T	PROH=LQON
+--+ '' =ZH {...ZH}	A)MFO/TEROI
+--+ '' =L/MLXMH	PALAI/EIN
+--+ '' =W/YHY	KAI\ E)GE/NETO
+--+ '' =QWL/M	AU)TW=N ^ FWNH\
+--+ '' =GDWL	MEGA/LH
+--+ '' =W/L/QWL/M	KAI\ TH=| FWNH=| AU)TW=N
+--+ '' =(RKW <j20.22>	H(TOIMA/SQH
+--+ ''	PA=N
+--+ '' =H/GWYYM	E)/QNOS
+--+ '' =L/MLXMH	EI)S PO/LEMON
+--+ ''	W(/STE
+--+ '' =L/HLXM	POLEMH=SAI
+--+ '' =CDYQ	DIKAI/WN
+--+ '' =GWY	E)/QNOS
+--+ '' =W/HNH	KAI\ I)DOU\
+--+ '' =YWM	H(ME/RA
+--+ '' =X$K	SKO/TOUS
+--+ '' =W/)PYLH	KAI\ GNO/FOU
+--+ ''	QLI=YIS
+--+ ''	KAI\ STENOXWRI/A
+--+ ''	KA/KWSIS
+--+ ''	KAI\ TA/RAXOS
+--+ ''	ME/GAS
+--+ ''	E)PI\
+--+ ''	TH=S GH=S
+--+ ''	KAI\ E)TARA/XQH
+--+ ''	DI/KAION
+--+ ''	PA=N
+--+ ''	E)/QNOS
+--+ ''	FOBOU/MENOI
+--+ ''	TA\ E(AUTW=N
+--+ ''	KAKA\
+--+ '' =W/(TYDYM <es3.14,8.13	KAI\ H(TOIMA/SQHSAN
+--+ '' =L/)BD	A)POLE/SQAI
+--+ '' =W/YC(QW	KAI\ E)BO/HSAN
+--+ ''	PRO\S
+--+ ''	TO\N QEO/N
+--+ '' =W/M/C(QT/M	A)PO\ ^ DE\ TH=S BOH=S AU)TW=N
+--+ ''	E)GE/NETO
+--+ ''	W(SANEI\
+--+ '' =M/M(YN	A)PO\ {..^PHGH=S}
+--+ '' =Q+N	MIKRA=S
+--+ '' ={...}	PHGH=S
+--+ '' =NXL	POTAMO\S
+--+ '' =GDWL	ME/GAS
+--+ '' =MYM	U(/DWR
+--+ '' =RBYM	POLU/
+--+ '' =W/YHY	---
+--+ '' =)WR	FW=S
+--+ '' =W/H/$M$	KAI\ O( H(/LIOS
+--+ ''	A)NE/TEILEN
+--+ ''	KAI\ OI( TAPEINOI\
+--+ ''	U(YW/QHSAN
+--+ ''	KAI\ KATE/FAGON
+--+ ''	TOU\S E)NDO/COUS
+--+ '' =W/YT(RR	KAI\ DIEGERQEI\S
+--+ '' =:MRDKY	MARDOXAI=OS
+--+ ''	O(
+--+ '' =R)H	E(WRAKW\S
+--+ '' =)T H/XLWM	TO\ E)NU/PNION
+--+ '' =H/ZH	TOU=TO
+--+ '' =W/MH	KAI\ TI/
+--+ ''	O( QEO\S
+--+ ''	BEBOU/LEUTAI
+--+ '' =L/(&WT	POIH=SAI
+--+ '' =W/Y$MR	EI)=XEN
+--+ '' =)T/W	AU)TO\
+--+ '' =B/LB/W	E)N TH=| KARDI/A|
+--+ ''	KAI\ E)N PANTI\
+--+ ''	LO/GW|
+--+ ''	H)/QELEN
+--+ ''	E)PIGNW=NAI
+--+ ''	AU)TO\
+--+ '' =(D	E(/WS
+--+ '' =H/(RB	TH=S NUKTO/S
+--+ ''	KAI\ H(SU/XASEN
+--+ '' =:MRDKY	MARDOXAI=OS
+--+ '' =B/XCR <1.5>,B/$(R #	E)N TH=| AU)LH=|
+H/MLK <2.19>	#
+--+ '' =(M	META\
+--+ '' =:GBTN, BGTN .m	GABAQA
+--+ '' =:W/TR$	KAI\ QARRA
+--+ '' =$NY	TW=N DU/O
+--+ '' =SRYSY	EU)NOU/XWN
+--+ '' =H/MLK	TOU= BASILE/WS
+--+ '' =$WMRY	TW=N FULASSO/NTWN
+--+ '' =H/$(R	TH\N AU)LH\N
+--+ ''	H)/KOUSE/N TE
+--+ ''	AU)TW=N TOU\S LOGISMOU\S
+--+ ''	KAI\ TA\S MERI/MNAS AU)TW=N
+--+ ''	E)CHREU/NHSEN
+--+ ''	KAI\ E)/MAQEN
+--+ ''	O(/TI
+--+ ''	E(TOIMA/ZOUSIN
+--+ ''	TA\S XEI=RAS
+--+ ''	E)PIBALEI=N
+--+ ''	A)RTACE/RCH|
+--+ ''	TW=| BASILEI=
+--+ ''	KAI\ U(PE/DEICEN
+--+ ''	TW=| BASILEI=
+--+ ''	PERI\ AU)TW=N
+--+ ''	KAI\ E)CH/TASEN
+--+ ''	O( BASILEU\S
+--+ ''	TOU\S
+--+ ''	DU/O
+--+ ''	EU)NOU/XOUS
+--+ ''	KAI\ O(MOLOGH/SANTES
+--+ ''	A)PH/XQHSAN
+--+ ''	KAI\ E)/GRAYEN
+--+ ''	O( BASILEU\S
+--+ ''	TOU\S LO/GOUS
+--+ ''	TOU/TOUS
+--+ ''	EI)S MNHMO/SUNON
+--+ ''	KAI\ MARDOXAI=OS
+--+ ''	E)/GRAYEN
+--+ ''	PERI\ TW=N LO/GWN
+--+ ''	TOU/TWN
+--+ ''	KAI\ E)PE/TACEN
+--+ ''	O( BASILEU\S
+--+ ''	MARDOXAI/W|
+--+ '' =@Y$B <6.10>	QERAPEU/EIN
+--+ '' =;B/$(R H/MLK <6.10>	E)N TH=| AU)LH=|
+--+ ''	KAI\ E)/DWKEN
+--+ ''	AU)TW=|
+--+ ''	DO/MATA
+--+ ''	PERI\ TOU/TWN
+--+ ''	KAI\ H)=N
+--+ ''	AMAN
+--+ ''	AMADAQOU
+--+ '' =:H/)GGY <3.1>	BOUGAI=OS
+--+ ''	E)/NDOCOS
+--+ ''	E)NW/PION
+--+ ''	TOU= BASILE/WS
+--+ ''	KAI\ E)ZH/THSEN
+--+ ''	KAKOPOIH=SAI
+--+ ''	TO\N MARDOXAI=ON
+--+ ''	KAI\ TO\N LAO\N AU)TOU=
+--+ ''	U(PE\R
+--+ ''	TW=N DU/O
+--+ ''	EU)NOU/XWN
+--+ ''	TOU= BASILE/WS
+W/YHY	KAI\ E)GE/NETO [1.1s]
+--+ =)XR	META\ [1.1s]
+--+ =H/DBRYM	TOU\S LO/GOUS [1.1s]
+--+ =H/)LH	TOU/TOUS [1.1s]
+B/YMY	E)N TAI=S H(ME/RAIS [1.1s]
+)X$WRW$	A)RTACE/RCOU [1.1s]
+HW)	OU(=TOS [1.1s]
+)X$WRW$	O( A)RTACE/RCHS [1.1s]
+H/MLK	{..^E)KRA/THSEN} [1.1s]
+M/HDW	A)PO\ TH=S I)NDIKH=S [1.1s]
+W/(D	--- [1.1s]
+KW$	--- [1.1s]
+$B( W/(&RYM W/M)H	E(KATO\N ^ EI)/KOSI ^ E(PTA\ [1.1s]
+MDYNH	XWRW=N [1.1s]
+{...}	E)KRA/THSEN [1.1s]
+
+Esth 1:2
+B/YMYM	E)N {..^TAI=S H(ME/RAIS}
+H/HM	AU)TAI=S
+{...}	TAI=S H(ME/RAIS
+K/$BT {...(L KS) MLKWT/W}	O(/TE E)QRONI/SQH
+H/MLK	O( BASILEU\S
+)X$WRW$	A)RTACE/RCHS
+(L	{...}
+KS)	{...}
+MLKWT/W	{...}
+)$R	---
+B/$W$N	E)N SOU/SOIS
+H/BYRH	TH=| PO/LEI
+
+Esth 1:3
+B/$NT	E)N TW=| {..^E)/TEI}
+$LW$	TRI/TW|
+{...}	E)/TEI
+L/MLK/W	BASILEU/ONTOS AU)TOU=
+(&H	{..^E)POI/HSEN}
+M$TH	DOXH\N
+{...}	E)POI/HSEN
+L/KL	TOI=S ---
+{...L/} &R/YW	{...TOI=S} FI/LOIS
+W/(BD/YW =;W/H/(MYM <1.11>	KAI\ TOI=S {+} LOIPOI=S E)/QNESIN
+XYL	{...d?E)NDO/COIS}
+PRS	KAI\ TOI=S PERSW=N
+W/MDY	KAI\ MH/DWN
+H/PRTMYM	E)NDO/COIS
+W/&RY	KAI\ TOI=S A)/RXOUSIN
+H/MDYNWT	TW=N SATRAPW=N
+L/PN/YW	---
+
+Esth 1:4
+--+	KAI\ META\
+--+	TAU=TA
+B/HR)T/W	META\ TO\ DEI=CAI
+--+	AU)TOI=S
+)T ($R {...?KBWD}	TO\N PLOU=TON
+KBWD	--- ?
+MLKWT/W	TH=S BASILEI/AS AU)TOU=
+W/)T YQR	KAI\ TH\N DO/CAN
+TP)RT	TH=S EU)FROSU/NHS
+GDWLT/W	TOU= PLOU/TOU AU)TOU=
+{...}	E)PI\
+YMYM {...YWM}	{..pE)PI\} H(ME/RAS
+RBYM	---
+$MWNYM W/M)T	E(KATO\N ^ O)GDOH/KONTA
+YWM	{...}
+
+Esth 1:5
+W/B/MLW)T	O(/TE DE\ ^ A)NEPLHRW/QHSAN
+H/YMYM	AI( H(ME/RAI
+H/)LH =??	TOU= GA/MOU
+(&H	E)POI/HSEN
+H/MLK	O( BASILEU\S
+^^^ ^ =M$TH	PO/TON
+L/KL	TOI=S
+H/(M	E)/QNESIN
+H/NMC)YM	TOI=S EU(REQEI=SIN
+B/$W$N	EI)S ---
+H/BYRH	TH\N PO/LIN
+L/M/GDWL	---
+W/(D	---
+Q+N	---
+^ M$TH	^^^
+{...}	E)PI\
+$B(T =+	{..^E(\C}
+YMYM	{..pE)PI\} H(ME/RAS
+{...}	E(\C
+B/XCR	E)N AU)LH=|
+GNT	---
+BYTN	OI)/KOU
+H/MLK	TOU= BASILE/WS
+
+Esth 1:6
+--+	KEKOSMHME/NH|
+XWR	BUSSI/NOIS
+KRPS	KAI\ KARPASI/NOIS {t?}
+W/TKLT	---
+)XWZ	TETAME/NOIS
+B/XBLY	E)PI\ SXOINI/OIS
+BWC	BUSSI/NOIS
+W/)RGMN	KAI\ PORFUROI=S
+(L	E)PI\
+GLYLY	KU/BOIS
+--+ =ZHB	XRUSOI=S
+KSP	KAI\ A)RGUROI=S
+W/(MWDY {..r(L}	E)PI\ STU/LOIS
+--+	PARI/NOIS
+$$	KAI\ LIQI/NOIS
+M+WT	KLI=NAI
+ZHB	XRUSAI=
+W/KSP	KAI\ A)RGURAI=
+(L	E)PI\
+RCPT	LIQOSTRW/TOU
+BH+	SMARAGDI/TOU LI/QOU
+--+	KAI\ PINNI/NOU
+W/$$	KAI\ PARI/NOU LI/QOU
+--+ ''	KAI\ STRWMNAI\
+--+ ''	DIAFANEI=S
+--+ ''	POIKI/LWS
+--+ ''	DIHNQISME/NAI
+{...}	KU/KLW|
+W/DR =WRD .m	R(O/DA
+W/SXRT	{...?KU/KLW|} PEPASME/NA
+
+Esth 1:7
+W/H$QWT	---
+B/KLY	POTH/RIA
+ZHB	XRUSA=
+--+	KAI\ A)RGURA=
+W/KLYM	--- {x}
+M/KLYM	--- {x}
+$WNYM	--- {x}
+--+ '' {x}	KAI\ A)NQRA/KINON
+--+ '' {x}	KULI/KION
+--+ '' {x}	PROKEI/MENON
+--+ '' {x}	A)PO\ TALA/NTWN
+--+ '' {x}	TRISMURI/WN
+W/YYN	OI)=NOS
+MLKWT	--- {x}
+RB	POLU\S
+--+ {x}	KAI\ H(DU/S
+K/YD	O(\N AU)TO\S {...E)/PINEN}
+H/MLK	O( BASILEU\S
+--+	E)/PINEN
+
+Esth 1:8
+W/H/$TYH	O( ^ DE\ PO/TOS
+--+	OU(=TOS
+{...}	OU)
+K/DT	KATA\ PROKEI/MENON NO/MON E)GE/NETO
+)YN	{..^OU)}
+)NS	---
+KY	{..^DE\}
+KN	OU(/TWS
+{...}	DE\
+YSD	H)QE/LHSEN {d?} {..^KAI\ E)PE/TACEN}
+H/MLK	O( BASILEU\S
+{...}	KAI\ E)PE/TACEN
+(L	TOI=S
+KL	---
+{...(L} RB BYT/W	{...TOI=S} OI)KONO/MOIS
+L/(&WT	POIH=SAI
+K/RCWN	TO\ QE/LHMA AU)TOU=
+)Y$ W/)Y$	KAI\ TW=N A)NQRW/PWN
+
+Esth 1:9
+GM	KAI\
+W$TY	ASTIN
+H/MLKH	H( BASI/LISSA
+(&TH	E)POI/HSE
+M$TH	PO/TON
+N$YM	TAI=S GUNAICI\N
+BYT H/MLKWT	E)N TOI=S BASILEI/OIS
+)$R {...L/}	O(/POU
+L/MLK	O( BASILEU\S
+)X$WRW$	A)RTACE/RCHS
+
+Esth 1:10
+B/YWM	E)N DE\ TH=| H(ME/RA|
+H/$BY(Y	TH=| E(BDO/MH|
+K/+WB LB	H(DE/WS GENO/MENOS
+H/MLK	O( BASILEU\S
+B/YYN	---
+)MR	EI)=PEN
+L/MHWMN	TW=| AMAN
+BZT)	KAI\ BAZAN
+XRBWN) =:?TR$	KAI\ QARRA
+BGT)	KAI\ BWRAZH
+W/)BGT)	KAI\ ZAQOLQA
+ZTR	KAI\ ABATAZA
+W/KRKS	KAI\ QARABA
+$B(T	TOI=S E(PTA\
+H/SRYSYM	{...TOI=S} EU)NOU/XOIS
+H/M$RTYM )T PNY	TOI=S DIAKO/NOIS
+H/MLK	TOU= BASILE/WS
+)X$WRW$	A)RTACE/RCOU
+
+Esth 1:11
+L/HBY)	EI)SAGAGEI=N
+)T W$TY	---
+H/MLKH	TH\N BASI/LISSAN
+L/PNY	PRO\S AU)TO\N
+H/MLK =??	BASILEU/EIN AU)TH\N
+B/KTR MLKWT	KAI\ PERIQEI=NAI AU)TH=| TO\ DIA/DHMA
+L/HR)WT	KAI\ DEI=CAI
+--+	AU)TH\N
+--+	PA=SIN
+H/(MYM ^ =H/&RYM	TOI=S A)/RXOUSIN
+^ W/H/&RYM =W/H/(MYM	KAI\ TOI=S E)/QNESIN
+)T YPY/H	TO\ KA/LLOS AU)TH=S
+KY	O(/TI
++WBT MR)H	KALH\
+HY)	H)=N
+
+Esth 1:12
+W/TM)N	KAI\ OU)K EI)SH/KOUSEN
+{...}	AU)TOU=
+H/MLKH ^ =W$TY	ASTIN
+^ W$TY =H/MLKH	H( BASI/LISSA
+L/BW)	E)LQEI=N
+B/DBR H/MLK	{..^AU)TOU=}
+)$R B/YD	META\
+H/SRYSYM	TW=N EU)NOU/XWN
+W/YQCP	KAI\ E)LUPH/QH
+H/MLK	O( BASILEU\S
+M)D	---
+W/XMT/W B(RH B/W	KAI\ W)RGI/SQH
+
+Esth 1:13
+W/Y)MR	KAI\ EI)=PEN
+H/MLK	---
+L/XKMYM	TOI=S FI/LOIS AU)TOU=
+YD(Y	---
+H/(TYM	---
+KY	--- ?
+KN =%p+	KATA\ TAU=TA
+DBR =?DBRH	E)LA/LHSEN
+H/MLK =:?W$TY	ASTIN
+L/PNY	--- {x}
+KL	--- {x}
+YD(Y	--- {x}
+--+ '' {x}	POIH/SATE
+--+ '' {x}	OU)=N
+--+ '' {x}	PERI\
+--+ '' {x}	TOU/TOU
+DT	NO/MON
+W/DYN	KAI\ KRI/SIN
+
+Esth 1:14
+W/H/QRB =v	KAI\ PROSH=LQEN
+)L/YW	AU)TW=|
+KR$N)	ARKESAIOS
+$TR	KAI\ SARSAQAIOS
+)DMT)	KAI\ MALHSEAR
+TR$Y$	--- ''
+MRS	--- ''
+MRSN)	--- ''
+MMWKN	--- ''
+$B(T	--- ''
+&RY	OI( A)/RXONTES
+PRS	PERSW=N
+W/MDY	KAI\ MH/DWN
+R)Y PNY	OI( E)GGU\S
+H/MLK	TOU= BASILE/WS
+H/Y$BYM	OI( {..^PARAKAQH/MENOI}
+R)$NH	PRW=TOI
+{...}	PARAKAQH/MENOI
+B/MLKWT	TW=| BASILEI=
+
+Esth 1:15
+--+	KAI\ A)PH/GGEILAN
+--+	AU)TW=|
+K/DT	KATA\ TOU\S NO/MOUS
+MH	W(S DEI=
+L/(&WT	POIH=SAI
+B/MLKH ^ =B/W$TY	ASTIN
+^ W$TY =H/MLKH	TH=| BASILI/SSH|
+(L )$R	O(/TI
+L)	OU)K
+(&TH	E)POI/HSEN
+)T M)MR	TA\ {..^PROSTAXQE/NTA}
+{...}	U(PO\
+H/MLK	{..pU(PO\} TOU= BASILE/WS
+)X$WRW$	---
+{...}	PROSTAXQE/NTA
+B/YD	DIA\
+H/SRYSYM	TW=N EU)NOU/XWN
+
+Esth 1:16
+W/Y)MR	KAI\ EI)=PEN
+*MWMKN **MMWKN	O( MOUXAIOS
+L/PNY	PRO\S
+H/MLK	TO\N BASILE/A
+W/H/&RYM	KAI\ TOU\S A)/RXONTAS
+L)	OU)
+(L H/MLK	TO\N BASILE/A
+L/BD/W	MO/NON
+(WTH	H)DI/KHSEN
+W$TY	ASTIN
+H/MLKH	H( BASI/LISSA
+KY	A)LLA\ KAI\
+(L KL	PA/NTAS
+H/&RYM	TOU\S A)/RXONTAS
+W/(L	KAI\ {..dTOU\S}
+KL	---
+H/(MYM	TOU\S H(GOUME/NOUS
+)$R	---
+B/KL	---
+MDYNWT	---
+H/MLK	TOU= BASILE/WS
+)X$WRW$	---
+
+Esth 1:17
+KY	KAI\ GA\R
+YC)	DIHGH/SATO
+--+	AU)TOI=S
+DBR	TA\ R(H/MATA
+H/MLKH	TH=S BASI/LISSHS
+(L	---
+KL	---
+H/N$YM	---
+L/HBZWT {...?B/(YN/YHN}	{...A)TIMA/SAI} [18]
+B(L/YHN	{...TOU\S A)/NDRAS AU)TW=N} [18]
+B/(YN/YHN	--- ?
+B/)MR/M	--- {x}
+H/MLK	{..^TW=| BASILEI=}
+)X$WRW$	{..^A)RTACE/RCH|}
+)MR	--- {x}
+L/HBY)	--- {x}
+)T W$TY	--- {x}
+H/MLKH	--- {x}
+L/PN/YW	--- {x}
+W/L)	--- {x}
+B)H	--- {x}
+--+ {x}	KAI\ W(S A)NTEI=PEN
+--+ {x}	TW=| BASILEI=
+--+ {x}	W(S OU)=N
+--+ {x}	A)NTEI=PEN
+{...}	TW=| BASILEI=
+{...}	A)RTACE/RCH|
+
+Esth 1:18
+W/H/YWM H/ZH	OU(/TWS SH/MERON
+T)MRNH =TMRYNH	{..^TOLMH/SOUSIN}
+&RWT	AI( TURANNI/DES
+--+	AI( LOIPAI\
+--+	TW=N A)RXO/NTWN
+PRS	PERSW=N
+W/MDY	KAI\ MH/DWN
+)$R $M(W	A)KOU/SASAI
+)T DBR	TA\ {..^LEXQE/NTA}
+--+ =L/MLK	TW=| BASILEI=
+H/MLKH	{..p^U(P'} {..^AU)TH=S}
+{...}	LEXQE/NTA
+{...}	U(P'
+{...}	AU)TH=S
+{...}	TOLMH/SOUSIN
+--+ =?GM HN	O(MOI/WS
+L/KL	---
+&RY	---
+H/MLK	---
+{...}	A)TIMA/SAI [[17]]
+{...}	TOU\S A)/NDRAS AU)TW=N [[17]]
+W/K/DY	---
+BZYWN	---
+W/QCP	---
+
+Esth 1:19
+)M	EI) OU)=N
+(L H/MLK	{..^TW=| BASILEI=}
++WB	DOKEI=
+{...}	TW=| BASILEI=
+YC) DBR {...M/L/PN/YW}	PROSTACA/TW
+MLKWT	BASILIKO/N
+M/L/PN/YW	{...}
+W/YKTB	KAI\ GRAFH/TW
+B/DTY =%p	KATA\ TOU\S NO/MOUS
+PRS ^ =MDY	MH/DWN
+^ W/MDY =W/PRS	KAI\ PERSW=N
+W/L)	KAI\ MH\
+Y(BWR	A)/LLWS XRHSA/SQW
+)$R L)	MHDE\
+TBW)	EI)SELQA/TW
+--+	E)/TI
+W$TY =H/MLKH	H( BASI/LISSA
+L/PNY H/MLK )X$WRW$	PRO\S AU)TO/N
+W/MLKWT/H	KAI\ TH\N BASILEI/AN AU)TH=S
+YTN	DO/TW
+H/MLK	O( BASILEU\S
+L/R(WT/H	GUNAIKI\
+H/+WBH {...M/}	KREI/TTONI
+M/MN/H	{s} AU)TH=S
+
+Esth 1:20
+W/N$M(	KAI\ A)KOUSQH/TW
+PTGM	O( NO/MOS
+{...}	O( U(PO\
+H/MLK	{..pO( U(PO\} TOU= BASILE/WS
+)$R	O(\N E)A\N
+Y(&H	POIH=|
+B/KL	E)N ---
+MLKWT/W	TH=| BASILEI/A| AU)TOU=
+KY	---
+RBH	---
+HY)	---
+{...}	KAI\
+--+	OU(/TWS
+W/KL	{...KAI\} PA=SAI
+H/N$YM	AI( GUNAI=KES
+YTNW	PERIQH/SOUSIN
+YQR	TIMH\N
+L/B(L/YHN	TOI=S A)NDRA/SIN E(AUTW=N
+L/M/GDWL ^ ? =L/M/Q+N	A)PO\ PTWXOU=
+W/(D	E(/WS
+^ ? Q+N =GDWL	PLOUSI/OU
+
+Esth 1:21
+W/YY+B {...B/(YNY}	KAI\ H)/RESEN
+H/DBR	O( LO/GOS
+B/(YNY	{...}
+H/MLK	TW=| BASILEI=
+W/H/&RYM	KAI\ TOI=S A)/RXOUSI
+W/Y(&	KAI\ E)POI/HSEN
+H/MLK	O( BASILEU\S
+K/DBR	KAQA\ E)LA/LHSEN
+MMWKN	O( MOUXAIOS
+
+Esth 1:22
+W/Y$LX	KAI\ A)PE/STEILEN
+SPRYM	---
+)L	EI)S
+KL	PA=SAN
+MDYNWT H/MLK	TH\N BASILEI/AN
+)L MDYNH W/MDYNH #	KATA\ XW/RAN
+{...?W/)L (M W/(M} <8.9>	#
+K/KTB/H {...K/L$WN/W}	KATA\ TH\N LE/CIN AU)TW=N
+W/)L	--- ?
+(M	--- ?
+W/(M	--- ?
+K/L$WN/W	{...}
+L/HYWT	W(/STE EI)=NAI
+KL )Y$	{..^AU)TOI=S}
+&RR	FO/BON
+{...}	AU)TOI=S
+B/BYT/W	E)N TAI=S OI)KI/AIS AU)TW=N
+W/MDBR	---
+K/L$WN	---
+(M/W	---
+
+Esth 2:1
+)XR	KAI\ META\
+H/DBRYM	TOU\S LO/GOUS
+H/)LH	TOU/TOUS
+K/$K =%p-	E)KO/PASEN
+XMT	{..^TOU= QUMOU=}
+H/MLK	O( BASILEU\S
+)X$WRW$	---
+{...}	TOU= QUMOU=
+--+	KAI\ OU)KE/TI
+ZKR	E)MNH/SQH {..^MNHMONEU/WN}
+)T W$TY	TH=S ASTIN
+{...}	MNHMONEU/WN
+W/)T )$R	OI(=A
+(&TH	E)LA/LHSEN
+W/)T )$R	KAI\ W(S
+NGZR	KATE/KRINEN
+(L/YH	AU)TH/N
+
+Esth 2:2
+W/Y)MRW	KAI\ EI)=PAN
+N(RY {...?M$RT/YW}	OI( DIA/KONOI
+H/MLK	TOU= BASILE/WS
+M$RT/YW	--- ?
+YBQ$W	ZHTHQH/TW
+L/MLK	TW=| BASILEI=
+N(RWT	KORA/SIA
+BTWLWT	A)/FQORA
++WBWT	KALA\
+MR)H	TW=| EI)/DEI
+
+Esth 2:3
+W/YPQD	KAI\ KATASTH/SEI
+H/MLK	O( BASILEU\S
+PQYDYM	KWMA/RXAS
+B/KL	E)N PA/SAIS
+MDYNWT	TAI=S XW/RAIS
+MLKWT/W	TH=S BASILEI/AS AU)TOU=
+W/YQBCW	KAI\ E)PILECA/TWSAN
+)T KL	---
+N(RH	KORA/SIA
+BTWLH	PARQENIKA\
++WBT	KALA\
+MR)H	TW=| EI)/DEI
+)L	EI)S
+$W$N	SOUSAN
+H/BYRH	TH\N PO/LIN
+)L	EI)S
+BYT H/N$YM	TO\N GUNAIKW=NA
+--+ )L YD	KAI\ PARADOQH/TWSAN
+HG)	---
+SRYS	TW=| EU)NOU/XW|
+H/MLK	TOU= BASILE/WS
+$MR	TW=| FU/LAKI
+H/N$YM	TW=N GUNAIKW=N
+W/NTWN	KAI\ DOQH/TW
+TMRWQ/YHN	SMH=GMA {+} KAI\ H( LOIPH\ E)PIME/LEIA
+
+Esth 2:4
+W/H/N(RH	KAI\ H( GUNH/
+)$R	H(\ A)\N
+TY+B B/(YNY	A)RE/SH|
+H/MLK	TW=| BASILEI=
+TMLK	BASILEU/SEI
+TXT	A)NTI\
+W$TY	ASTIN
+W/YY+B {...B/(YNY}	KAI\ H)/RESEN
+H/DBR	{..^TO\ PRA=GMA}
+B/(YNY	{...}
+H/MLK	TW=| BASILEI=
+{...}	TO\ PRA=GMA
+W/Y(&	KAI\ E)POI/HSEN
+KN	OU(/TWS
+
+Esth 2:5
+)Y$	KAI\ A)/NQRWPOS
+YHWDY	{..^IOUDAI=OS}
+HYH	H)=N
+{...}	IOUDAI=OS
+B/$W$N	E)N SOU/SOIS
+H/BYRH	TH=| PO/LEI
+W/$M/W	KAI\ O)/NOMA AU)TW=|
+MRDKY	MARDOXAI=OS
+BN	O( TOU=
+Y)YR	IAI+ROU
+BN	TOU=
+$M(Y	SEMEI+OU
+BN	TOU=
+QY$	KISAIOU
+)Y$	E)K FULH=S
+YMYNY	BENIAMIN
+
+Esth 2:6
+)$R	O(\S
+HGLH	H)=N AI)XMA/LWTOS
+M/YRW$LYM	E)C IEROUSALHM
+(M	--- ''
+H/GLH	--- ''
+)$R	--- ''
+HGLTH	--- ''
+(M	--- ''
+YKNYH	--- ''
+MLK	--- ''
+YHWDH	--- ''
+)$R	H(\N
+HGLH	H)|XMALW/TEUSEN
+NBWKDN)CR	NABOUXODONOSOR
+MLK	BASILEU\S
+BBL	BABULW=NOS
+
+Esth 2:7
+W/YHY )MN {...)T HDSH}	KAI\ H)=N TOU/TW| PAI=S QREPTH/
+)T HDSH	--- ?
+HY) ^	^^^
+)STR ^	^^^
+BT	QUGA/THR
+--+ =:?(MYNDB	AMINADAB
+DD/W	A)DELFOU= PATRO\S AU)TOU=
+^ ^^^ =HY),W/$M/H	KAI\ O)/NOMA AU)TH=|
+^ ^^^ =)STR	ESQHR
+KY	--- ''
+)YN	--- ''
+L/H	--- ''
+)B	--- ''
+W/)M	--- ''
+^^^ ^ =W/B/MWT	E)N DE\ TW=| METALLA/CAI
+^^^ ^ =)BY/H W/)M/H	AU)TH=S ^ TOU\S GONEI=S
+^^^ ^ =LQX/H	E)PAI/DEUSEN AU)TH\N
+^^^ ^ =L/W	E(AUTW=|
+^^^ ^ =L/BT,L/)$H	EI)S GUNAI=KA
+W/H/N(RH	KAI\ H)=N TO\ KORA/SION
+YPT	--- ?
+T)R	--- ?
+{...?YPT} W/+WBT	KALO\N
+{...?T)R} MR)H	TW=| EI)/DEI
+^ W/B/MWT	^^^
+^ )B/YH W/)M/H	^^^
+^ LQX/H	^^^
+MRDKY	---
+^ L/W	^^^
+^ L/BT	^^^
+
+Esth 2:8
+W/YHY B/H$M(	KAI\ O(/TE H)KOU/SQH
+DBR {...?W/DT/W}	TO\ {..^PRO/STAGMA}
+H/MLK	TOU= BASILE/WS
+{...}	PRO/STAGMA
+W/DT/W	--- ?
+W/B/HQBC	SUNH/XQHSAN
+N(RWT	KORA/SIA
+RBWT	POLLA\
+)L	EI)S
+$W$N	SOUSAN
+H/BYRH	TH\N PO/LIN
+)L YD	U(PO\ XEI=RA
+HGY	GAI
+W/TLQX	KAI\ H)/XQH
+)STR	ESQHR
+)L	---
+BYT	---
+H/MLK	---
+)L YD	PRO\S
+HGY	GAI
+$MR	TO\N FU/LAKA
+H/N$YM	TW=N GUNAIKW=N
+
+Esth 2:9
+W/TY+B {...B/(YN/YW}	KAI\ H)/RESEN AU)TW=|
+H/N(RH	TO\ KORA/SION
+B/(YN/YW	{...}
+W/T&)	KAI\ EU(=REN
+XSD	XA/RIN
+L/PN/YW	E)NW/PION AU)TOU=
+W/YBHL	KAI\ E)/SPEUSEN
+^^^ ^ {...}	AU)TH=|
+^^^ ^ =L/TT	DOU=NAI
+^^^ ^ =L/H	{..^AU)TH=|}
+)T TMRWQ/YH	TO\ SMH=GMA
+W/)T MNWT/H	KAI\ TH\N MERI/DA
+^ L/TT	^^^
+^ L/H	^^^
+W/)T $B(	KAI\ TA\ E(PTA\
+H/N(RWT	KORA/SIA
+H/R)YWT L/TT	TA\ A)PODEDEIGME/NA
+L/H	AU)TH=|
+M/BYT H/MLK	E)K BASILIKOU=
+W/Y$N/H	KAI\ E)XRH/SATO AU)TH=|
+{...}	KALW=S
+W/)T N(RWT/YH	KAI\ TAI=S A(/BRAIS AU)TH=S
+L/+WB	{..^KALW=S}
+{...}	E)N
+BYT H/N$YM	{..pE)N} TW=| GUNAIKW=NI
+
+Esth 2:10
+L)	KAI\ OU)X
+HGYDH	U(PE/DEICEN
+)STR	ESQHR
+)T (M/H	TO\ GE/NOS AU)TH=S
+W/)T MWLDT/H {..rL)}	OU)DE\ TH\N PATRI/DA
+{...}	O(
+{...}	GA\R
+KY	{..^GA\R}
+MRDKY	{...O(} MARDOXAI=OS
+CWH	E)NETEI/LATO
+(L/YH	AU)TH=|
+)$R L)	MH\
+TGYD	A)PAGGEI=LAI
+
+Esth 2:11
+W/B/KL YWM W/YWM	KAQ' E(KA/STHN ^ DE\ H(ME/RAN
+MRDKY	O( MARDOXAI=OS
+MTHLK	PERIEPA/TEI
+L/PNY	KATA\
+XCR	TH\N AU)LH\N
+BYT H/N$YM	TH\N GUNAIKEI/AN
+L/D(T	E)PISKOPW=N
+{...}	TI/
+)T $LWM {...Y(&H B/H}	{..^SUMBH/SETAI}
+)STR	ESQHR
+{...}	SUMBH/SETAI
+W/MH	{..^TI/}
+Y(&H	{...}
+B/H	{...}
+
+Esth 2:12
+W/B/HGY(	OU(=TOS DE\ ^ H)=N
+TR	KAIRO\S
+N(RH W/N(RH	KORASI/OU
+L/BW)	EI)SELQEI=N
+)L	PRO\S
+H/MLK	TO\N BASILE/A
+)X$WRW$	---
+M/QC HYWT L/H	O(/TAN A)NAPLHRW/SH|
+K/DT	---
+H/N$YM	---
+{...}	MH=NAS
+$NYM (&R	DE/KA ^ DU/O
+XD$	{..^MH=NAS}
+KY	{..^GA\R}
+KN	OU(/TWS
+{...}	GA\R
+YML)W	A)NAPLHROU=NTAI
+YMY	AI( H(ME/RAI
+MRWQ/YHN	TH=S QERAPEI/AS
+$$H	{..^E(\C}
+XD$YM	MH=NAS
+{...}	E(\C
+--+	A)LEIFO/MENAI
+B/$MN	E)N {..^E)LAI/W}
+H/MR	SMURNI/NW|
+{...}	E)LAI/W|
+W/$$H	KAI\ {..^E(\C}
+XD$YM	MH=NAS
+{...}	E(\C
+B/B&MYM	E)N TOI=S A)RW/MASIN
+W/B/TMRWQY	KAI\ E)N TOI=S SMH/GMASIN
+H/N$YM	TW=N GUNAIKW=N
+
+Esth 2:13
+W/B/ZH	KAI\ TO/TE
+H/N(RH	---
+B)H	EI)SPOREU/ETAI
+)L	PRO\S
+H/MLK	TO\N BASILE/A
+)T KL )$R	KAI\ O(\ E)A\N --- ?
+T)MR	EI)/PH|
+YNTN =%vpa	PARADW/SEI
+L/H	AU)TH=|
+L/BW)	SUNEISE/RXESQAI
+(M/H	AU)TH=|
+M/BYT H/N$YM	A)PO\ TOU= GUNAIKW=NOS
+(D	E(/WS
+BYT H/MLK	TW=N BASILEI/WN
+
+Esth 2:14
+B/(RB	DEI/LHS
+HY) B)H	EI)SPOREU/ETAI
+W/B/BQR	KAI\ PRO\S H(ME/RAN
+HY) $BH	A)POTRE/XEI
+)L	EI)S
+BYT H/N$YM	TO\N GUNAIKW=NA
+$NY	TO\N DEU/TERON
+)L YD =??	OU(=
+$($GZ =:HGY	GAI
+SRYS	O( EU)NOU=XOS
+H/MLK	TOU= BASILE/WS
+$MR	O( FU/LAC
+H/PYLG$YM	TW=N GUNAIKW=N
+L) {...(WD}	KAI\ OU)KE/TI
+TBW)	EI)SPOREU/ETAI
+(WD	{...}
+)L	PRO\S
+H/MLK	TO\N BASILE/A
+KY )M	E)A\N MH\
+XPC	---
+B/H	---
+H/MLK	---
+W/NQR)H	KLHQH=|
+B/$M	O)NO/MATI
+
+Esth 2:15
+W/B/HGY(	E)N ^ DE\ TW=| A)NAPLHROU=SQAI
+TR	TO\N XRO/NON
+)STR	ESQHR
+BT	TH=S QUGATRO\S
+)BYXYL =:(MYNDB	AMINADAB
+DD	A)DELFOU= PATRO\S
+MRDKY	MARDOXAI/OU
+)$R	--- ''
+LQX	--- ''
+L/W	--- ''
+L/BT	--- ''
+L/BW)	EI)SELQEI=N
+)L	PRO\S
+H/MLK	TO\N BASILE/A
+L) {...DBR}	OU)DE\N
+BQ$H =??	H)QE/THSEN
+DBR	{...}
+KY )M	---
+)T )$R	W(=N
+--+	AU)TH=|
+Y)MR	E)NETEI/LATO
+HGY	---
+SRYS	O( EU)NOU=XOS
+H/MLK	---
+$MR	O( FU/LAC
+H/N$YM	TW=N GUNAIKW=N
+W/THY	H)=N ^ GA\R
+)STR	ESQHR
+N&)T	EU(RI/SKOUSA
+XN	XA/RIN
+B/(YNY	PARA\
+KL	PA/NTWN
+R)/YH	TW=N BLEPO/NTWN AU)TH/N
+
+Esth 2:16
+W/TLQX =%vpa	KAI\ EI)SH=LQEN
+)STR	ESQHR
+)L	PRO\S
+H/MLK	{..^TO\N BASILE/A}
+)X$WRW$	A)RTACE/RCHN
+{...}	TO\N BASILE/A
+)L	---
+BYT	---
+MLKWT/W	---
+B/XD$	TW=| {..^MHNI/}
+H/(&YRY =+	DWDEKA/TW|
+{...}	MHNI/
+HW)	O(/S E)STIN
+XD$	---
++BT =)DR	ADAR
+B/$NT	TW=| {..^E)/TEI}
+$B(	E(BDO/MW|
+{...}	E)/TEI
+L/MLKWT/W	TH=S BASILEI/AS AU)TOU=
+
+Esth 2:17
+W/Y)HB	KAI\ H)RA/SQH
+H/MLK	O( BASILEU\S
+)T )STR	ESQHR
+M/KL	---
+H/N$YM	---
+W/T&)	KAI\ EU(=REN
+XN	XA/RIN
+W/XSD	---
+L/PN/YW	---
+M/KL	PARA\ PA/SAS
+H/BTWLT	TA\S PARQE/NOUS
+W/Y&M	KAI\ E)PE/QHKEN
+{...}	AU)TH=|
+KTR	TO\ DIA/DHMA
+MLKWT =??	TO\ GUNAIKEI=ON
+B/R)$/H	{..^AU)TH=|}
+W/YMLYK/H	---
+TXT	---
+W$TY	---
+
+Esth 2:18
+W/Y(&	KAI\ E)POI/HSEN
+H/MLK	O( BASILEU\S
+M$TH	PO/TON
+GDWL	---
+L/KL	PA=SI
+&R/YW	TOI=S FI/LOIS AU)TOU=
+W/(BD/YW	KAI\ TAI=S DUNA/MESIN
+--+ ''	E)PI\
+--+ ''	H(ME/RAS
+--+ ''	E(PTA\
+--+ ''	KAI\ U(/YWSEN
+)T M$TH	TOU\S GA/MOUS
+)STR	ESQHR
+W/HNXH	KAI\ A)/FESIN
+L/MDYNWT	{..^TOI=S U(PO\ TH\N BASILEI/AN AU)TOU=}
+(&H	E)POI/HSEN
+{...}	TOI=S U(PO\ TH\N BASILEI/AN AU)TOU=
+W/YTN	--- ''
+M&)T	--- ''
+K/YD	--- ''
+H/MLK	--- ''
+
+Esth 2:19
+W/B/HQBC	--- ''
+BTWLWT	--- ''
+$NYT	--- ''
+W/MRDKY	O( DE\ ^ MARDOXAI=OS
+Y$B	E)QERA/PEUEN
+B/$(R {...?H/MLK}	E)N TH=| AU)LH=|
+H/MLK	--- ?
+
+Esth 2:20
+{...}	H(
+)YN	DE\ {..^OU)X}
+)STR	{...H(} ESQHR
+{...}	OU)X
+MGDT	U(PE/DEICEN
+MWLDT/H	TH\N PATRI/DA AU)TH=S
+W/)T (M/H	---
+K/)$R	OU(/TWS GA\R
+CWH	E)NETEI/LATO
+(L/YH	AU)TH=|
+MRDKY	MARDOXAI=OS
+--+	FOBEI=SQAI
+--+	TO\N QEO\N
+{...}	KAI\ POIEI=N
+W/)T M)MR {...?MRDKY}	TA\ PROSTA/GMATA AU)TOU=
+MRDKY	--- ?
+)STR	{..^KAI\ ESQHR}
+(&H	{..^KAI\ POIEI=N} {d?} {..^OU( #
+#	METH/LLACEN}
+K/)$R	KAQW\S
+HYTH	H)=N
+{...}	MET' AU)TOU=
+{...}	KAI\ ESQHR
+--+ ?	OU)
+--+ ?	METH/LLACEN
+B/)MNH	TH\N A)GWGH\N AU)TH=S
+)T/W	{..^MET' AU)TOU=}
+
+Esth 2:21
+B/YMYM	--- ''
+H/HM	--- ''
+W/MRDKY	--- ''
+Y$B	--- ''
+B/$(R	--- ''
+H/MLK	--- ''
+QCP	KAI\ E)LUPH/QHSAN
+BGTN	---
+W/TR$	---
+$NY	OI( DU/O
+SRYSY	{...OI(} EU)NOU=XOI
+H/MLK	TOU= BASILE/WS
+M/$MRY H/SP	OI( A)RXISWMATOFU/LAKES
+--+	O(/TI
+--+	PROH/XQH
+--+	MARDOXAI=OS
+W/YBQ$W	KAI\ E)ZH/TOUN
+L/$LX YD	A)POKTEI=NAI
+B/MLK	{..^TO\N BASILE/A}
+)X$WR$	A)RTACE/RCHN
+{...}	TO\N BASILE/A
+
+Esth 2:22
+W/YWD(	KAI\ E)DHLW/QH
+{...}	MARDOXAI/W|
+H/DBR	O( LO/GOS
+L/MRDKY	{..^MARDOXAI/W|}
+W/YGD	KAI\ E)SH/MANEN
+L/)STR	ESQHR
+H/MLKH	---
+W/T)MR	KAI\ {..^E)NEFA/NISEN}
+)STR	AU)TH\
+{...}	E)NEFA/NISEN
+L/MLK	TW=| BASILEI=
+--+ {x}	TA\ TH=S E)PIBOULH=S
+B/$M	--- {x}
+MRDKY	--- {x}
+
+Esth 2:23
+--+	O( DE\ BASILEU\S
+W/YBQ$ =%vpa	{...DE\} H)/TASEN
+H/DBR	--- ?
+{...?H/DBR} {...$N/YHM}	TOU\S DU/O EU)NOU/XOUS
+W/YMC)	---
+W/YTLW =%vpa	KAI\ E)KRE/MASEN
+$N/YHM	AU)TOU/S {..^TOU\S DU/O EU)NOU/XOUS}
+(L	---
+(C	---
+W/YKTB =%vpa	KAI\ PROSE/TACEN {..^KATAXWRI/SAI}
+B/SPR DBRY H/YMYM	{..^E)N TH=| BASILIKH=| BIBLIOQH/KH|}
+L/PNY	---
+H/MLK	O( BASILEU\S
+{...}	KATAXWRI/SAI
+--+	EI)S MNHMO/SUNON
+{...}	E)N TH=| BASILIKH=| BIBLIOQH/KH|
+--+ ''	U(PE\R
+--+ ''	TH=S EU)NOI/AS
+--+ ''	MARDOXAI/OU
+--+ ''	E)N E)GKWMI/W|
+
+Esth 3:1
+)XR	META\ DE\
+H/DBRYM H/)LH	TAU=TA
+GDL	E)DO/CASEN
+H/MLK	O( BASILEU\S
+)X$WRW$	A)RTACE/RCHS
+)T HMN	AMAN
+BN HMDT)	AMADAQOU
+H/)GGY =??	BOUGAI=ON
+W/YN&)/HW	KAI\ U(/YWSEN AU)TO/N
+W/Y&M )T KS)/W M/(L	KAI\ E)PRWTOBA/QREI
+KL	PA/NTWN
+H/&RYM	TW=N FI/LWN
+)$R )T/W	AU)TOU=
+
+Esth 3:2
+W/KL	KAI\ PA/NTES
+(BDY	---
+H/MLK	---
+)$R	OI(
+B/$(R {...?H/MLK}	E)N TH=| AU)LH=|
+H/MLK	--- ?
+KR(YM W/M$TXWYM	PROSEKU/NOUN
+L/HMN	AU)TW=|
+KY	{..^GA\R}
+KN	OU(/TWS
+{...}	GA\R
+CWH	PROSE/TACEN
+L/W	---
+H/MLK	O( BASILEU\S
+--+	POIH=SAI
+W/MRDKY	O( ^ DE\ MARDOXAI=OS
+L) YKR( W/L) Y$TXWH	OU) PROSEKU/NEI
+--+	AU)TW=|
+
+Esth 3:3
+W/Y)MRW	KAI\ E)LA/LHSAN
+(BDY	---
+H/MLK	---
+)$R	OI(
+B/$(R	E)N TH=| AU)LH=|
+H/MLK	TOU= BASILE/WS
+L/MRDKY	TW=| MARDOXAI/W|
+--+ =:MRDKY	MARDOXAI=E
+MDW(	TI/
+)TH (WBR	PARAKOU/EIS
+)T MCWT	TA\ {..^LEGO/MENA}
+{...}	U(PO\
+H/MLK	{..pU(PO\} TOU= BASILE/WS
+{...}	LEGO/MENA
+
+Esth 3:4
+W/YHY	---
+{...}	KAQ' E(KA/STHN H(ME/RAN
+*B/)MR/M **K/)MR/M	E)LA/LOUN
+)L/YW	AU)TW=|
+YWM W/YWM {...B/}	{..^KAQ' E(KA/STHN H(ME/RAN}
+W/L)	KAI\ OU)X
+$M(	U(PH/KOUEN
+)L/YHM	AU)TW=N
+W/YGYDW	KAI\ U(PE/DEICAN
+L/HMN	TW=| AMAN
+L/R)WT	---
+H/Y(MDW	{..^A)NTITASSO/MENON}
+DBRY	{..^LO/GOIS}
+MRDKY	MARDOXAI=ON
+--+	TOI=S TOU= BASILE/WS
+{...}	LO/GOIS
+{...}	A)NTITASSO/MENON
+KY	KAI\
+HGYD	U(PE/DEICEN
+L/HM	AU)TOI=S
+--+ =:MRDKY	O( MARDOXAI=OS
+)$R	O(/TI
+HW)	{..^E)STIN}
+YHWDY	IOUDAI=O/S
+{...}	E)STIN
+
+Esth 3:5
+W/YR)	KAI\ E)PIGNOU\S
+HMN	AMAN
+KY	O(/TI
+)YN	OU)
+MRDKY	{..^MARDOXAI=OS}
+KR( W/M$TXWH	PROSKUNEI=
+L/W	AU)TW=|
+{...}	MARDOXAI=OS
+W/YML) {...XMH}	E)QUMW/QH SFO/DRA
+HMN	---
+XMH	{...}
+
+Esth 3:6
+W/YBZ	--- ''
+B/(YN/YW	--- ''
+L/$LX	--- ''
+YD	--- ''
+B/MRDKY	--- ''
+L/BD/W	--- ''
+KY	--- ''
+HGYDW	--- ''
+L/W	--- ''
+)T (M	--- ''
+MRDKY	--- ''
+W/YBQ$	KAI\ E)BOULEU/SATO
+HMN	---
+L/H$MYD	A)FANI/SAI
+)T KL	PA/NTAS
+H/YHWDYM	{..^IOUDAI/OUS}
+)$R	TOU\S
+B/KL	U(PO\ --- ?
+MLKWT	{..^TH\N} {..^BASILEI/AN}
+)X$WRW$	TH\N A)RTACE/RCOU
+{...}	BASILEI/AN
+{...}	IOUDAI/OUS
+(M	--- ''
+MRDKY	--- ''
+
+Esth 3:7
+B/XD$	--- ''
+H/R)$WN	--- ''
+HW)	--- ''
+XD$	--- ''
+NYSN	--- ''
+--+ ?	KAI\ E)POI/HSEN
+--+ ?	YH/FISMA
+B/$NT	E)N E)/TEI
+$TYM (&RH	DWDEKA/TW|
+L/MLK	TH=S BASILEI/AS
+)X$WRW$	A)RTACE/RCOU
+HPYL	KAI\ E)/BALEN {d?} {...KAI\ E)POI/HSEN}
+PWR {...H/GWRL}	{..^KLH/ROUS} {d?} {...YH/FISMA}
+HW)	---
+H/GWRL	KLH/ROUS
+L/PNY	---
+HMN	---
+M/YWM L/YWM	H(ME/RAN E)C H(ME/RAS
+W/M/XD$ L/XD$	KAI\ MH=NA E)K MHNO\S
+--+ '' =;L/H$MYD,L/HRG,W/L)BD	{+} W(/STE A)POLE/SAI
+{...}	E)N
+{...}	MI=A|
+--+ '' =;B/YWM <3.13,8.12>	{..^E)N} H(ME/RA|
+--+ '' =;)XD <3.13,8.12>	{..^MI=A|}
+--+ '' =;(M <3.6>	TO\ GE/NOS
+--+ '' =:MRDKY <3.6>	MARDOXAI/OU
+--+ '' =W/YPL	KAI\ E)/PESEN
+--+ '' =;H/GWRL	O( KLH=ROS
+--+ '' =B/)RB( (&R	EI)S TH\N TESSARESKAIDEKA/THN
+--+ '' =;L/XD$ <3.13>	TOU= MHNO/S
+$NYM (&R	---
+HW)	O(/S E)STIN
+XD$	---
+)DR	ADAR
+
+Esth 3:8
+W/Y)MR	KAI\ E)LA/LHSEN
+HMN	---
+L/MLK	PRO\S TO\N BASILE/A
+)X$WRW$	A)RTACE/RCHN
+--+ =L/)MR	LE/GWN
+Y$NW	U(PA/RXEI
+(M	E)/QNOS
+)XD	---
+MPZR W/MPRD	DIESPARME/NON --- ?
+BYN	E)N TOI=S
+H/(MYM	E)/QNESIN
+B/KL	E)N PA/SH|
+MDYNWT	---
+MLKWT/K	TH=| BASILEI/A| SOU
+W/DT/YHM	OI( DE\ NO/MOI AU)TW=N
+$NWT	E)/CALLOI
+M/KL	PARA\ PA/NTA
+(M	TA\ E)/QNH
+W/)T DTY	TW=N DE\ NO/MWN
+H/MLK	TOU= BASILE/WS
+)YN/M (&YM	PARAKOU/OUSIN
+W/L/MLK ^	^^^
+)YN	KAI\ OU)
+$WH	SUMFE/REI
+^^^ =L/MLK	TW=| BASILEI=
+L/HNYX/M	E)A=SAI AU)TOU/S
+
+Esth 3:9
+)M	EI)
+{...}	DOKEI=
+(L	TW=|
+H/MLK	BASILEI=
++WB	{..^DOKEI=}
+YKTB =%vpa	DOGMATISA/TW
+L/)BD/M	A)POLE/SAI AU)TOU/S
+W/(&RT )LPYM ^	^^^
+KKR ^	^^^
+KSP ^	^^^
+)$QWL {...W/}	KA)GW\ DIAGRA/YW
+(L YDY	--- ''
+(&Y	--- ''
+H/ML)KH	--- ''
+L/HBY)	--- ''
+)L	EI)S
+GNZY	TO\ GAZOFULA/KION
+H/MLK	TOU= BASILE/WS
+^ ^^^ =KSP	A)RGURI/OU
+^ ^^^ =KKR	TA/LANTA
+^ ^^^ =(&RT )LPYM	MU/RIA
+
+Esth 3:10
+W/YSR {...M/(L} {...?YD/W}	KAI\ PERIELO/MENOS
+H/MLK	O( BASILEU\S
+)T +B(T/W	TO\N DAKTU/LION
+YD/W	--- ?
+W/YTN/H	E)/DWKEN
+{...L/} {...?YD}	EI)S XEI=RA
+L/HMN	TW=| AMAN
+BN	---
+HMDT)	---
+H/)GGY	---
+CRR =@ <is8.16>	SFRAGI/SAI
+--+	KATA\ TW=N GEGRAMME/NWN
+H/YHWDYM	KATA\ TW=N IOUDAI/WN
+
+Esth 3:11
+W/Y)MR	KAI\ EI)=PEN
+H/MLK	O( BASILEU\S
+L/HMN	TW=| AMAN
+H/KSP	TO\ ME\N A)RGU/RION
+NTWN L/K =%vpa	E)/XE
+W/H/(M {...B/W}	TW=| DE\ ^ E)/QNEI
+L/(&WT	XRW=
+B/W	---
+K/+WB B/(YN/YK	W(S BOU/LEI
+
+Esth 3:12
+W/YQR)W	KAI\ E)KLH/QHSAN
+SPRY	OI( GRAMMATEI=S
+H/MLK	TOU= BASILE/WS
+B/XD$	MHNI\
+H/R)$WN	PRW/TW|
+B/$LW$H (&R YWM B/W	TH=| TRISKAIDEKA/TH|
+YWM B/W	--- ?
+W/YKTB =%vpa	KAI\ E)/GRAYAN
+K/KL )$R	W(S --- ?
+CWH	E)PE/TACEN
+HMN	AMAN
+)L )X$DRPNY {...?H/MLK}	TOI=S STRATHGOI=S
+H/MLK	--- ?
+W/)L H/PXWT	KAI\ TOI=S A)/RXOUSIN
+)$R (L	KATA\
+MDYNH W/MDYNH	PA=SAN XW/RAN
+--+ '' =:M/HDW <1.1,8.9>	A)PO\ I)NDIKH=S
+--+ '' =;(D <1.1,8.9>	E(/WS
+--+ '' =:KW$ <1.1,8.9>	TH=S AI)QIOPI/AS
+--+ '' =;$B( W/(&RYM W/M)H #	TAI=S ^ E(KATO\N EI)/KOSI ^ E(PTA\
+<1.1,8.9>	#
+--+ '' =;MDYNH <1.1,8.9>	XW/RAIS
+W/)L &RY	TOI=S TE A)/RXOUSI
+(M W/(M	TW=N E)QNW=N
+MDYNH	--- ''
+W/MDYNH	--- ''
+K/KTB/H	--- ''
+W/(M	--- ''
+W/(M	--- ''
+K/L$WN/W	KATA\ TH\N AU)TW=N ^ LE/CIN
+B/$M	DI'
+{...}	A)RTACE/RCOU
+H/MLK	TOU= BASILE/WS
+)X$WR$	{..^A)RTACE/RCOU}
+NKTB	--- ''
+W/NXTM	--- ''
+B/+B(T	--- ''
+H/MLK	--- ''
+
+Esth 3:13
+W/N$LWX	KAI\ A)PESTA/LH
+SPRYM	{...}
+B/YD	DIA\
+{...SPRYM} H/RCYM	BIBLIAFO/RWN
+)L	EI)S
+KL	--- ?
+{...?KL} MDYNWT H/MLK	{..^BASILEI/AN}
+--+ =:)X$WRW$	TH\N A)RTACE/RCOU
+{...}	BASILEI/AN
+L/H$MYD L/HRG W/L/)BD	A)FANI/SAI --- ?
+)T KL =?M/N(R W/(D ZQN +P #	TO\ GE/NOS
+=W/N$YM	#
+H/YHWDYM	TW=N IOUDAI/WN
+M/N(R	--- ? ''
+W/(D	--- ? ''
+ZQN	--- ? ''
++P	--- ? ''
+W/N$YM	--- ? ''
+B/YWM	E)N H(ME/RA|
+)XD	MIA=|
+B/$LW$H (&R	---
+L/XD$	MHNO\S
+$NYM (&R	DWDEKA/TOU
+HW)	O(/S E)STIN
+XD$	---
+)DR	ADAR
+W/$LL/M	KAI\ DIARPA/SAI
+L/BWZ	TA\ U(PA/RXONTA AU)TW=N
+--+ =W/ZH	{..^DE\} {..^TO/DE}
+--+	TH=S
+--+ ={...}	DE\
+--+ ={...}	E)PISTOLH=S E)STIN
+--+ =;PT$GN <3.14>	TO\ A)NTI/GRAFON
+--+ =;H/KTB	{...^TH=S} {...^E)PISTOLH=S E)STIN}
+--+ ={...}	TO/DE
+--+ =H/MLK	BASILEU\S
+--+ =H/GDWL	ME/GAS
+--+ =:)X$WRW$	A)RTACE/RCHS
+--+ ={...}	TOI=S
+--+ =:M/HDW <1.1>	A)PO\ TH=S I)NDIKH=S
+--+ =;(D <1.1>	E(/WS
+--+ =:KWS <1.1>	TH=S AI)QIOPI/AS
+--+ =;$B( W/(&RYM W/M)H <1.1>	E(KATO\N ^ EI)/KOSI E(PTA\
+--+ =;MDYNH <1.1>	XWRW=N
+--+	{...TOI=S} A)/RXOUSI
+--+	KAI\ TOPA/RXAIS
+--+	U(POTETAGME/NOIS
+--+	TA/DE
+--+	GRA/FEI
+--+	POLLW=N
+--+	E)PA/RCAS
+--+	E)QNW=N
+--+	KAI\ PA/SHS
+--+	E)PIKRATH/SAS
+--+	OI)KOUME/NHS
+--+	E)BOULH/QHN
+--+	MH\
+--+	TW=| QRA/SEI
+--+	TH=S E)COUSI/AS
+--+	E)PAIRO/MENOS
+--+	E)PIEIKE/STERON DE\
+--+	KAI\ META\ H)PIO/THTOS
+--+	A)EI\
+--+	DIECA/GWN
+--+	TOU\S TW=N U(POTETAGME/NWN
+--+	A)KUMA/TOUS
+--+	DIA\ PANTO\S
+--+	KATASTH=SAI
+--+	BI/OUS
+--+	TH/N TE BASILEI/AN
+--+	H(/MERON
+--+	KAI\ POREUTH\N
+--+	ME/XRI
+--+	PERA/TWN
+--+	PARECO/MENOS
+--+	A)NANEW/SASQAI/
+--+	TE TH\N POQOUME/NHN
+--+	TOI=S PA=SIN
+--+	A)NQRW/POIS
+--+	EI)RH/NHN
+--+	PUQOME/NOU DE/ MOU
+--+	TW=N SUMBOU/LWN
+--+	PW=S A)\N
+--+	A)XQEI/H
+--+	TOU=TO
+--+	E)PI\
+--+	PE/RAS
+--+	SWFROSU/NH|
+--+	PAR'
+--+	H(MI=N
+--+	DIENE/GKAS
+--+	KAI\ E)N TH=| EU)NOI/A|
+--+	A)PARALLA/KTWS
+--+	KAI\ BEBAI/A|
+--+	PI/STEI
+--+	A)PODEDEIGME/NOS
+--+	KAI\ DEU/TERON
+--+	TW=N BASILEIW=N
+--+	GE/RAS
+--+	A)PENHNEGME/NOS
+--+	AMAN
+--+	E)PE/DEICEN
+--+	H(MI=N
+--+	E)N PA/SAIS
+--+	TAI=S KATA\ TH\N OI)KOUME/NHN
+--+	FULAI=S
+--+	A)NAMEMEI=XQAI
+--+	DUSMENH=
+--+	LAO/N
+--+	TINA
+--+	TOI=S NO/MOIS
+--+	A)NTI/QETON
+--+	PRO\S PA=N
+--+	E)/QNOS
+--+	TA/ TE TW=N BASILE/WN
+--+	PARAPE/MPONTAS
+--+	DIHNEKW=S
+--+	DIATA/GMATA
+--+	PRO\S TO\ MH\
+--+	KATATI/QESQAI
+--+	TH\N U(F' H(MW=N
+--+	KATEUQUNOME/NHN
+--+	A)ME/MPTWS
+--+	SUNARXI/AN
+--+	DIEILHFO/TES
+--+	OU)=N
+--+	TO/DE
+--+	TO\ E)/QNOS
+--+	MONW/TATON
+--+	E)N A)NTIPARAGWGH=|
+--+	PANTI\
+--+	DIA\ PANTO\S
+--+	A)NQRW/PW|
+--+	KEI/MENON
+--+	DIAGWGH\N
+--+	NO/MWN
+--+	CENI/ZOUSAN
+--+	PARALLA/SSON
+--+	KAI\ DUSNOOU=N
+--+	TOI=S H(METE/ROIS
+--+	PRA/GMASIN
+--+	TA\ XEI/RISTA
+--+	SUNTELOU=N
+--+	KAKA\
+--+	KAI\ PRO\S TO\ MH\
+--+	TH\N BASILEI/AN
+--+	EU)STAQEI/AS
+--+	TUGXA/NEIN
+--+	PROSTETA/XAMEN
+--+	OU)=N
+--+	TOU\S SHMAINOME/NOUS
+--+	U(MI=N
+--+	E)N TOI=S GEGRAMME/NOIS
+--+	U(PO\
+--+	AMAN
+--+	TOU= TETAGME/NOU
+--+	E)PI\
+--+	TW=N PRAGMA/TWN
+--+	KAI\ DEUTE/ROU
+--+	PATRO\S H(MW=N
+--+	PA/NTAS
+--+	SU\N GUNAICI\
+--+	KAI\ TE/KNOIS
+--+	A)POLE/SAI
+--+	O(LORRIZEI\
+--+	TAI=S TW=N E)XQRW=N
+--+	MAXAI/RAIS
+--+	A)/NEU
+--+	PANTO\S
+--+	OI)/KTOU
+--+	KAI\ FEIDOU=S
+--+	TH=| TESSARESKAIDEKA/TH|
+--+	TOU= DWDEKA/TOU
+--+	MHNO\S
+--+	ADAR
+--+	TOU= E)NESTW=TOS
+--+	E)/TOUS
+--+	O(/PWS
+--+	OI( PA/LAI
+--+	KAI\ NU=N
+--+	DUSMENEI=S
+--+	E)N H(ME/RA|
+--+	MIA=|
+--+	BIAI/WS
+--+	EI)S TO\N A(/|DHN
+--+	KATELQO/NTES
+--+	EI)S TO\N METE/PEITA
+--+	XRO/NON
+--+	EU)STAQH=
+--+	KAI\ A)TA/RAXA
+--+	PARE/XWSIN
+--+	H(MI=N
+--+	DIA\ TE/LOUS
+--+	TA\ PRA/GMATA
+
+Esth 3:14
+PT$GN	TA\ DE\ A)NTI/GRAFA
+H/KTB	TW=N E)PISTOLW=N
+L/HNTN DT	E)CETI/QETO
+B/KL MDYNH W/MDYNH	KATA\ XW/RAN --- ?
+GLWY	KAI\ PROSETA/GH
+L/KL	PA=SI
+H/(MYM	TOI=S E)/QNESIN
+L/HYWT	{..^EI)=NAI}
+(TDYM	E(TOI/MOUS
+{...}	EI)=NAI
+L/YWM	EI)S TH\N H(ME/RAN
+H/ZH	TAU/THN
+
+Esth 3:15
+H/RCYM	---
+YC)W DXWPYM	E)SPEU/DETO DE\
+B/DBR	TO\ PRA=GMA
+H/MLK	---
+W/H/DT	---
+NTNH	---
+B/$W$N =%p	KAI\ EI)S SOUSAN
+H/BYRH	---
+W/H/MLK	O( DE\ ^ BASILEU\S
+W/HMN	KAI\ AMAN
+Y$BW L/$TWT	E)KWQWNI/ZONTO
+W/H/(YR	{..^H( DE\ PO/LIS}
+$W$N	---
+NBWKH	E)TARA/SSETO DE\
+{...}	H( PO/LIS
+
+Esth 4:1
+W/MRDKY	O( DE\ ^ MARDOXAI=OS
+YD(	E)PIGNOU\S
+)T KL	---
+)$R	TO\
+N(&H	SUNTELOU/MENON
+W/YQR(	DIE/RRHCEN
+MRDKY	---
+)T BGD/YW	TA\ I(MA/TIA AU)TOU=
+W/YLB$	KAI\ E)NEDU/SATO
+&Q	SA/KKON
+--+	KAI\ KATEPA/SATO
+W/)PR	SPODO\N
+W/YC)	KAI\ E)KPHDH/SAS
+B/TWK =?B/RXWB	DIA\ TH=S PLATEI/AS
+H/(YR	TH=S PO/LEWS
+W/YZ(Q	E)BO/A
+Z(QH	FWNH=|
+GDLH	MEGA/LH|
+W/MRH	---
+--+ '' =;Y)BD <is26.14^>	AI)/RETAI
+--+ '' =(M	E)/QNOS
+--+ ''	MHDE\N
+--+ ''	H)DIKHKO/S
+
+Esth 4:2
+W/YBW)	KAI\ H)=LQEN
+(D L/PNY	E(/WS
+$(R	TH=S PU/LHS
+H/MLK	TOU= BASILE/WS
+--+	KAI\ E)/STH
+KY	{..^GA\R}
+)YN	OU) {..^H)=N}
+{...}	GA\R
+{...}	H)=N
+--+	E)CO\N AU)TW=|
+L/BW)	EI)SELQEI=N
+)L	EI)S
+$(R {...?H/MLK}	TH\N AU)LH\N
+H/MLK	--- ?
+B/LBW$	{..^E)/XONTI}
+&Q	SA/KKON
+{...}	E)/XONTI
+--+	KAI\ SPODO/N
+
+Esth 4:3
+W/B/KL	KAI\ E)N PA/SH|
+MDYNH W/MDYNH	XW/RA| --- ?
+MQWM )$R	OU(=
+DBR {...?W/DT/W}	{..^TA\ GRA/MMATA}
+H/MLK	---
+W/DT/W	{...}
+MGY( {...?W/DT/W}	E)CETI/QETO
+{...}	TA\ GRA/MMATA
+^^^ ^ =W/BKY	KRAUGH\
+^^^ ^ =W/MSPD	KAI\ KOPETO\S
+)BL	KAI\ PE/NQOS
+GDWL	ME/GA
+L/YHWDYM	TOI=S IOUDAI/OIS
+W/CWM	---
+^ W/BKY	^^^
+^ W/MSPD	^^^
+&Q	SA/KKON
+W/)PR	KAI\ SPODO\N
+YC( =%vpa	E)/STRWSAN
+L/RBYM	E(AUTOI=S
+
+Esth 4:4
+*W/TBW)YNH **W/TB)WNH	KAI\ EI)SH=LQON
+N(RWT	AI( A(/BRAI
+)STR =?H/MLKH	{..^TH=S BASILI/SSHS}
+W/SRYS/YH	KAI\ OI( EU)NOU=XOI
+{...}	TH=S BASILI/SSHS
+W/YGYDW	KAI\ A)NH/GGEILAN
+L/H	AU)TH=|
+W/TTXLXL	KAI\ E)TARA/XQH
+H/MLKH	--- ?
+M)D	---
+--+	A)KOU/SASA
+--+	TO\ GEGONO\S
+W/T$LX	KAI\ A)PE/STEILEN
+BGDYM	--- ?
+{...?BGDYM} L/HLBY$	STOLI/SAI
+)T MRDKY	TO\N MARDOXAI=ON
+W/L/HSYR	KAI\ A)FELE/SQAI
+&Q/W	AU)TOU= ^ TO\N SA/KKON
+M/(L/YW	---
+W/L)	O( DE\ ^ OU)K
+QBL	E)PEI/SQH
+
+Esth 4:5
+W/TQR) {...L/}	{..^PROSEKALE/SATO} {..^DE\}
+)STR	H( DE\ ESQHR
+{...}	PROSEKALE/SATO
+L/HTK =??	{p} AXRAQAI=ON
+M/SRYSY H/MLK =?SRYS H/MLKH	TO\N EU)NOU=XON AU)TH=S
+)$R	O(\S
+H(MYD {...L/PN/} =%vpa	PAREISTH/KEI
+L/PN/YH	{p} AU)TH=|
+W/TCW/HW	KAI\ A)PE/STEILEN
+(L	{..^PARA\}
+MRDKY	{..^TOU= MARDOXAI/OU}
+L/D(T	MAQEI=N AU)TH=|
+{...}	PARA\
+{...}	TOU= MARDOXAI/OU
+MH ZH W/(L MH ZH	TO\ A)KRIBE/S
+
+Esth 4:6
+W/YC)	--- ''
+HTK	--- ''
+)L	--- ''
+MRDKY	--- ''
+)L	--- ''
+RXWB	--- ''
+H/(YR	--- ''
+)$R	--- ''
+L/PNY	--- ''
+$(R	--- ''
+H/MLK	--- ''
+
+Esth 4:7
+W/YGD	{..^U(PE/DICEN}{...DE\}
+L/W	{..^AU)TW=}
+MRDKY	O( DE\ MARDOXAI=OS
+{...}	U(PE/DEICEN
+{...}	AU)TW=|
+)T KL	---
+)$R	TO\
+QR/HW	GEGONO\S
+W/)T PR$T	KAI\ TH\N E)PAGGELI/AN
+H/KSP	---
+)$R	H(\N
+)MR	E)PHGGEI/LATO
+HMN	AMAN
+{...}	TW=| BASILEI=
+L/$QWL	---
+(L	EI)S
+GNZY	TH\N GA/ZAN {t}
+H/MLK	{..^TW=| BASILEI=}
+--+	TALA/NTWN
+--+	MURI/WN
+*B/YHWDYYM **B/YHWDYM	{..^TOU\S IOUDAI/OUS}
+L/)BD/M	I(/NA A)POLE/SH|
+{...}	TOU\S IOUDAI/OUS
+
+Esth 4:8
+W/)T PT$GN KTB	KAI\ TO\ A)NTI/GRAFON
+H/DT	--- ?
+)$R	TO\
+{...?H/DT} NTN	{..^E)KTEQE\N}
+B/$W$N	E)N SOU/SOIS
+{...}	E)KTEQE\N
+L/H$MYD/M	U(PE\R TOU= A)POLE/SQAI AU)TOU\S
+NTN	E)/DWKEN
+L/W	AU)TW=|
+L/HR)WT	DEI=CAI
+)T )STR	TH=| ESQHR
+W/L/HGYD	KAI\ EI)=PEN
+L/H	AU)TW=|
+W/L/CWWT	E)NTEI/LASQAI
+(L/YH	AU)TH=|
+L/BW) )L	EI)SELQOU/SH|
+H/MLK {...L/W}	{..^TO\N BASILE/A}
+L/HTXNN	PARAITH/SASQAI
+L/W	TO\N BASILE/A
+W/L/BQ$	KAI\ A)CIW=SAI
+M/L/PN/YW	AU)TO\N
+(L	PERI\
+(M/H	TOU= LAOU=
+--+ ''	MNHSQEI=SA
+--+ ''	H(MERW=N
+--+ ''	TAPEINW/SEW/S SOU
+--+ ''	W(S E)TRA/FHS
+--+ ''	E)N XEIRI/ MOU
+--+ ''	DIO/TI
+--+ ''	AMAN
+--+ ''	O( DEUTEREU/WN
+--+ ''	TW=| BASILEI=
+--+ ''	E)LA/LHSEN
+--+ ''	KAQ' H(MW=N
+--+ ''	EI)S QA/NATON
+--+ ''	E)PIKA/LESAI
+--+ ''	TO\N KU/RION
+--+ ''	KAI\ LA/LHSON
+--+ ''	TW=| BASILEI=
+--+ ''	PERI\ H(MW=N
+--+ ''	KAI\ R(U=SAI H(MA=S
+--+ ''	E)K QANA/TOU
+
+Esth 4:9
+W/YBW)	EI)SELQW\N ^ DE\
+HTK	O( AXRAQAI=OS
+W/YGD	E)LA/LHSEN
+L/)STR	AU)TH=|
+)T --+	PA/NTAS
+DBRY	TOU\S LO/GOUS
+MRDKY	TOU/TOUS
+
+Esth 4:10
+W/T)MR	EI)=PEN ^ DE\
+)STR	ESQHR
+L/HTK	PRO\S AXRAQAI=ON
+W/TCW/HW	POREU/QHTI
+)L	PRO\S
+MRDKY	MARDOXAI=ON
+--+	KAI\ EI)PO\N
+--+	O(/TI
+
+Esth 4:11
+KL	{..^PA/NTA}
+(BDY	--- ?
+H/MLK	--- ?
+W/(M	TA\ E)/QNH
+{...}	PA/NTA
+{...?(BDY H/MLK} MDYNWT #	TH=S BASILEI/AS
+H/MLK <5.11^>	#
+YWD(YM	GINW/SKEI
+)$R	O(/TI
+KL	PA=S
+)Y$	A)/NQRWPOS
+W/)$H	H)\ GUNH/
+)$R	O(\S
+YBW)	EI)SELEU/SETAI
+)L	PRO\S
+H/MLK	TO\N BASILE/A
+)L	EI)S
+H/XCR	TH\N AU)LH\N
+H/PNYMYT	TH\N E)SWTE/RAN
+)$R L) YQR)	A)/KLHTOS
+)XT DT/W L/HMYT	OU)K E)/STIN AU)TW=| SWTHRI/A
+L/BD	PLH\N
+M/)$R {...L/W}	W(=|
+YW$Y+	E)KTEI/NEI
+L/W	{...}
+H/MLK	O( BASILEU\S
+)T $RBY+	TH\N {..^R(A/BDON}
+H/ZHB	XRUSH=N
+{...}	R(A/BDON
+W/XYH	OU(=TOS SWQH/SETAI
+W/)NY	KA)GW\
+L)	OU)
+NQR)TY	KE/KLHMAI
+L/BW)	EI)SELQEI=N
+)L	PRO\S
+H/MLK	TO\N BASILE/A
+ZH	EI)SI\N AU(=TAI
+$LW$YM	{..^TRIA/KONTA}
+YWM	H(ME/RAI
+{...}	TRIA/KONTA
+
+Esth 4:12
+W/YGYDW	KAI\ A)PH/GGEILEN
+--+ =:HTK	AXRAQAI=OS
+L/MRDKY	MARDOXAI/W|
+)T --+	PA/NTAS
+DBRY	TOU\S LO/GOUS
+)STR	ESQHR
+
+Esth 4:13
+W/Y)MR	KAI\ EI)=PEN
+MRDKY	MARDOXAI=OS
+--+	PRO\S
+--+ =:HTK	AXRAQAI=ON
+--+ ?	POREU/QHTI
+L/H$YB	{...?POREU/QHTI} KAI\ EI)PO\N
+)L =?L/H	AU)TH=|
+)STR	ESQHR
+)L	MH\
+TDMY	EI)/PH|S
+B/NP$/K	SEAUTH=|
+L/HML+	O(/TI SWQH/SH|
+--+	MO/NH
+{...}	E)N
+BYT H/MLK	{..pE)N} TH=| BASILEI/A|
+M/KL	PARA\ PA/NTAS
+H/YHWDYM	TOU\S IOUDAI/OUS
+
+Esth 4:14
+KY )M	W(S O(/TI E)A\N
+HXR$ TXRY$Y {!}-	PARAKOU/SH|S
+B/(T	E)N {..^TW=| KAIRW=|}
+H/Z)T	TOU/TW|
+{...}	TW=| KAIRW=|
+{...}	A)/LLOQEN
+RWX	BOH/QEIA
+W/H/CLH	KAI\ SKE/PH
+Y(MWD	E)/STAI
+L/YHWDYM	TOI=S IOUDAI/OIS
+M/MQWM )XR	{..^A)/LLOQEN}
+W/)T	SU\ ^ DE\
+W/BYT	KAI\ O( OI)=KOS
+)BY/K	TOU= PATRO/S SOU
+T)BDW	A)POLEI=SQE
+W/MY	KAI\ TI/S
+YWD(	OI)=DEN
+)M	EI)
+L/(T	EI)S TO\N KAIRO\N
+K/Z)T =;H/Z)T	TOU=TON
+HG(T L/MLKWT	E)BASI/LEUSAS
+
+Esth 4:15
+W/T)MR	KAI\ {..^LE/GOUSA}
+{...}	E)CAPE/STEILEN
+)STR	ESQHR
+L/H$YB =@	{..^E)CAPE/STEILEN}
+--+	TO\N H(/KONTA
+--+	PRO\S AU)TH\N
+)L	PRO\S
+MRDKY	MARDOXAI=ON
+{...}	LE/GOUSA
+
+Esth 4:16
+LK	BADI/SAS
+KNWS	E)KKLHSI/ASON
+)T KL	---
+H/YHWDYM	TOU\S IOUDAI/OUS
+H/NMC)YM	TOU\S
+B/$W$N	E)N SOU/SOIS
+W/CWMW	KAI\ NHSTEU/SATE
+(L/Y	E)P' E)MOI\
+W/)L	KAI\ MH\
+T)KLW	FA/GHTE
+W/)L	MHDE\
+T$TW	PI/HTE
+{...}	E)PI
+$L$T	{..pE)PI\} {..^TREI=S}
+YMYM	H(ME/RAS
+{...}	TREI=S
+LYLH	NU/KTA
+W/YWM	KAI\ H(ME/RAN
+GM )NY	KA)GW\ DE\
+W/N(RT/Y	KAI\ AI( A(/BRAI MOU
+)CWM	A)SITH/SOMEN
+KN	---
+W/B/KN	KAI\ TO/TE
+)BW)	EI)SELEU/SOMAI
+)L	PRO\S
+H/MLK	TO\N BASILE/A
+)$R L)	PARA\
+K/DT	TO\N NO/MON
+W/K/)$R	E)A\N ^ KAI\
+)BDTY	A)POLE/SQAI ME
+)BDTY	H)=|
+
+Esth 4:17
+W/Y(BR	KAI\ BADI/SAS
+MRDKY	MARDOXAI=OS
+W/Y(&	E)POI/HSEN
+K/KL )$R	O(/SA --- ?
+CWTH	E)NETEI/LATO
+(L/YW	AU)TW=|
+)STR	ESQHR
+--+ ''	KAI\ E)DEH/QH
+--+ ''	KURI/OU
+--+ ''	MNHMONEU/WN
+--+ ''	PA/NTA
+--+ ''	TA\ E)/RGA
+--+ ''	KURI/OU
+--+ ''	KAI\ EI)=PEN
+--+ ''	KU/RIE
+--+ ''	KU/RIE
+--+ ''	BASILEU=
+--+ ''	PA/NTWN
+--+ ''	KRATW=N
+--+ ''	O(/TI
+--+ ''	E)N E)COUSI/A| SOU
+--+ ''	TO\ PA=N E)STIN
+--+ ''	KAI\ OU)K E)/STIN
+--+ ''	O(
+--+ ''	A)NTIDOCW=N
+--+ ''	SOI
+--+ ''	E)N TW=| QE/LEIN SE
+--+ ''	SW=SAI
+--+ ''	TO\N ISRAHL
+--+ ''	O(/TI
+--+ ''	SU\
+--+ ''	E)POI/HSAS
+--+ ''	TO\N OU)RANO\N
+--+ ''	KAI\ TH\N GH=N
+--+ ''	KAI\ PA=N
+--+ ''	QAUMAZO/MENON
+--+ ''	E)N
+--+ ''	TH=|
+--+ ''	U(P'
+--+ ''	OU)RANO\N
+--+ ''	KAI\ KU/RIOS
+--+ ''	EI)=
+--+ ''	PA/NTWN
+--+ ''	KAI\ OU)K E)/STIN
+--+ ''	O(\S
+--+ ''	A)NTITA/CETAI/
+--+ ''	SOI
+--+ ''	TW=| KURI/W|
+--+ ''	SU\
+--+ ''	PA/NTA
+--+ ''	GINW/SKEIS
+--+ ''	SU\
+--+ ''	OI)=DAS
+--+ ''	KU/RIE
+--+ ''	O(/TI
+--+ ''	OU)K
+--+ ''	E)N U(/BREI
+--+ ''	OU)DE\
+--+ ''	E)N
+--+ ''	U(PERHFANI/A|
+--+ ''	OU)DE\
+--+ ''	E)N FILODOCI/A|
+--+ ''	E)POI/HSA
+--+ ''	TOU=TO
+--+ ''	TO\
+--+ ''	MH\
+--+ ''	PROSKUNEI=N
+--+ ''	TO\N U(PERH/FANON
+--+ ''	AMAN
+--+ ''	O(/TI
+--+ ''	HU)DO/KOUN
+--+ ''	FILEI=N
+--+ ''	PE/LMATA
+--+ ''	PODW=N
+--+ ''	AU)TOU=
+--+ ''	PRO\S
+--+ ''	SWTHRI/AN
+--+ ''	ISRAHL
+--+ ''	A)LLA\
+--+ ''	E)POI/HSA
+--+ ''	TOU=TO
+--+ ''	I(/NA
+--+ ''	MH\
+--+ ''	QW=
+--+ ''	DO/CAN
+--+ ''	A)NQRW/POU
+--+ ''	U(PERA/NW
+--+ ''	DO/CHS
+--+ ''	QEOU=
+--+ ''	KAI\ OU)
+--+ ''	PROSKUNH/SW
+--+ ''	OU)DE/NA
+--+ ''	PLH\N
+--+ ''	SOU=
+--+ ''	TOU=
+--+ ''	KURI/OU MOU
+--+ ''	KAI\ OU)
+--+ ''	POIH/SW
+--+ ''	AU)TA\
+--+ ''	E)N
+--+ ''	U(PERHFANI/A|
+--+ ''	KAI\ NU=N
+--+ ''	KU/RIE
+--+ ''	O( QEO\S
+--+ ''	O( BASILEU\S
+--+ ''	O( QEO\S
+--+ ''	ABRAAM
+--+ ''	FEI=SAI
+--+ ''	TOU= LAOU= SOU
+--+ ''	O(/TI
+--+ ''	E)PIBLE/POUSIN
+--+ ''	H(MI=N
+--+ ''	EI)S
+--+ ''	KATAFQORA\N
+--+ ''	KAI\ E)PEQU/MHSAN
+--+ ''	A)POLE/SAI
+--+ ''	TH\N
+--+ ''	E)C A)RXH=S
+--+ ''	KLHRONOMI/AN SOU
+--+ ''	MH\
+--+ ''	U(PERI/DH|S
+--+ ''	TH\N MERI/DA SOU
+--+ ''	H(\N
+--+ ''	SEAUTW=|
+--+ ''	E)LUTRW/SW
+--+ ''	E)K GH=S
+--+ ''	AI)GU/PTOU
+--+ ''	E)PA/KOUSON
+--+ ''	TH=S DEH/SEW/S MOU
+--+ ''	KAI\ I(LA/SQHTI
+--+ ''	TW=| KLH/RW| SOU
+--+ ''	KAI\ STRE/YON
+--+ ''	TO\ PE/NQOS H(MW=N
+--+ ''	EI)S EU)WXI/AN
+--+ ''	I(/NA
+--+ ''	ZW=NTES
+--+ ''	U(MNW=ME/N
+--+ ''	SOU ^ TO\ O)/NOMA
+--+ ''	KU/RIE
+--+ ''	KAI\ MH\
+--+ ''	A)FANI/SH|S
+--+ ''	STO/MA
+--+ ''	AI)NOU/NTWN SOI
+--+ ''	KAI\ PA=S
+--+ ''	ISRAHL
+--+ ''	E)KE/KRACAN
+--+ ''	E)C I)SXU/OS AU)TW=N
+--+ ''	O(/TI
+--+ ''	QA/NATOS AU)TW=N
+--+ ''	E)N O)FQALMOI=S AU)TW=N
+--+ ''	KAI\ ESQHR
+--+ ''	H( BASI/LISSA
+--+ ''	KATE/FUGEN
+--+ ''	E)PI\
+--+ ''	TO\N KU/RION
+--+ ''	E)N A)GW=NI
+--+ ''	QANA/TOU
+--+ ''	KATEILHMME/NH
+--+ ''	KAI\ A)FELOME/NH
+--+ ''	TA\ I(MA/TIA
+--+ ''	TH=S DO/CHS AU)TH=S
+--+ ''	E)NEDU/SATO
+--+ ''	I(MA/TIA
+--+ ''	STENOXWPI/AS
+--+ ''	KAI\ PE/NQOUS
+--+ ''	KAI\ A)NTI\
+--+ ''	TW=N
+--+ ''	U(PEPHFA/NWN
+--+ ''	H(DUSMA/TWN
+--+ ''	SPODOU=
+--+ ''	KAI\ KOPRIW=N
+--+ ''	E)/PLHSEN
+--+ ''	TH\N KEFALH\N AU)TH=S
+--+ ''	KAI\ TO\ SW=MA AU)TH=S
+--+ ''	E)TAPEI/NWSEN
+--+ ''	SFO/DRA
+--+ ''	KAI\ PA/NTA
+--+ ''	TO/PON
+--+ ''	KO/SMOU
+--+ ''	A)GALLIA/MATOS
+--+ ''	AU)TH=S
+--+ ''	E)/PLHSE
+--+ ''	STREPTW=N
+--+ ''	TRIXW=N AU)TH=S
+--+ ''	KAI\ E)DEI=TO
+--+ ''	KURI/OU
+--+ ''	QEOU=
+--+ ''	ISRAHL
+--+ ''	KAI\ EI)=PEN
+--+ ''	KU/RIE/ MOU
+--+ ''	O( BASILEU\S H(MW=N
+--+ ''	SU\ EI)=
+--+ ''	MO/NOS
+--+ ''	BOH/QHSO/N MOI
+--+ ''	TH=| MO/NH|
+--+ ''	KAI\ MH\
+--+ ''	E)XOU/SH|
+--+ ''	BOHQO\N
+--+ ''	EI)
+--+ ''	MH\
+--+ ''	SE/
+--+ ''	O(/TI
+--+ ''	KI/NDUNO/S MOU
+--+ ''	E)N XEIRI/ MOU
+--+ ''	E)GW\
+--+ ''	H)/KOUON
+--+ ''	E)K GENETH=S MOU
+--+ ''	E)N FULH=|
+--+ ''	PATRI/AS MOU
+--+ ''	O(/TI
+--+ ''	SU/
+--+ ''	KU/RIE
+--+ ''	E)/LABES
+--+ ''	TO\N ISRAHL
+--+ ''	E)K PA/NTWN
+--+ ''	TW=N E)QNW=N
+--+ ''	KAI\ TOU\S PATE/RAS H(MW=N
+--+ ''	E)K PA/NTWN
+--+ ''	TW=N PROGO/NWN AU)TW=N
+--+ ''	EI)S KLHRONOMI/AN
+--+ ''	AI)W/NION
+--+ ''	KAI\ E)POI/HSAS
+--+ ''	AU)TOI=S
+--+ ''	O(/SA
+--+ ''	E)LA/LHSAS
+--+ ''	KAI\ NU=N
+--+ ''	H(MA/RTOMEN
+--+ ''	E)NW/PIO/N SOU
+--+ ''	KAI\ PARE/DWKAS
+--+ ''	H(MA=S
+--+ ''	EI)S XEI=RAS
+--+ ''	TW=N E)XQRW=N H(MW=N
+--+ ''	A)NQ'
+--+ ''	W(=N
+--+ ''	E)DOCA/SAMEN
+--+ ''	TOU\S QEOU\S AU)TW=N
+--+ ''	DI/KAIOS EI)=
+--+ ''	KU/RIE
+--+ ''	KAI\ NU=N
+--+ ''	OU)X
+--+ ''	I(KANW/QHSAN
+--+ ''	E)N PIKRASMW=|
+--+ ''	DOULEI/AS H(MW=N
+--+ ''	A)LLA\
+--+ ''	E)/QHKAN
+--+ ''	TA\S XEI=RAS AU)TW=N
+--+ ''	E)PI\
+--+ ''	TA\S XEI=RAS
+--+ ''	TW=N EI)DW/LWN AU)TW=N
+--+ ''	E)CA=RAI
+--+ ''	O(RISMO\N
+--+ ''	STO/MATO/S SOU
+--+ ''	KAI\ A)FANI/SAI
+--+ ''	KLHRONOMI/AN SOU
+--+ ''	KAI\ E)MFRA/CAI
+--+ ''	STO/MA
+--+ ''	AI)NOU/NTWN SOI
+--+ ''	KAI\ SBE/SAI
+--+ ''	DO/CAN
+--+ ''	OI)/KOU SOU
+--+ ''	QUSIASTH/RIO/N SOU
+--+ ''	KAI\ A)NOI=CAI
+--+ ''	STO/MA
+--+ ''	E)QNW=N
+--+ ''	EI)S A)RETA\S
+--+ ''	MATAI/WN
+--+ ''	KAI\ QAUMASQH=NAI
+--+ ''	BASILE/A
+--+ ''	SA/RKINON
+--+ ''	EI)S
+--+ ''	AI)W=NA
+--+ ''	MH\
+--+ ''	PARADW=|S
+--+ ''	KU/RIE
+--+ ''	TO\ SKH=PTRO/N SOU
+--+ ''	TOI=S
+--+ ''	MH\ OU)=SIN
+--+ ''	KAI\ MH\
+--+ ''	KATAGELASA/TWSAN
+--+ ''	E)N TH=| PTW/SEI H(MW=N
+--+ ''	A)LLA\
+--+ ''	STRE/YON
+--+ ''	TH\N BOULH\N AU)TW=N
+--+ ''	E)P'
+--+ ''	AU)TOU/S
+--+ ''	TO\N DE\ A)RCA/MENON
+--+ ''	E)F' H(MA=S
+--+ ''	PARADEIGMA/TISON
+--+ ''	MNH/SQHTI
+--+ ''	KU/RIE
+--+ ''	GNW/SQHTI
+--+ ''	E)N KAIRW=|
+--+ ''	QLI/YEWS H(MW=N
+--+ ''	KAI\ E)ME\ QA/RSUNON
+--+ ''	BASILEU=
+--+ ''	TW=N QEW=N
+--+ ''	KAI\ PA/SHS
+--+ ''	A)RXH=S
+--+ ''	E)PIKRATW=N
+--+ ''	DO\S
+--+ ''	LO/GON
+--+ ''	EU)/RUQMON
+--+ ''	EI)S TO\ STO/MA MOU
+--+ ''	E)NW/PION
+--+ ''	TOU= LE/ONTOS
+--+ ''	KAI\ META/QES
+--+ ''	TH\N KARDI/AN AU)TOU
+--+ ''	EI)S MI=SOS
+--+ ''	TOU= POLEMOU=NTOS H(MA=S
+--+ ''	EI)S SUNTE/LEIAN AU)TOU=
+--+ ''	KAI\ TW=N O(MONOOU/NTWN AU)TW=|
+--+ ''	H(MA=S DE\ R(U=SAI
+--+ ''	E)N XEIRI/ SOU
+--+ ''	KAI\ BOH/QHSO/N
+--+ ''	MOI
+--+ ''	TH=| MO/NH|
+--+ ''	KAI\ MH\
+--+ ''	E)XOU/SH|
+--+ ''	EI)
+--+ ''	MH\
+--+ ''	SE/
+--+ ''	KU/RIE
+--+ ''	PA/NTWN
+--+ ''	GNW=SIN E)/XEIS
+--+ ''	KAI\ OI)=DAS
+--+ ''	O(/TI
+--+ ''	E)MI/SHSA
+--+ ''	DO/CAN
+--+ ''	A)NO/MWN
+--+ ''	KAI\ BDELU/SSOMAI
+--+ ''	KOI/THN
+--+ ''	A)PERITMH/TWN
+--+ ''	KAI\ PANTO\S
+--+ ''	A)LLOTRI/OU
+--+ ''	SU\
+--+ ''	OI)=DAS
+--+ ''	TH\N A)NA/GKHN MOU
+--+ ''	O(/TI
+--+ ''	BDELU/SSOMAI
+--+ ''	TO\ SHMEI=ON
+--+ ''	TH=S U(PERHFANI/AS MOU
+--+ ''	O(/ E)STIN
+--+ ''	E)PI\
+--+ ''	TH=S KEFALH=S MOU
+--+ ''	E)N H(ME/RAIS
+--+ ''	O)PTASI/AS MOU
+--+ ''	BDELU/SSOMAI
+--+ ''	AU)TO\
+--+ ''	W(S R(A/KOS
+--+ ''	KATAMHNI/WN
+--+ ''	KAI\ OU)
+--+ ''	FORW=
+--+ ''	AU)TO\
+--+ ''	E)N H(ME/RAIS
+--+ ''	H(SUXI/AS MOU
+--+ ''	KAI\ OU)K
+--+ ''	E)/FAGEN
+--+ ''	H( DOU/LH SOU
+--+ ''	TRA/PEZAN
+--+ ''	AMAN
+--+ ''	KAI\ OU)K
+--+ ''	E)DO/CASA
+--+ ''	SUMPO/SION
+--+ ''	BASILE/WS
+--+ ''	OU)DE\
+--+ ''	E)/PION
+--+ ''	OI)=NON
+--+ ''	SPONDW=N
+--+ ''	KAI\ OU)K
+--+ ''	HU)FRA/NQH
+--+ ''	H( DOU/LH SOU
+--+ ''	A)F'
+--+ ''	H(ME/RAS
+--+ ''	METABOLH=S MOU
+--+ ''	ME/XRI
+--+ ''	NU=N
+--+ ''	PLH\N
+--+ ''	E)PI\
+--+ ''	SOI/
+--+ ''	KU/RIE
+--+ ''	O( QEO\S
+--+ ''	ABRAAM
+--+ ''	O( QEO\S
+--+ ''	O( I)SXU/WN
+--+ ''	E)PI\
+--+ ''	PA/NTAS
+--+ ''	EI)SA/KOUSON
+--+ ''	FWNH\N
+--+ ''	A)PHLPISME/NWN
+--+ ''	KAI\ R(U=SAI H(MA=S
+--+ ''	E)K XEIRO\S
+--+ ''	TW=N PONHREUOME/NWN
+--+ ''	KAI\ R(U=SAI/ ME
+--+ ''	E)K TOU= FO/BOU MOU
+
+Esth 5:1
+W/YHY	KAI\ E)GENH/QH
+B/YWM	E)N TH=| H(ME/RA|
+H/$LY$Y	TH=| TRI/TH|
+--+ '' =;K/KLWT/H <cc7.1^>	W(S E)PAU/SATO
+--+ '' =;L/HTPLL <cc7.1>	PROSEUXOME/NH
+--+ '' =@SWR,@TP$+ #	E)CEDU/SATO
+<ez26.16>	#
+--+ '' =;)T BGDY <ex31.10>	TA\ I(MA/TIA
+--+ ''	TH=S QERAPEI/AS
+W/TLB$	KAI\ PERIEBA/LETO
+)STR	---
+MLKWT	TH\N DO/CAN AU)TH=S
+W/T(MD	{...?KATE/STH [5.1c]}
+B/XCR	--- ''
+BYT	--- ''
+H/MLK	--- ''
+H/PNYMYT	--- ''
+NKX	{...?E)NW/PION  [5.1c]}
+BYT	---
+H/MLK	{...?TOU= BASILE/WS  [5.1c]}
+W/H/MLK	{...?KAI\ AU)TO\S  [5.1c]}
+YW$B	{...?E)KA/QHTO [5.1c]}
+(L	{...?E)PI\ [5.1c]}
+KS)	{...?TOU= QRO/NOU  [5.1c]}
+MLKWT/W	{...?TH=S BASILEI/AS AU)TOU= [5.1c]}
+B/BYT	--- ''
+H/MLKWT	--- ''
+NKX	--- ''
+PTX	--- ''
+H/BYT	--- ''
+--+ ''	KAI\ GENHQEI=SA
+--+ ''	E)PIFANH\S
+--+ ''	E)PIKALESAME/NH
+--+ ''	TO\N
+--+ ''	PA/NTWN
+--+ ''	E)PO/PTHN
+--+ ''	QEO\N
+--+ ''	KAI\ SWTH=RA
+--+ ''	PARE/LABEN
+--+ ''	TA\S DU/O
+--+ ''	A(/BRAS
+--+ ''	KAI\ TH=N ME\N MIA=|
+--+ ''	E)PHREI/DETO
+--+ ''	W(S TRUFEREUOME/NH
+--+ ''	H( DE\ E(TE/RA
+--+ ''	E)PHKOLOU/QEI
+--+ ''	KOUFI/ZOUSA
+--+ ''	TH\N E)/NDUSIN AU)TH=S
+--+ ''	KAI/ AU(TH\
+--+ ''	E)RUQRW=SA
+--+ ''	A)KMH=|
+--+ ''	KA/LLOUS AU)TH=S
+--+ ''	KAI\ TO\ PRO/SWPON AU)TH=S
+--+ ''	I(LARO\N
+--+ ''	W(S PROSFILE/S
+--+ ''	H( DE\ KARDI/A AU)TH=S
+--+ ''	A)PESTENWME/NH
+--+ ''	A)PO\ TOU= FO/BOU
+--+ ''	KAI\ EI)SELQOU=SA
+--+ ''	PA/SAS
+--+ ''	TA\S QU/RAS
+--+ ''	KATE/STH [[5.1?]]
+--+ ''	E)NW/PION [[5.1?]]
+--+ ''	TOU= BASILE/WS [[5.1?]]
+--+ ''	KAI\ AU)TO\S [[5.1]]
+--+ ''	E)KA/QHTO [[5.1?]]
+--+ ''	E)PI\ [[5.1?]]
+--+ ''	TOU= QRO/NOU [[5.1?]]
+--+ ''	TH=S BASILEI/AS AU)TOU= [[5.1?]]
+--+ ''	KAI\ PA=SAN
+--+ ''	STOLH\N
+--+ ''	TH=S E)PIFANEI/AS AU)TOU=
+--+ ''	E)NEDEDU/KEI
+--+ ''	O(/LOS
+--+ ''	DIA\
+--+ ''	XRUSOU=
+--+ ''	KAI\ LI/QWN
+--+ ''	POLUTELW=N
+--+ ''	KAI\ H)=N
+--+ ''	FOBERO\S
+--+ ''	SFO/DRA
+--+ ''	KAI\ A)/RAS
+--+ ''	TO\ PRO/SWPON AU)TOU=
+--+ ''	PEPURWME/NON
+--+ ''	DO/CH|
+--+ ''	E)N A)KMH=|
+--+ ''	QUMOU=
+--+ ''	E)/BLEYEN
+--+ ''	KAI\ E)/PESEN
+--+ ''	H( BASI/LISSA
+--+ ''	KAI\ METE/BALEN
+--+ ''	TO\ XRW=MA AU)TH=S
+--+ ''	E)N E)KLU/SEI
+--+ ''	KAI\ KATEPE/KUYEN
+--+ ''	E)PI\
+--+ ''	TH\N KEFALH\N
+--+ ''	TH=S A(/BRAS
+--+ ''	TH=S PROPOREUOME/NHS
+--+ ''	KAI\ METE/BALEN
+--+ ''	O( QEO\S
+--+ ''	TO\ PNEU=MA
+--+ ''	TOU= BASILE/WS
+--+ ''	EI)S PRAU/+THTA
+--+ ''	KAI\ A)GWNIA/SAS
+--+ ''	A)NEPH/DHSEN
+--+ ''	A)PO\ TOU= QRO/NOU AU)TOU=
+--+ ''	KAI\ A)NE/LABEN AU)TH\N
+--+ ''	E)PI\ TA\S A)GKA/LAS AU)TOU=
+--+ ''	ME/XRIS
+--+ ''	OU(=
+--+ ''	KATE/STH
+--+ ''	KAI\ PAREKA/LEI
+--+ ''	AU)TH\N
+--+ ''	LO/GOIS
+--+ ''	EI)RHNIKOI=S
+--+ ''	KAI\ EI)=PEN
+--+ ''	AU)TH=|
+--+ ''	TI/
+--+ ''	E)STIN
+--+ ''	ESQHR
+--+ ''	E)GW\
+--+ ''	O( A)DELFO/S SOU
+--+ ''	QA/RSEI
+--+ ''	OU) MH\
+--+ ''	A)POQA/NH|S
+--+ ''	O(/TI
+--+ ''	KOINO\N {..^E)STIN}
+--+ ''	TO\ PRO/STAGMA H(MW=N
+--+ ''	E)STIN
+--+ ''	PRO/SELQE
+
+Esth 5:2
+W/YHY	--- ''
+K/R)WT	--- ''
+H/MLK	--- ''
+)T )STR	--- ''
+H/MLKH	--- ''
+(MDT	--- ''
+B/XCR	--- ''
+N&)H	--- ''
+XN	--- ''
+B/(YN/YW	--- ''
+W/YW$+	KAI\ A)/RAS
+H/MLK	---
+L/)STR	---
+)T $RBY+	TH\N {..^R(A/BDON}
+H/ZHB	XRUSH=N
+{...}	R(A/BDON
+)$R	--- ''
+B/YD/W	--- ''
+W/TQRB	--- ''
+)STR	--- ''
+W/TG(	--- '' {x}
+B/R)$	--- '' {x}
+H/$RBY+	--- '' {x}
+--+ '' {x}	E)PE/QHKEN
+--+ '' {x}	E)PI\ TO\N TRA/XHLON
+--+ '' {x}	AU)TH=S
+--+ ''	KAI\ H)SPA/SATO AU)TH\N
+--+ ''	KAI\ EI)=PEN
+--+ ''	LA/LHSO/N
+--+ ''	MOI
+--+ ''	KAI\ EI)=PEN
+--+ ''	AU)TW=|
+--+ ''	EI)=DO/N
+--+ ''	SE
+--+ ''	KU/RIE
+--+ ''	W(S A)/GGELON
+--+ ''	QEOU=
+--+ ''	KAI\ E)TARA/XQH
+--+ ''	H( KARDI/A MOU
+--+ ''	A)PO\ FO/BOU
+--+ ''	TH=S DO/CHS SOU
+--+ ''	O(/TI
+--+ ''	QAUMASTO\S
+--+ ''	EI)=
+--+ ''	KU/RIE
+--+ ''	KAI\ TO\ PRO/SWPO/N SOU
+--+ ''	XARI/TWN
+--+ ''	MESTO/N
+--+ ''	E)N DE\ TW=| DIALE/GESQAI AU)TH\N
+--+ ''	E)/PESEN
+--+ ''	A)PO\ E)KLU/SEWS AU)TH=S
+--+ ''	KAI\ O( BASILEU\S
+--+ ''	E)TARA/SSETO
+--+ ''	KAI\ PA=SA
+--+ ''	H( QERAPEI/A AU)TOU=
+--+ ''	PAREKA/LEI
+--+ ''	AU)TH/N
+
+Esth 5:3
+W/Y)MR	KAI\ EI)=PEN
+L/H	---
+H/MLK	O( BASILEU/S
+MH	TI/
+L/K	QE/LEIS
+)STR	ESQHR
+H/MLKH	---
+W/MH	KAI\ TI/
+BQ$T/K	SOU/ ^ E)STIN TO\ A)CI/WMA
+(D	E(/WS
+XCY	TOU= H(MI/SOUS
+H/MLKWT	TH=S BASILEI/AS MOU
+W/YNTN =%vpa	KAI\ E)/STAI
+L/K	SOI
+
+Esth 5:4
+W/T)MR	EI)=PEN ^ DE\
+)STR	ESQHR
+--+ ''	H(ME/RA
+--+ ''	MOU
+--+ ''	E)PI/SHMOS
+--+ ''	SH/MERO/N E)STIN
+)M	EI)
+(L H/MLK	{..^TW=| BASILEI=}
+--+	OU)=N
++WB	DOKEI=
+{...}	TW=| BASILEI=
+YBW)	E)LQA/TW
+H/MLK	KAI\ AU)TO\S
+W/HMN	KAI\ AMAN
+H/YWM ^	^^^
+)L	EI)S
+H/M$TH	TH\N DOXH/N
+)$R	H(\N
+(&YTY	POIH/SW
+L/W	---
+^^^ =H/YWM	SH/MERON
+
+Esth 5:5
+W/Y)MR	KAI\ EI)=PEN
+H/MLK	O( BASILEU/S
+MHRW	KATASPEU/SATE
+)T HMN	AMAN
+L/(&WT	O(/PWS POIH/SWMEN
+)T DBR	TO\N LO/GON
+)STR	ESQHR
+W/YB)	KAI\ PARAGI/NONTAI
+H/MLK W/HMN	A)MFO/TEROI
+)L	EI)S
+H/M$TH	TH\N DOXH/N
+)$R	H(\N
+(&TH	EI)=PEN
+)STR	ESQHR
+
+Esth 5:6
+{...}	E)N DE\ TW=| PO/TW|
+W/Y)MR	EI)=PEN
+H/MLK	O( BASILEU\S
+L/)STR	PRO\S ESQHR
+B/M$TH H/YYN	 {..^E)N TW=| PO/TW|}
+MH	TI/
+$)LT/K	E)STIN
+--+	BASI/LISSA
+--+	ESQHR
+W/YNTN =%vpa	KAI\ E)/STAI
+L/K	SOI
+W/MH	O(/SA
+BQ$T/K	A)CIOI=S
+(D	--- ''
+XCY	--- ''
+H/MLKWT	--- ''
+W/T(&	--- ''
+
+Esth 5:7
+W/T(N	--- ''
+)STR	--- ''
+W/T)MR	KAI\ EI)=PEN
+$)LT/Y	TO\ AI)/THMA/ MOU
+W/BQ$T/Y	KAI\ TO\ A)CI/WMA/ MOU
+
+Esth 5:8
+)M	EI)
+MC)TY	EU(=RON
+XN	XA/RIN
+B/(YNY	E)NW/PION
+H/MLK	TOU= BASILE/WS
+W/)M	--- ''
+(L	--- ''
+H/MLK	--- ''
++WB	--- ''
+L/TT	--- ''
+)T $)LT/Y	--- ''
+W/L/(&WT	--- ''
+)T BQ$T/Y	--- ''
+YBW)	E)LQA/TW
+H/MLK	O( BASILEU\S
+W/HMN	KAI\ AMAN
+--+ =;MXR	E)PI\ TH\N AU)/RION
+)L	EI)S
+H/M$TH	TH\N DOXH/N
+)$R	H(\N
+)(&H	POIH/SW
+L/HM	AU)TOI=S
+W/MXR	KAI\ AU)/RION
+)(&H	POIH/SW
+K/DBR {...?H/MLK}	TA\ AU)TA/
+H/MLK	---
+
+Esth 5:9
+W/YC)	KAI\ E)CH=LQEN
+HMN	O( AMAN
+B/YWM	--- {x}
+H/HW)	--- {x}
+--+ {x}	A)PO\
+--+ {x}	TOU= BASILE/WS
+&MX	U(PERXARH\S
+W/+WB LB	EU)FRAINO/MENOS
+W/K/R)WT =%p	E)N ^ DE\ TW=| I)DEI=N
+HMN	AMAN
+)T MRDKY	MARDOXAI=ON
+--+ =:H/YHWDY	TO\N IOUDAI=ON
+B/$(R {...?H/MLK}	E)N TH=| AU)LH=|
+H/MLK	--- '' ?
+W/L)	--- ''
+QM	--- ''
+W/L)	--- ''
+Z(	--- ''
+M/MN/W	--- ''
+W/YML) {...XMH}	E)QUMW/QH SFO/DRA
+HMN	---
+(L	---
+MRDKY	---
+XMH	{...}
+
+Esth 5:10
+W/YT)PQ	---
+HMN	---
+W/YBW)	KAI\ EI)SELQW\N
+)L	EI)S
+BYT/W	TA\ I)/DIA
+W/Y$LX W/YB)	E)KA/LESEN
+)T )HB/YW	TOU\S FI/LOUS
+W/)T ZR$ .m	KAI\ ZWSARAN
+)$T/W	TH\N GUNAI=KA AU)TOU=
+
+Esth 5:11
+W/YSPR	KAI\ U(PE/DEICEN
+L/HM	AU)TOI=S
+HMN	---
+{...}	TO\N PLOU=TON AU)TOU=
+)T KBWD	KAI\ TH\N DO/CAN
+($R/W	{..^TO\N PLOU=TON AU)TOU=}
+W/RB	---
+BN/YW	---
+W/)T KL	---
+)$R	H(\N
+{...}	O( BASILEU\S
+GDL/W	AU)TW=| ^ PERIE/QHKEN
+H/MLK	{..^O( BASILEU\S}
+W/)T )$R	KAI\ W(S
+N&)/W (L	E)POI/HSEN AU)TO\N PRWTEU/EIN {d} KAI\ #
+#	H(GEI=SQAI
+H/&RYM W/(BDY H/MLK	TH=S BASILEI/AS
+
+Esth 5:12
+W/Y)MR	KAI\ EI)=PEN
+HMN	AMAN
+)P	--- ?
+{...?)P} L)	OU) {...OU)DE/NA}
+HBY)H	KE/KLHKEN
+)STR	---
+H/MLKH	H( BASI/LISSA
+(M	META\
+H/MLK	TOU= BASILE/WS
+{...}	OU)DE/NA
+)L	EI)S
+H/M$TH	TH\N DOXH\N
+)$R	---
+(&TH	---
+KY )M	A)LL' H)\
+)WT/Y	E)ME/
+W/GM	KAI\
+L/MXR	EI)S TH\N AU)/RION
+)NY QRW)	KE/KLHMAI
+L/H	---
+(M	---
+H/MLK	---
+
+Esth 5:13
+W/KL	KAI\ ---
+ZH	TAU=TA/
+)YN/NW	{..^OU)K}
+$WH	{..^A)RE/SKEI}
+L/Y	MOI
+{...}	OU)K
+{...}	A)RE/SKEI
+B/KL (T )$R	O(/TAN
+)NY R)H	I)/DW
+)T MRDKY	MARDOXAI=ON
+H/YHWDY	TO\N IOUDAI=ON
+YW$B	---
+B/$(R {...?H/MLK}	E)N TH=| AU)LH=|
+H/MLK	--- ?
+
+Esth 5:14
+W/T)MR	KAI\ EI)=PEN
+L/W	PRO\S AU)TO\N
+ZR$ .m	ZWSARA
+)$T/W	H( GUNH\ AU)TOU=
+W/KL	KAI\ ---
+)HB/YW	OI( FI/LOI
+Y(&W	KOPH/TW
+--+	SOI
+(C	CU/LON
+GBH	---
+{...}	PHXW=N
+XM$YM	PENTH/KONTA
+)MH	{..^PHXW=N}
+W/B/BQR	O)/RQROU ^ DE\
+)MR	EI)PO\N
+L/MLK	TW=| BASILEI=
+W/YTLW =%vap	KAI\ KREMASQH/TW
+)T MRDKY	MARDOXAI=OS
+(L/YW	E)PI\ TOU= CU/LOU
+W/B)	{+} SU\ DE\ ^ EI)/SELQE
+{...}	EI)S
+{...}	TH\N DOXH\N
+(M	SU\N
+H/MLK	TW=| BASILEI=
+)L	{..^EI)S}
+H/M$TH	{..^TH\N DOXH\N}
+&MX	KAI\ EU)FRAI/NOU
+W/YY+B	KAI\ H)/RESEN
+H/DBR	TO\ R(H=MA
+L/PNY	TW=|
+HMN	AMAN
+W/Y(&	KAI\ H(TOIMA/SQH
+H/(C	TO\ CU/LON
+
+Esth 6:1
+B/LYLH	{..^TH\N NU/KTA}
+H/HW)	{..^E)KEI/NHN}
+--+	O( DE\ KU/RIOS
+NDDH =NDD H .z	A)PE/STHSEN
+$NT	TO\N U(/PNON
+{...}	A)PO\
+H/MLK	{..pA)PO\} TOU= BASILE/WS
+{...}	TH\N NU/KTA
+{...}	E)KEI/NHN
+W/Y)MR	KAI\ EI)=PEN
+--+ =L/SPR)a	TW=| DIDASKA/LW| AU)TOU=
+L/HBY)	EI)SFE/REIN
+)T SPR	GRA/MMATA
+H/ZKRNWT {...?DBRY}	MNHMO/SUNA
+DBRY	--- ?
+H/YMYM	TW=N H(MERW=N
+W/YHYW NQR)YM =%vpa	A)NAGINW/SKEIN
+L/PNY H/MLK	AU)TW=|
+
+Esth 6:2
+W/YMC) =%vpa	EU(=REN ^ DE\
+KTWB	TA\ GRA/MMATA TA\ GRAFE/NTA
+{...}	PERI\
+{...}	MARDOXAI/OU
+)$R	W(S
+HGYD	A)PH/GGEILEN
+MRDKY	{..pPERI\} {..^MARDOXAI/OU}
+--+ =L/MLK	TW=| BASILEI=
+(L	PERI\
+BGTN)	---
+W/TR$	---
+$NY	TW=N DU/O
+SRYSY	{...TW=N} EU)NOU/XWN
+H/MLK	TOU= BASILE/WS
+M/$MRY {...?H/SP}	E)N TW=| FULA/SSEIN AU)TOU\S
+H/SP	--- ?
+)$R	KAI\
+BQ$W	ZHTH=SAI
+L/$LX	E)PIBALEI=N
+YD	TA\S XEI=RAS
+B/MLK	---
+{...B/} )X$WRW$	A)RTACE/RCH|
+
+Esth 6:3
+W/Y)MR	EI)=PEN ^ DE\
+H/MLK	O( BASILEU/S
+MH	TI/NA
+N(&H =%vpa =v	{..^E)POIH/SAMEN}
+YQR	DO/CAN
+W/GDWLH	H)\ XA/RIN
+{...}	E)POIH/SAMEN
+L/MRDKY	TW=| MARDOXAI/W|
+(L	---
+ZH	---
+W/Y)MRW	KAI\ EI)=PAN
+N(RY {...?M$RT/YW}	OI( DIA/KONOI
+H/MLK	TOU= BASILE/WS
+M$RT/YW	--- ?
+L)	OU)K
+N(&H =%vpa	E)POI/HSAS
+(M/W	AU)TW=|
+DBR	OU)DE/N
+
+Esth 6:4
+--+ '' =?W/B/DRW$	E)N DE\ TW=| PUNQA/NESQAI
+--+ '' =H/MLK	TO\N BASILE/A
+--+ ''	PERI\
+--+ ''	TH=S EU)NOI/AS
+--+ '' =:MRDKY	MARDOXAI/OU
+--+ '' =HNH	I)DOU\
+--+ '' =:HMN	AMAN
+--+ '' =B/XCR	E)N TH=| AU)LH=|
+W/Y)MR	EI)=PEN ^ DE\
+H/MLK	O( BASILEU/S
+MY	TI/S
+B/XCR	E)N TH=| AU)LH=|
+W/HMN	O( ^ DE\ AMAN
+B)	EI)SH=LQEN
+L/XCR	--- ''
+BYT	--- ''
+H/MLK	--- ''
+H/XYCWNH	--- ''
+L/)MR	EI)PEI=N
+L/MLK	TW=| BASILEI=
+L/TLWT	KREMA/SAI
+)T MRDKY	TO\N MARDOXAI=ON
+(L	E)PI\
+H/(C	TW=| CU/LW|
+)$R	W(=|
+HKYN	H(TOI/MASEN
+L/W	---
+
+Esth 6:5
+W/Y)MRW	KAI\ EI)=PAN
+N(RY	OI( DIA/KONOI
+H/MLK	TOU= BASILE/WS
+)L/YW	---
+HNH	I)DOU\
+HMN	AMAN
+(MD	E(/STHKEN
+B/XCR	E)N TH=| AU)LH=|
+W/Y)MR	KAI\ EI)=PEN
+H/MLK	O( BASILEU/S
+YBW) =%vap	KALE/SATE AU)TO/N
+
+Esth 6:6
+W/YBW)	---
+HMN	---
+W/Y)MR	EI)=PEN ^ DE\
+L/W ^	^^^
+H/MLK	O( BASILEU\S
+^^^ =:L/W,L/HMN	TW=| AMAN
+MH	TI/
+L/(&WT	POIH/SW
+B/)Y$	TW=| A)NQRW/PW|
+)$R	O(\N
+H/MLK	E)GW\
+XPC	QE/LW
+B/YQR/W	DOCA/SAI
+W/Y)MR	EI)=PEN ^ DE\
+HMN	{..^AMAN}
+B/LB/W	E)N E(AUTW=|
+{...}	AMAN
+L/MY =%p-	TI/NA
+YXPC	QE/LEI
+H/MLK	O( BASILEU\S
+L/(&WT YQR	DOCA/SAI
+YWTR	EI) MH\
+M/MN/Y	E)ME/
+
+Esth 6:7
+W/Y)MR	EI)=PEN ^ DE\
+HMN	---
+)L	PRO\S
+H/MLK	TO\N BASILE/A
+)Y$	A)/NQRWPON
+)$R	O(\N
+H/MLK	O( BASILEU\S
+XPC	QE/LEI
+B/YQR/W	DOCA/SAI
+
+Esth 6:8
+YBY)W	E)NEGKA/TWSAN
+--+	OI( PAI=DES
+--+	TOU= BASILE/WS
+LBW$	STOLH\N
+MLKWT	BUSSI/NHN
+)$R	H(\N
+LB$ {...?B/W}	{..^PERIBA/LLETAI}
+B/W	--- ?
+H/MLK	O( BASILEU\S
+{...}	PERIBA/LLETAI
+W/SWS	KAI\ I(/PPON
+)$R {...(L/YW}	E)F' O(\N
+RKB	{..^E)PIBAI/NEI}
+(L/YW	{...}
+H/MLK	O( BASILEU\S
+{...}	E)PIBAI/NEI
+W/)$R	--- ''
+NTN	--- ''
+KTR	--- ''
+MLKWT	--- ''
+B/R)$/W	--- ''
+
+Esth 6:9
+W/NTWN =%vpa	KAI\ DO/TW
+H/LBW$	---
+W/H/SWS	---
+(L YD	--- ?
+{...?(L YD} )Y$	E(NI\
+M/&RY	TW=N FI/LWN
+H/MLK	TOU= BASILE/WS
+H/PRTMYM	TW=N E)NDO/CWN
+W/HLBY$W	KAI\ STOLISA/TW
+)T H/)Y$	TO\N A)/NQRWPON
+)$R	O(\N
+H/MLK	O( BASILEU\S
+XPC B/YQR/W	A)GAPA=|
+W/HRKYB/HW	KAI\ A)NABIBASA/TW AU)TO\N
+(L	E)PI\
+H/SWS	TO\N I(/PPON
+{...}	KAI\ KHRUSSE/TW
+B/RXWB	DIA\ TH=S PLATEI/AS
+H/(YR	TH=S PO/LEWS
+W/QR)W {...?L/PN/YW}	{..^KAI\ KHRUSSE/TW}
+L/PN/YW	--- ?
+--+	LE/GWN
+K/KH	OU(/TWS
+Y(&H =%vpa	E)/STAI
+--+	PANTI\
+L/)Y$	A)NQRW/PW|
+)$R	O(\N
+H/MLK	O( BASILEU\S
+XPC B/YQR/W	DOCA/ZEI
+
+Esth 6:10
+W/Y)MR	EI)=PEN ^ DE\
+H/MLK	O( BASILEU\S
+L/HMN	TW=| AMAN
+MHR	--- ''
+QX	--- ''
+)T H/LBW$	--- ''
+W/)T H/SWS	--- ''
+K/)$R	KAQW\S
+DBRT	E)LA/LHSAS
+W/(&H ^ ? =KN	OU(/TWS
+^ ? KN =(&H	POI/HSON
+L/MRDKY	TW=| MARDOXAI/W|
+H/YHWDY	TW=| IOUDAI/W|
+H/YW$B	TW=| QERAPEU/ONTI
+B/$(R {...?H/MLK}	E)N TH=| AU)LH=|
+H/MLK	--- ?
+)L	KAI\ MH\
+TPL	PARAPESA/TW
+--+	SOU
+DBR	LO/GOS
+M/KL )$R	W(=N --- ?
+DBRT	E)LA/LHSAS
+
+Esth 6:11
+W/YQX	E)/LABEN ^ DE\
+HMN	AMAN
+)T H/LBW$	TH\N STOLH\N
+W/)T H/SWS	KAI\ TO\N I(/PPON
+W/YLB$	KAI\ E)STO/LISEN
+)T MRDKY	TO\N MARDOXAI=ON
+W/YRKYB/HW	KAI\ A)NEBI/BASEN AU)TO\N
+--+	E)PI\
+--+	TO\N I(/PPON
+--+	KAI\ DIH=LQEN
+B/RXWB	DIA\ TH=S PLATEI/AS
+H/(YR	TH=S PO/LEWS
+W/YQR) {...?L/PN/YW}	KAI\ E)KH/RUSSEN
+L/PN/YW	--- ?
+--+	LE/GWN
+K/KH	OU(/TWS
+Y(&H =%vpa	E)/STAI
+--+	PANTI\
+L/)Y$	A)NQRW/PW|
+)$R	O(\N
+H/MLK	O( BASILEU\S
+XPC	QE/LEI
+B/YQR/W	DOCA/SAI
+
+Esth 6:12
+W/Y$B	E)PE/STREYEN ^ DE\
+MRDKY	O( MARDOXAI=OS
+)L	EI)S
+$(R {...?H/MLK}	TH\N AU)LH/N
+H/MLK	--- ?
+W/HMN	AMAN ^ DE\
+NDXP	U(PE/STREYEN
+)L	EI)S
+BYT/W	TA\ I)/DIA
+)BL {...?W/XPWY}	LUPOU/MENOS
+W/XPWY	--- ?
+{...}	KATA\
+R)$	{..pKATA\} KEFALH=S
+
+Esth 6:13
+W/YSPR	KAI\ DIHGH/SATO
+HMN	AMAN
+{...}	TA\
+{...}	SUMBEBHKO/TA AU)TW=|
+L/ZR$ .m	ZWSARA
+)$T/W	TH=| GUNAIKI\ AU)TOU=
+W/L/KL	KAI\ TOI=S --- ?
+)HB/YW	{...TOI=S} FI/LOIS
+)T KL )$R	{..^TA\} --- ?
+QR/HW	{..^SUMBEBHKO/TA AU)TW=|}
+W/Y)MRW	KAI\ EI)=PAN
+L/W	PRO\S AU)TO\N
+XKM/YW =?)HB/YW	OI( FI/LOI
+W/ZR$	KAI\ ---
+)$T/W	H( GUNH/
+)M	EI)
+M/ZR(	E)K GE/NOUS
+H/YHWDYM	IOUDAI/WN
+MRDKY	MARDOXAI=OS
+)$R	---
+HXLWT	H)=RCAI
+L/NPL	TAPEINOU=SQAI
+L/PN/YW	E)NW/PION AU)TOU=
+L)	{..^OU) MH\}
+TWKL	{..^DU/NH| {+} A)MU/NASQAI}
+L/W	{..^AU)TO\N}
+KY NPWL {!}p	PESW\N
+TPWL {!}p	PESH=|
+L/PN/YW	---
+{...}	OU) MH\
+{...}	DU/NH|
+{...}	AU)TO\N
+{...}	A)MU/NASQAI
+--+ ''	O(/TI
+--+ ''	QEO\S
+--+ ''	ZW=N
+--+ ''	MET' AU)TOU=
+
+Esth 6:14
+(WD/M	E)/TI AU)TW=N
+MDBRYM	LALOU/NTWN
+(M/W	---
+{...}	PARAGI/NONTAI
+W/SRYSY {...?H/MLK}	OI( EU)NOU=XOI
+H/MLK	--- ?
+HGY(W	{..^PARAGI/NONTAI}
+W/YBHLW L/HBY)	E)PISPEU/DONTES
+)T HMN	TO\N AMAN
+)L	E)PI\
+H/M$TH	TO\N PO/TON
+)$R	O(\N
+(&TH	H(TOI/MASEN
+)STR	ESQHR
+
+Esth 7:1
+W/YB)	EI)SH=LQEN ^ DE\
+H/MLK	O( BASILEU\S
+W/HMN	KAI\ AMAN
+L/$TWT (M	SUMPIEI=N
+)STR	---
+H/MLKH	TH=| BASILI/SSH|
+
+Esth 7:2
+W/Y)MR	EI)=PEN ^ DE\
+H/MLK	O( BASILEU\S
+L/)STR	ESQHR
+GM	---
+B/YWM	{..^H(ME/RA|}
+H/$NY	TH=| DEUTE/RA|
+{...}	H(ME/RA|
+B/M$TH H/YYN	E)N TW=| PO/TW|
+--+	TI/ E)STIN
+MH ^	^^^
+$)LT/K ^	^^^
+)STR	ESQHR
+H/MLKH	BASI/LISSA
+^ ^^^ =MH	KAI\ TI/
+^ ^^^ =$)LT/K	TO\ AI)/THMA/ SOU
+W/TNTN ^	^^^
+L/K ^	^^^
+W/MH	KAI\ TI/
+BQ$T/K	TO\ A)CI/WMA/ SOU
+^ ^^^ =W/TNTN {...?W/T(&}	KAI\ E)/STW
+^ ^^^ =L/K	SOI
+(D	E(/WS
+XCY	TOU= H(MI/SOUS
+H/MLKWT	TH=S BASILEI/AS MOU
+W/T(&	--- ?
+
+Esth 7:3
+W/T(N	KAI\ A)POKRIQEI=SA
+)STR	---
+H/MLKH	---
+W/T)MR	EI)=PEN
+)M	EI)
+MC)TY	EU(=RON
+XN	XA/RIN
+B/(YN/YK	E)NW/PION
+H/MLK	TOU= BASILE/WS
+W/)M	--- ''
+(L	--- ''
+H/MLK	--- ''
++WB	--- ''
+TNTN	DOQH/TW
+L/Y	---
+NP$/Y	H( YUXH/ MOU
+B/$)LT/Y	TW=| AI)TH/MATI/ MOU
+W/(M/Y	KAI\ O( LAO/S MOU
+B/BQ$T/Y	TW=| A)CIW/MATI/ MOU
+
+Esth 7:4
+KY	{..^GA\R}
+NMKRNW	E)PRA/QHMEN
+{...}	GA\R
+)NY	E)GW/
+W/(M/Y	TE KAI\ O( LAO/S MOU
+L/H$MYD	EI)S A)PW/LEIAN
+L/HRWG	KAI\ DIARPAGH\N
+W/L/)BD =@(BD	KAI\ DOULEI/AN
+--+	H(MEI=S
+--+	KAI\ TA\ TE/KNA H(MW=N
+W/)LW	--+
+L/(BDYM	EI)S PAI=DAS
+W/L/$PXWT	KAI\ PAIDI/SKAS
+NMKRNW	---
+HXR$TY	KAI\ PARH/KOUSA
+KY	{..^GA\R}
+)YN	OU)
+{...}	GA\R
+{...}	A)/CIOS
+H/CR	O( DIA/BOLOS
+$WH	{..^A)/CIOS}
+B/NZQ =?B/XCR	TH=S AU)LH=S
+H/MLK	TOU= BASILE/WS
+
+Esth 7:5
+W/Y)MR	EI)=PEN ^ DE\
+H/MLK	O( BASILEU/S
+)X$WRW$	--- ''
+W/Y)MR	--- ''
+L/)STR	--- ''
+H/MLKH	--- ''
+MY	TI/S
+HW) ZH	OU(=TOS
+W/)Y	---
+ZH	---
+HW)	---
+)$R	O(/STIS
+ML)/W LB/W	E)TO/LMHSEN
+L/(&WT	POIH=SAI
+KN	TO\ PRA=GMA TOU=TO
+
+Esth 7:6
+W/T)MR	EI)=PEN ^ DE\
+)STR	ESQHR
+)Y$	A)/NQRWPOS
+CR W/)WYB	E)XQRO\S --- ?
+HMN	AMAN
+H/R(	O( PONHRO\S
+H/ZH	OU(=TOS
+W/HMN	AMAN ^ DE\
+NB(T	E)TARA/XQH
+M/L/PNY	A)PO\
+H/MLK	TOU= BASILE/WS
+W/H/MLKH	KAI\ TH=S BASILI/SSHS
+
+Esth 7:7
+W/H/MLK	O( DE\ ^ BASILEU\S
+QM	E)CANE/STH
+B/XMT/W	---
+M/M$TH H/YYN	E)K TOU= SUMPOSI/OU
+)L	EI)S
+GNT	TO\N KH=PON
+H/BYTN	---
+W/HMN	O( DE\ ^ AMAN
+(MD	---
+L/BQ$ {...?(L NP$/W}	PARH|TEI=TO
+(L NP$/W	--- ?
+M/)STR	---
+{...M/} H/MLKH	TH\N BASI/LISSAN
+KY	{..^GA\R}
+R)H	E(W/RA
+{...}	GA\R
+KY KLTH )L/YW H/R(H	E(AUTO\N E)N KAKOI=S O)/NTA
+M/)T	---
+H/MLK	---
+
+Esth 7:8
+^^^ ^ ? =W/Y$B	E)PE/STREYEN ^ DE\
+W/H/MLK	O( BASILEU\S
+^ $B	^^^
+M/GNT	E)K TOU= KH/POU
+H/BYTN	--- ''
+)L	--- ''
+BYT	--- ''
+M$TH	--- ''
+H/YYN	--- ''
+W/HMN	AMAN ^ DE\
+NPL	E)PIPEPTW/KEI
+(L	E)PI\
+H/M+H	TH\N KLI/NHN
+)$R	---
+)STR	---
+(L/YH	---
+--+	A)CIW=N
+--+	TH\N BASI/LISSAN
+W/Y)MR	EI)=PEN ^ DE\
+H/MLK	O( BASILEU/S
+H/GM	W(/STE KAI\
+L/KBW$	{..^BIA/ZH|}
+)T H/MLKH	TH\N GUNAI=KA
+{...}	BIA/ZH|
+(M/Y B/BYT	E)N TH=| OI)KI/A| MOU
+H/DBR	--- ''
+YC)	--- ''
+M/PY	--- ''
+H/MLK	--- ''
+W/PNY	{..^DE\} {..^TW=| PROSW/PW|}
+HMN	AMAN DE\
+--+	A)KOU/SAS
+XPW	DIETRA/PH
+{...}	TW=| PROSW/PW|
+
+Esth 7:9
+W/Y)MR	EI)=PEN ^ DE\
+XRBWNH =??	BOUGAQAN
+)XD	EI(=S
+MN	TW=N
+H/SRYSYM	EU)NOU/XWN
+L/PNY	PRO\S
+H/MLK	TO\N BASILE/A
+GM	---
+HNH	I)DOU\
+H/(C	KAI\ CU/LON
+)$R	---
+(&H	H(TOI/MASEN
+HMN	AMAN
+L/MRDKY	MARDOXAI/W|
+)$R	TW=|
+DBR	LALH/SANTI
++WB	---
+(L	PERI\
+H/MLK	TOU= BASILE/WS
+(MD	KAI\ W)/RQWTAI
+B/BYT	E)N TOI=S
+HMN	AMAN
+GBH	CU/LON
+XM$YM	{..^PENTH/KONTA}
+)MH	PHXW=N
+{...}	PENTH/KONTA
+W/Y)MR	EI)=PEN DE\
+H/MLK	O( BASILEU/S
+TL/HW =%vap	STAURWQH/TW
+(L/YW	E)P' AU)TOU=
+
+Esth 7:10
+W/YTLW =%vap	KAI\ E)KREMA/SQH
+)T HMN	AMAN
+(L	E)PI\
+H/(C	TOU= CU/LOU
+)$R	O(\
+HKYN	H(TOI/MASEN
+L/MRDKY	MARDOXAI/W|
+--+ {...W/}	KAI\ TO/TE
+W/XMT	{..^TOU= QUMOU=}
+H/MLK	O( BASILEU\S
+$KKH	E)KO/PASEN
+{...}	TOU= QUMOU=
+
+Esth 8:1
+{...}	KAI\ E)N AU)TH=|
+B/YWM	TH=| H(ME/RA|
+H/HW)	{..^E)N AU)TH=|}
+{...}	O( BASILEU\S
+{...}	A)RTACE/RCHS
+NTN	E)DWRH/SATO
+H/MLK	{..^O( BASILEU\S}
+)X$WRW$	{..^A)RTACE/RCHS}
+L/)STR	ESQHR
+H/MLKH	---
+)T BYT	O(/SA U(PH=RXEN
+HMN	AMAN
+CRR	TW=| DIABO/LW|
+*H/YHWDYYM **H/YHWDYM	---
+W/MRDKY	KAI\ MARDOXAI=OS
+B) =%vap	PROSEKLH/QH
+L/PNY	U(PO\
+H/MLK	TOU= BASILE/WS
+KY	{..^GA\R}
+HGYDH	U(PE/DEICEN
+{...}	GA\R
+)STR	ESQHR
+MH	O(/TI
+HW) L/H	E)NOIKEI/WTAI AU)TH=|
+
+Esth 8:2
+W/YSR	E)/LABEN ^ DE\
+H/MLK	O( BASILEU\S
+)T +B(T/W	TO\N DAKTU/LION
+)$R	O(\N
+H(BYR	A)FEI/LATO
+M/HMN	AMAN
+W/YTN/H	KAI\ E)/DWKEN AU)TO\N
+L/MRDKY	MARDOXAI/W|
+W/T&M	KAI\ KATE/STHSEN
+)STR	ESQHR
+)T MRDKY	MARDOXAI=ON
+(L	E)PI\
+BYT	PA/NTWN TW=N
+HMN	AMAN
+
+Esth 8:3
+W/TWSP	KAI\ PROSQEI=SA
+)STR	---
+W/TDBR	E)LA/LHSEN
+L/PNY	PRO\S
+H/MLK	TO\N BASILE/A
+W/TPL	KAI\ PROSE/PESEN
+L/PNY	PRO\S
+RGL/YW	TOU\S PO/DAS AU)TOU=
+W/TBK	---
+W/TTXNN	KAI\ H)CI/OU
+L/W	---
+L/H(BYR	A)FELEI=N
+)T R(T	TH\N {..^KAKI/AN}
+HMN	AMAN
+H/)GGY	---
+{...}	KAKI/AN
+W/)T	KAI\
+MX$BT/W	---
+)$R	O(/SA
+X$B	E)POI/HSEN
+(L H/YHWDYM	TOI=S IOUDAI/OIS
+
+Esth 8:4
+W/YW$+	E)CE/TEINEN ^ DE\
+H/MLK	O( BASILEU\S
+L/)STR	ESQHR
+)T $RB+	TH\N R(A/BDON
+H/ZHB	TH\N XRUSH=N
+W/TQM	E)CHGE/RQH ^ DE\
+)STR	ESQHR
+W/T(MD L/PNY	PAR
+ESTHKE/NAI
+H/MLK	TW=| BASILEI=
+
+Esth 8:5
+W/T)MR	KAI\ EI)=PEN
+--+ =:)STR	ESQHR
+)M	EI)
+{...}	DOKEI=
+(L H/MLK	SOI
++WB	{..^DOKEI=}
+W/)M	KAI\ {..dEI)}
+MC)TY	EU(=RON
+XN	XA/RIN
+L/PN/YW	--- ''
+W/K$R	--- ''
+H/DBR	--- ''
+L/PNY	--- ''
+H/MLK	--- ''
+W/+WBH	--- ''
+)NY	--- ''
+B/(YN/YW	--- ''
+YKTB	PEMFQH/TW
+L/H$YB	A)POSTRAFH=NAI
+)T H/SPRYM	TA\ GRA/MMATA
+MX$BT =?@$LX .m	TA\ A)PESTALME/NA
+{...}	U(PO\
+HMN	{..pU(PO\} AMAN
+BN	---
+HMDT)	---
+H/)GGY	---
+)$R KTB	TA\ GRAFE/NTA
+L/)BD	A)POLE/SQAI
+)T H/YHWDYM	TOU\S IOUDAI/OUS
+)$R	OI(/ EI)SIN
+B/KL	E)N ---
+MDYNWT H/MLK	TH=| BASILEI/A| SOU
+
+Esth 8:6
+KY	{..^GA\R}
+)YKKH	PW=S
+{...}	GA\R
+)WKL	DUNH/SOMAI
+W/R)YTY	I)DEI=N
+B/R(H	TH\N KA/KWSIN
+)$R YMC)	---
+)T (M/Y	TOU= LAOU= MOU
+W/)YKKH	KAI\ PW=S
+)WKL	DUNH/SOMAI
+W/R)YTY =??	SWQH=NAI
+B/)BDN	E)N TH=| A)PWLEI/A|
+MWLDT/Y	TH=S PATRI/DOS MOU
+
+Esth 8:7
+W/Y)MR	KAI\ EI)=PEN
+H/MLK	O( BASILEU\S
+)X$WR$	---
+L/)STR	PRO\S ESQHR
+H/MLKH	---
+W/L/MRDKY	---
+H/YHWDY	---
+HNH	EI)
+BYT	PA/NTA TA\ U(PA/RXONTA
+HMN	AMAN
+NTTY	E)/DWKA {d} KAI\ E)XARISA/MHN
+L/)STR	SOI
+W/)T/W	KAI\ AU)TO\N
+TLW	E)KRE/MASA
+(L	E)PI\
+H/(C	CU/LOU
+(L )$R	O(/TI
+{...}	TA\S XEI=RAS
+$LX	E)PH/NEGKE
+YD/W	{..^TA\S XEI=RAS}
+*B/YHWDYYM **B/YHWDYM	TOI=S IOUDAI/OIS
+--+	TI/
+--+	E)/TI
+--+	E)PIZHTEI=S
+
+Esth 8:8
+{...}	GRA/YATE
+W/)TM	KAI\ U(MEI=S
+KTBW	{..^GRA/YATE}
+(L	---
+H/YHWDYM	---
+^^^ ^ =B/$M H/MLK	E)K TOU= O)NO/MATO/S MOU
+K/+WB	W(S DOKEI=
+B/(YN/YKM	U(MI=N
+^ B/$M H/MLK	^^^
+W/XTMW	KAI\ SFRAGI/SATE
+B/+B(T H/MLK	TW=| DAKTULI/W| MOU
+KY	{..^GA\R}
+KTB	---
+)$R	O(/SA
+{...}	GA\R
+NKTB	GRA/FETAI
+{...}	TOU= BASILE/WS
+B/$M	E)PITA/CANTOS
+H/MLK	{..^TOU= BASILE/WS}
+W/NXTWM	KAI\ SFRAGISQH=|
+B/+B(T H/MLK	TW=| DAKTULI/W| MOU
+)YN	OU)K E)/STIN
+--+	AU)TOI=S
+L/H$YB	A)NTEIPEI=N
+
+Esth 8:9
+W/YQR)W	E)KLH/QHSAN ^ DE\
+SPRY	OI( GRAMMATEI=S
+H/MLK	---
+B/(T	---
+H/HY)	---
+B/XD$	E)N TW=| {..^MHNI/}
+H/$LY$Y =+	PRW/TW|
+{...}	MHNI/
+HW)	O(/S E)STI
+XD$	---
+SYWN =NYSN	NISA
+B/$LW$H W/(&RYM	TRI/TH| KAI\ EI)KA/DI
+B/W =??	TOU= AU)TOU= E)/TOUS
+W/YKTB	KAI\ E)GRA/FH
+--+	TOI=S IOUDAI/OIS
+K/KL )$R	O(/SA
+CWH	E)NETEI/LATO
+MRDKY	---
+)L H/YHWDYM	---
+W/)L H/)X$DRPNYM #	TOI=S OI)KONO/MOIS
+{...?W/H/PXWT}	#
+W/H/PXWT	{...}
+{...?W/H/PXWT} W/&RY	KAI\ TOI=S A)/RXOUSIN
+H/MDYNWT	TW=N SATRAPW=N
+)$R	---
+M/HDW	A)PO\ TH=S I)NDIKH=S
+W/(D	E(/WS
+KW$	TH=S AI)QIOPI/AS
+$B( W/(&RYM W/M)H	E(KATO\N ^ EI)/KOSI ^ E(PTA\
+MDYNH MDYNH W/MDYNH	SATRAPEI/AIS
+K/KTB/H	---
+W/(M	KATA\ XW/RAN
+W/(M	KAI\ XW/RAN
+K/L$N/W	KATA\ TH\N E(AUTW=N ^ LE/CIN
+W/)L	--- ''
+H/YHWDYM	--- ''
+K/KTB/M	--- ''
+W/K/L$WN/M	--- ''
+
+Esth 8:10
+W/YKTB =%vap	E)GRA/FH ^ DE\
+B/$M	DIA\
+H/MLK	TOU= BASILE/WS
+)X$WR$	---
+W/YXTM =%vap	KAI\ E)SFRAGI/SQH
+B/+B(T H/MLK	TW=| DAKTULI/W| AU)TOU=
+W/Y$LX	KAI\ E)CAPE/STEILAN
+SPRYM	TA\ GRA/MMATA
+B/YD	DIA\
+H/RCYM	BIBLIAFO/RWN
+B/SWSYM	--- ''
+RKBY	--- ''
+H/RK$	--- ''
+H/)X$TRNYM	--- ''
+BNY	--- ''
+H/RMKYM	--- ''
+
+Esth 8:11
+)$R	W(S
+NTN	E)PE/TACEN
+H/MLK	---
+L/YHWDYM	AU)TOI=S
+--+ {x}	XRH=SQAI
+--+ {x}	TOI=S NO/MOIS AU)TW=N
+)$R	---
+B/KL	E)N PA/SH|
+(YR W/(YR	PO/LEI
+L/HQHL	--- ?
+{...?L/HQHL} W/L/(MD (L NP$/M	BOHQH=SAI/ TE AU(TOI=S <9.16>
+L/H$MYD	--- '' {x}
+W/L/HRG	--- '' {x}
+W/L/)BD	--- '' {x}
+)T KL	--- '' {x}
+XYL	--- '' {x}
+(M	--- '' {x}
+W/MDYNH	--- '' {x}
+--+ {x} =;W/L(&WT <9.5^>	KAI\ XRH=SQAI
+--+ {x} =;B/&N)Y/HM <9.5^>	TOI=S A)NTIDI/KOIS AU)TW=N
+H/CRYM	KAI\ TOI=S A)NTIKEIME/NOIS
+)T/M	AU)TW=N
++P	--- '' {x}
+W/N$YM	--- '' {x}
+W/$LL/M	--- '' {x}
+L/BWZ	--- '' {x}
+--+ {x} =;K/RCWN/M <9.5^>	W(S BOU/LONTAI
+
+Esth 8:12
+B/YWM	E)N H(ME/RA|
+)XD	MIA=|
+B/KL	E)N PA/SH|
+MDYNWT H/MLK	TH=| BASILEI/A|
+)X$WRW$	A)RTACE/RCOU
+B/$LW$H (&R	TH=| TRISKAIDEKA/TH|
+{...}	TOU= DWDEKA/TOU
+L/XD$	MHNO/S
+$NYM (&R	{..^TOU= DWDEKA/TOU}
+HW)	O(/S E)STIN
+XD$	---
+)DR	ADAR
+--+	W(=N E)STIN
+--+	A)NTI/GRAFON
+--+	TH=S E)PISTOLH=S
+--+	TA\ U(POGEGRAMME/NA
+--+	BASILEU\S
+--+	ME/GAS
+--+	A)RTACE/RCHS
+--+	TOI=S
+--+	A)PO\ TH=S I)NDIKH=S
+--+	E(/WS
+--+	TH=S AI)QIOPI/AS
+--+	E(KATO\N EI)/KOSI E(PTA\
+--+	SATRAPEI/AIS
+--+	XWRW=N
+--+	{...TOI=S} A)/RXOUSI
+--+	KAI\ TOI=S
+--+	TA\ H(ME/TERA
+--+	{...KAI\ TOI=S} FRONOU=SI
+--+	XAI/REIN
+--+	POLLOI\
+--+	TH=| PLEI/STH|
+--+	TW=N EU)ERGETOU/NTWN
+--+	XRHSTO/THTI
+--+	PUKNO/TERON
+--+	TIMW/MENOI
+--+	MEI=ZON
+--+	E)FRO/NHSAN
+--+	KAI\ OU)
+--+	MO/NON
+--+	TOU\S U(POTETAGME/NOUS
+--+	H(MI=N
+--+	ZHTOU=SI
+--+	KAKOPOIEI=N
+--+	TO/N TE KO/RON
+--+	OU)
+--+	DUNA/MENOI
+--+	FE/REIN
+--+	KAI\ TOI=S E(AUTW=N
+--+	EU)ERGE/TAIS
+--+	E)PIXEIROU=SI
+--+	MHXANA=SQAI
+--+	KAI\ TH\N EU)XARISTI/AN
+--+	OU)
+--+	MO/NON
+--+	E)K TW=N A)NQRW/PWN
+--+	A)NTANAIROU=NTES
+--+	A)LLA\
+--+	KAI\ TOI=S TW=N A)PEIRAGA/QWN
+--+	KO/MPOIS
+--+	E)PARQE/NTES
+--+	TOU= TA\ PA/NTA
+--+	KATOPTEU/ONTOS
+--+	A)EI\
+--+	QEOU=
+--+	MISOPO/NHRON
+--+	U(POLAMBA/NOUSIN
+--+	E)KFEU/CESQAI
+--+	DI/KHN
+--+	POLLA/KIS DE\
+--+	KAI\ POLLOU\S
+--+	TW=N E)P' E)COUSI/AIS
+--+	TETAGME/NWN
+--+	TW=N PISTEUQE/NTWN
+--+	XEIRI/ZEIN
+--+	FI/LWN
+--+	TA\ PRA/GMATA
+--+	PARAMUQI/A
+--+	METAITI/OUS
+--+	AI(MA/TWN
+--+	A)QW/|WN
+--+	KATASTH/SASA
+--+	PERIE/BALE
+--+	SUMFORAI=S
+--+	A)NHKE/STOIS
+--+	TW=| TH=S KAKOHQEI/AS
+--+	YEUDEI=
+--+	PARALOGISMW=|
+--+	PARALOGISAME/NWN
+--+	TH\N TW=N E)PIKRATOU/NTWN
+--+	A)KE/RAION
+--+	EU)GNWMOSU/NHN
+--+	SKOPEI=N DE\
+--+	E)/CESTIN
+--+	OU)
+--+	TOSOU=TON
+--+	E)K TW=N PALAIOTE/RWN
+--+	W(=N PAREDW/KAMEN
+--+	I(STORIW=N
+--+	O(/SA E)STI\N
+--+	PARA\ PO/DAS U(MA=S
+--+	E)KZHTOU=NTAS
+--+	A)NOSI/WS
+--+	SUNTETELESME/NA
+--+	TH=| TW=N A)NA/CIA
+--+	DUNASTEUO/NTWN
+--+	LOIMO/THTI
+--+	KAI\ PROSE/XEIN
+--+	EI)S TA\ META\ TAU=TA
+--+	EI)S TO\ TH\N BASILEI/AN
+--+	A)TA/RAXON
+--+	TOI=S PA=SIN
+--+	A)NQRW/POIS
+--+	MET'
+--+	EI)RH/NHS
+--+	PARECO/MEQA
+--+	XRW/MENOI
+--+	TAI=S METABOLAI=S
+--+	TA\ DE\
+--+	U(PO\
+--+	TH\N O)/YIN
+--+	E)RXO/MENA
+--+	DIAKRI/NONTES
+--+	A)EI\
+--+	MET'
+--+	E)PIEIKESTE/RAS
+--+	A)PANTH/SEWS
+--+	W(S GA\R
+--+	AMAN
+--+	AMADAQOU
+--+	MAKEDW/N
+--+	TAI=S A)LHQEI/AIS
+--+	A)LLO/TRIOS
+--+	TOU= TW=N PERSW=N
+--+	AI(/MATOS
+--+	KAI\ POLU\
+--+	DI
+ESTHKW\S
+--+	TH=S H(METE/RAS
+--+	XRHSTO/THTOS
+--+	E)PICENWQEI\S
+--+	H(MI=N
+--+	E)/TUXEN
+--+	H(=S E)/XOMEN
+--+	PRO\S PA=N
+--+	E)/QNOS
+--+	FILANQRWPI/AS
+--+	E)PI\
+--+	TOSOU=TON
+--+	W(/STE A)NAGOREU/ESQAI H(MW=N
+--+	PATE/RA
+--+	KAI\ PROSKUNOU/MENON
+--+	U(PO\
+--+	PA/NTWN
+--+	TO\ DEU/TERON
+--+	TOU= BASILIKOU=
+--+	QRO/NOU
+--+	PRO/SWPON
+--+	DIATELEI=N
+--+	OU)K
+--+	E)NE/GKAS DE\
+--+	TH\N U(PERHFANI/AN
+--+	E)PETH/DEUSEN
+--+	TH=S A)RXH=S
+--+	STERH=SAI H(MA=S
+--+	KAI\ TOU= PNEU/MATOS
+--+	TO/N TE H(ME/TERON
+--+	SWTH=RA
+--+	KAI\ DIA\ PANTO\S
+--+	EU)ERGE/THN
+--+	MARDOXAI=ON
+--+	KAI\ TH\N A)/MEMPTON
+--+	TH=S BASILEI/AS
+--+	KOINWNO\N
+--+	ESQHR
+--+	SU\N PANTI\
+--+	TW=| TOU/TWN
+--+	E)/QNEI
+--+	POLUPLO/KOIS
+--+	MEQO/DWN
+--+	PARALOGISMOI=S
+--+	AI)THSA/MENOS
+--+	EI)S A)PW/LEIAN
+--+	DIA\ GA\R
+--+	TW=N TRO/PWN
+--+	TOU/TWN
+--+	W)|H/QH
+--+	LABW\N H(MA=S
+--+	E)RH/MOUS
+--+	TH\N TW=N PERSW=N
+--+	E)PIKRA/THSIN
+--+	EI)S TOU\S MAKEDO/NAS
+--+	META/CAI
+--+	H(MEI=S DE\
+--+	TOU\S U(PO\
+--+	TOU= TRISALITHRI/OU
+--+	PARADEDOME/NOUS
+--+	EI)S A)FANISMO\N
+--+	IOUDAI/OUS
+--+	EU(RI/SKOMEN
+--+	OU)
+--+	KAKOU/RGOUS
+--+	O)/NTAS
+--+	DIKAIOTA/TOIS DE\
+--+	POLITEUOME/NOUS
+--+	NO/MOIS
+--+	O)/NTAS DE\
+--+	UI(OU\S
+--+	TOU= U(YI/STOU
+--+	MEGI/STOU
+--+	ZW=NTOS
+--+	QEOU=
+--+	TOU= KATEUQU/NONTOS
+--+	H(MI=N
+--+	TE KAI\ TOI=S PROGO/NOIS H(MW=N
+--+	TH\N BASILEI/AN
+--+	E)N TH=| KALLI/STH|
+--+	DIAQE/SEI
+--+	KALW=S
+--+	OU)=N
+--+	POIH/SETE
+--+	MH\
+--+	PROSXRHSA/MENOI
+--+	TOI=S U(PO\
+--+	AMAN
+--+	AMADAQOU
+--+	A)POSTALEI=SI
+--+	GRA/MMASIN
+--+	DIA\ TO\ AU)TO\N
+--+	TO\N TAU=TA
+--+	E)CERGASA/MENON
+--+	PRO\S TAI=S SOU/SWN
+--+	PU/LAIS
+--+	E)STAURW=SQAI
+--+	SU\N TH=| PANOIKI/A|
+--+	TH\N KATACI/AN
+--+	TOU= TA\ PA/NTA
+--+	E)PIKRATOU=NTOS
+--+	QEOU=
+--+	DIA\ TA/XOUS
+--+	A)PODO/NTOS AU)TW=|
+--+	KRI/SIN
+--+	TO\ DE\
+--+	A)NTI/GRAFON
+--+	TH=S E)PISTOLH=S
+--+	TAU/THS
+--+	E)KQE/NTES
+--+	E)N PANTI\
+--+	TO/PW|
+--+	META\ PARRHSI/AS
+--+	E)A=N
+--+	TOU\S IOUDAI/OUS
+--+	XRH=SQAI
+--+	TOI=S E(AUTW=N
+--+	NOMI/MOIS
+--+	KAI\ SUNEPISXU/EIN AU)TOI=S
+--+	O(/PWS
+--+	TOU\S E)N KAIRW=|
+--+	QLI/YEWS
+--+	E)PIQEME/NOUS AU)TOI=S
+--+	A)MU/NWNTAI
+--+	TH=| TRISKAIDEKA/TH|
+--+	TOU= DWDEKA/TOU
+--+	MHNO\S
+--+	ADAR
+--+	TH=| AU)TH=|
+--+	H(ME/RA|
+--+	TAU/THN
+--+	GA\R
+--+	O( PA/NTA
+--+	DUNASTEU/WN
+--+	QEO\S
+--+	A)NT'
+--+	O)LEQRI/AS
+--+	TOU= E)KLEKTOU=
+--+	GE/NOUS
+--+	E)POI/HSEN AU)TOI=S
+--+	EU)FROSU/NHN
+--+	KAI\ U(MEI=S
+--+	OU)=N
+--+	E)N TAI=S E)PWNU/MOIS U(MW=N
+--+	E(ORTAI=S
+--+	E)PI/SHMON
+--+	H(ME/RAN
+--+	META\ PA/SHS
+--+	EU)WXI/AS
+--+	A)/GETE
+--+	O(/PWS
+--+	KAI\ NU=N
+--+	KAI\ META\ TAU=TA
+--+	SWTHRI/A
+--+	H)=|
+--+	H(MI=N
+--+	KAI\ TOI=S EU)NOOU=SIN
+--+	PE/RSAIS
+--+	TOI=S DE\
+--+	H(MI=N
+--+	E)PIBOULEU/OUSIN
+--+	MNHMO/SUNON
+--+	TH=S A)PWLEI/AS
+--+	PA=SA DE\
+--+	PO/LIS
+--+	H)\
+--+	XW/RA
+--+	TO\ SU/NOLON
+--+	H(/TIS
+--+	KATA\ TAU=TA
+--+	MH\
+--+	POIH/SH|
+--+	DO/RATI
+--+	KAI\ PURI\
+--+	KATANALWQH/SETAI
+--+	MET'
+--+	O)RGH=S
+--+	OU)
+--+	MO/NON
+--+	A)NQRW/POIS
+--+	A)/BATOS
+--+	A)LLA\
+--+	KAI\ QHRI/OIS
+--+	KAI\ PETEINOI=S
+--+	EI)S TO\N A(/PANTA
+--+	XRO/NON
+--+	E)/XQISTOS
+--+	KATASTAQH/SETAI
+
+Esth 8:13
+PT$GN H/KTB	TA\ DE\ A)NTI/GRAFA
+L/HNTN DT	E)KTIQE/SQWSAN
+{...}	O)FQALMOFANW=S
+B/KL	E)N PA/SH|
+MDYNH W/MDYNH	TH=| BASILEI/A|
+GLWY	{..^O)FQALMOFANW=S}
+L/KL	---
+H/(MYM	---
+{...}	E(TOI/MOUS
+W/L/HYWT	TE EI)=NAI
+--+	PA/NTAS
+*H/YHWDYYM **H/YHWDYM	TOU\S IOUDAI/OUS
+*(TWDYM **(TYDYM	{..^E(TOI/MOUS}
+{...}	EI)S TAU/THN
+L/YWM	{...EI)S} TH\N H(ME/RAN
+H/ZH	{..^TAU/THN}
+L/HNQ/M	POLEMH=SAI
+M/)YB/YHM	AU)TW=N ^ TOU\S U(PENANTI/OUS
+
+Esth 8:14
+H/RCYM	---
+RKBY H/RK$ {...?H/)X$TRNYM}	OI( ME\N OU)=N I(PPEI=S
+H/)X$TRNYM	--- ?
+YC)W	E)CH=LQON
+MBHLYM W/DXWPYM	SPEU/DONTES
+B/DBR	TA\ {..^LEGO/MENA}
+{...}	U(PO\
+H/MLK	{..pU(PO\} TOU= BASILE/WS
+{...}	LEGO/MENA
+--+	E)PITELEI=N
+{...}	E)CETE/QH DE\
+W/H/DT	TO\ PRO/STAGMA
+NTNH	{..^E)CETE/QH DE\}
+B/$W$N	KAI\ E)N SOU/SOIS
+H/BYRH	---
+
+Esth 8:15
+W/MRDKY	O( DE\ ^ MARDOXAI=OS
+YC)	E)CH=LQEN
+M/L/PNY	---
+H/MLK	---
+B/LBW$	E)STOLISME/NOS {..^STOLH\N}
+MLKWT	TH\N BASILIKH\N
+{...}	STOLH\N
+TKLT	---
+W/XWR	---
+W/(+RT	KAI\ STE/FANON E)/XWN
+ZHB	XRUSOU=N
+GDWLH	---
+W/TKRYK	KAI\ DIA/DHMA
+BWC	BU/SSINON
+W/)RGMN	PORFUROU=N
+--+	I)DO/NTES
+W/H/(YR	DE\ OI(
+{...}	E)N
+$W$N	{..pE)N} SOU/SOIS
+CHLH W/&MXH	E)XA/RHSA --- ?
+
+Esth 8:16
+L/YHWDYM	TOI=S DE\ IOUDAI/OIS
+HYTH	E)GE/NETO
+)WRH	FW=S
+W/&MXH W/&&N	KAI\ EU)FROSU/NH
+W/YQR	---
+
+Esth 8:17
+W/B/KL MDYNH W/MDYNH ^ #	KATA\ PO/LIN --- ?
+=W/B/KL (YR W/(YR	#
+^ W/B/KL (YR W/(YR #	KAI\ {..dKATA\} XW/RAN --- ?
+=W/B/KL MDYNH W/MDYNH	#
+MQWM )$R	OU(= A)\N
+{..rMGY(}	E)CETE/QH
+DBR	TO\ PRO/STAGMA
+H/MLK	---
+{..rMQWM )$R}	OU(= A)\N
+W/DT/W	{..^TO\ E)/KQEMA}
+MGY(	E)CETE/QH
+{...}	TO\ E)/KQEMA
+&MXH	XARA\
+W/&&WN	KAI\ EU)FROSU/NH
+L/YHWDYM	TOI=S IOUDAI/OIS
+M$TH	KW/QWN
+W/YWM +WB	KAI\ EU)FROSU/NH
+W/RBYM	KAI\ POLLOI\
+M/(MY H/)RC	TW=N E)QNW=N
+MTYHDYM	{+} PERIETE/MONTO KAI\ IOUDA/IZON
+KY NPL PXD {...(L/YHM}	DIA\ TO\N FO/BON
+H/YHWDYM	TW=N IOUDAI/WN
+(L/YHM	{...}
+
+Esth 9:1
+W/B/$NYM (&R	E)N ^ GA\R TW=| DWDEKA/TW|
+XD$	MHNI\
+HW)	{..^O(/S E)STIN}
+XD$	---
+)DR	{..^ADAR}
+B/$LW$H (&R YWM	TRISKAIDEKA/TH|
+B/W	TOU= MHNO/S
+{...}	O(/S E)STIN
+{...}	ADAR
+)$R	---
+HGY(	PARH=N
+DBR {...?W/DT/W}	TA\ GRA/MMATA TA\ GRAFE/NTA
+{...}	U(PO\
+H/MLK	{..pU(PO\} TOU= BASILE/WS
+W/DT/W	--- ?
+L/H(&WT	---
+{...}	E)N [9.2]
+--+	AU)TH=| [9.2]
+B/YWM	{...E)N} TH=| H(ME/RA| [9.2]
+)$R	--- ''
+&BRW	--- ''
+)YBY	--- ''
+H/YHWDYM	--- ''
+L/$LW+	--- ''
+B/HM	--- ''
+W/NHPWK	--- ''
+HW)	--- ''
+)$R	--- ''
+Y$L+W {...HMH}  =%vap	A)PW/LONTO [9.2]
+H/YHWDYM	{..^TOI=S IOUDAI/OIS} [9.2]
+HMH	{...} [9.2]
+B/&N)/YHM	OI( A)NTIKEI/MENOI [9.2]
+{...}	TOI=S IOUDAI/OIS [9.2]
+
+Esth 9:2
+NQHLW	--- ''
+H/YHWDYM	--- ''
+B/(R/YHM	--- ''
+B/KL	--- ''
+MDYNWT	--- ''
+H/MLK	--- ''
+)X$WRW$	--- ''
+L/$LX	--- ''
+YD	--- ''
+B/MBQ$Y	--- ''
+R(T/M	--- ''
+W/)Y$ L)	OU)DEI\S GA\R
+(MD L/PN/YHM	A)NTE/STH
+KY NPL PXD/M {..?(L} =%vap	FOBOU/MENOS
+(L KL H/(MYM =;(L/YHM <8.17>	AU)TOU/S --- ?
+
+Esth 9:3
+{...}	OI(
+W/KL	GA\R ---
+&RY	{...OI(} A)/RXONTES
+H/MDYNWT	TW=N SATRAPW=N
+W/H/)X$DRPNYM W/H/PXWT	KAI\ OI( TU/RANNOI --- ?
+{...}	KAI\ OI( BASILIKOI\
+W/(&Y H/ML)KH	GRAMMATEI=S
+)$R L/MLK	{..^KAI\ OI( BASILIKOI\}
+MN&)YM	E)TI/MWN
+)T H/YHWDYM	TOU\S IOUDAI/OUS
+{...}	O(
+KY	GA\R
+{...}	FO/BOS
+NPL	{..^E)NE/KEITO}
+PXD	{..^O( FO/BOS}
+MRDKY	MARDOXAI/OU
+{...}	E)NE/KEITO
+(L/YHM	AU)TOI=S
+
+Esth 9:4
+KY	--- ''
+GDWL	--- ''
+MRDKY	--- ''
+B/BYT	--- ''
+H/MLK	{...?TOU= BASILE/WS}
+W/$M(/W HWLK	PROSE/PESEN ^ GA\R TO\ PRO/STAGMA {d} #
+#	{..^O)NOMASQH=NAI}
+--- ?	TOU= BASILE/WS
+{...}	O)NOMASQH=NAI
+B/KL	E)N PA/SH|
+H/MDYNWT	TH=| BASILEI/A|
+KY	--- ''
+H/)Y$	--- ''
+MRDKY	--- ''
+HWLK	--- ''
+W/GDWL	--- ''
+
+Esth 9:5
+W/YKW	--- ''
+H/YHWDYM	--- ''
+B/KL	--- ''
+)YB/YHM	--- ''
+MKT	--- ''
+XRB	--- ''
+W/HRG	--- ''
+W/)BDN	--- ''
+W/Y(&W	--- ''
+B/&N)/YHM	--- ''
+K/RCWN/M	--- ''
+
+Esth 9:6
+W/B/$W$N	KAI\ E)N SOU/SOIS
+H/BYRH	TH=| PO/LEI
+HRGW {...?W/)BD}	A)PE/KTEINAN
+H/YHWDYM	OI( IOUDAI=OI
+W/)BD	--- ?
+{...}	A)/NDRAS
+XM$ M)WT	PENTAKOSI/OUS
+)Y$	{..^A)/NDRAS}
+
+Esth 9:7
+W/)T PR$NDT)	TO/N ^ TE FARSANNESTAIN
+W/)T DLPWN	KAI\ DELFWN
+W/)T )SPT)	KAI\ FASGA
+
+Esth 9:8
+W/)T PWRT)	KAI\ FARDAQA
+W/)T )DLY)	KAI\ BAREA
+W/)T )RYDT)	KAI\ SARBAXA
+
+Esth 9:9
+W/)T PRM$T)	KAI\ MARMASIMA
+W/)T )RYSY	KAI\ AROUFAION
+W/)T )RDY	KAI\ ARSAION
+W/)T WYZT)	KAI\ ZABOUQAIQAN
+
+Esth 9:10
+(&RT	TOU\S DE/KA
+BNY	{...TOU\S} UI(OU\S
+HMN	AMAN
+BN HMDT)	AMADAQOU
+--+ =:H/)GGY <3.1>	BOUGAI/OU
+CRR	TOU= E)XQROU=
+H/YHWDYM	TW=N IOUDAI/WN
+HRGW	---
+W/B/BZH	{...}
+L)	---
+{...W/B/BZH} $LXW )T YD/M	KAI\ DIH/RPASAN
+
+Esth 9:11
+{...}	E)N AU)TH=|
+B/YWM	{...E)N} TH=| H(ME/RA|
+H/HW)	{..^AU)TH=|}
+B) =%vap	E)PEDO/QH
+MSPR	O( A)RIQMO\S
+{...}	TW=| BASILEI=
+H/HRWGYM	TW=N A)POLWLO/TWN
+B/$W$N	E)N SOU/SOIS
+H/BYRH	---
+L/PNY H/MLK	{..^TW=| BASILEI=}
+
+Esth 9:12
+W/Y)MR	EI)=PEN ^ DE\
+H/MLK	O( BASILEU\S
+L/)STR	PRO\S ESQHR
+H/MLKH	---
+B/$W$N ^	^^^
+H/BYRH ^	^^^
+HRGW {...?W/)BD}	A)PW/LESAN
+H/YHWDYM	OI( IOUDAI=OI
+W/)BD	--- ?
+XM$ M)WT ^	^^^
+)Y$ ^	^^^
+^ ^^^ =B/$W$N	E)N SOU/SOIS
+^ ^^^ =H/BYRH	TH=| PO/LEI
+^ ^^^ =)Y$	A)/NDRAS
+^ ^^^ =XM$ M)WT	PENTAKOSI/OUS
+W/)T (&RT	---
+BNY	---
+HMN	---
+B/$)R MDYNWT {...?H/MLK}	E)N DE\ TH=| PERIXW/RW|
+H/MLK	--- ?
+MH	PW=S {+} OI)/EI
+(&W	E)XRH/SANTO
+W/MH	--- ''
+$)LT/K	--- ''
+W/YNTN	--- ''
+L/K	--- ''
+W/MH	TI/ ^ OU)=N
+BQ$T/K	A)CIOI=S
+(WD	E)/TI
+W/T(&	KAI\ E)/STAI SOI
+
+Esth 9:13
+W/T)MR	KAI\ EI)=PEN
+)STR	ESQHR
+)M (L	---
+H/MLK	TW=| BASILEI=
++WB	---
+YNTN	DOQH/TW
+GM	{..^W(SAU/TWS}
+MXR	{..^TH\N AU)/RION}
+L/YHWDYM	TOI=S IOUDAI/OIS
+)$R	---
+B/$W$N	---
+L/(&WT	XRH=SQAI
+K/DT	W(SAU/TWS
+H/YWM	TH\N AU)/RION
+W/)T (&RT	W(/STE TOU\S DE/KA
+BNY	{...TOU\S} UI(OU\S
+{...}	KREMA/SAI
+HMN	AMAN
+YTLW	{..^KREMA/SAI}
+(L	---
+H/(C	---
+
+Esth 9:14
+W/Y)MR	KAI\ E)PE/TREYEN
+H/MLK	---
+{...}	OU(/TWS
+L/H(&WT	GENE/SQAI
+KN	{..^OU(/TWS}
+W/TNTN DT	KAI\ E)CE/QHKE
+B/$W$N	{+} TOI=S IOUDAI/OIS TH=S PO/LEWS
+W/)T (&RT =??	TA\ SW/MATA
+BNY	TW=N UI(W=N
+HMN	AMAN
+TLW	KREMA/SAI
+
+Esth 9:15
+W/YQHLW	KAI\ SUNH/XQHSAN
+*H/YHWDYYM **H/YHWDYM	OI( IOUDAI=OI
+)$R	---
+B/$W$N	E)N SOU/SOIS
+GM	---
+B/YWM )RB(H (&R	TH=| TESSARESKAIDEKA/TH| --- ?
+L/XD$	TOU= ---
+)DR	ADAR
+W/YHRGW	KAI\ A)PE/KTEINAN
+B/$W$N	---
+{...}	A)/NDRAS
+$L$ M)WT	TRIAKOSI/OUS
+)Y$	{..^A)/NDRAS}
+W/B/BZH	{...}
+{...W/} L)	KAI\ OU)DE\N
+{...W/B/BZH} $LXW )T YD/M	DIH/RPASAN
+
+Esth 9:16
+W/$)R	OI( DE\ ^ LOIPOI\
+H/YHWDYM	TW=N IOUDAI/WN
+)$R	OI(
+B/MDYNWT H/MLK	E)N TH=| BASILEI/A|
+NQHLW	SUNH/XQHSAN
+W/(MD (L NP$/M	KAI\ E(AUTOI=S E)BOH/QOUN
+W/NWX	KAI\ A)NEPAU/SANTO
+M/)YB/YHM	A)PO\ TW=N POLEMI/WN
+W/HRG	A)PW/LESAN ^ GA\R
+B/&N)/YHM	AU)TW=N
+XM$H W/$B(YM )LP =+	MURI/OUS PENTAKISXILI/OUS
+{...}	TH=| TRISKAIDEKA/TH| --- ? [[9.17]]
+{...}	TOU= --- [[9.17]]
+{...}	ADAR [[9.17]]
+W/B/BZH	{...}
+L)	KAI\ OU)DE\N
+{...W/B/BZH} $LXW )T YD/M	DIH/RPASAN
+
+Esth 9:17
+B/YWM $L$H (&R	TH=| TRISKAIDEKA/TH| --- ? [9.16]
+L/XD$	TOU= --- [9.16]
+)DR	ADAR [9.16]
+W/NWX	KAI\ A)NEPAU/SANTO
+B/)RB(H (&R	TH=| TESSARESKAIDEKA/TH|
+B/W	TOU= AU)TOU= MHNO\S
+W/(&H	KAI\ H)=GON
+)T/W	AU)TH\N
+YWM	H(ME/RAN
+--+	A)NAPAU/SEWS
+{...}	META\
+M$TH	{..pMETA\} XARA=S
+W/&MXH	KAI\ EU)FROSU/NHS
+
+Esth 9:18
+*W/HYHWDYYM **W/HYHWDYM	OI( DE\ ^ IOUDAI=OI
+)$R	OI(
+B/$W$N	E)N SOU/SOIS
+--+ =;H/BYRH <9.6,11,12>	TH=| PO/LEI
+NQHLW	SUNH/XQHSAN
+B/$L$H (&R	---
+B/W	---
+W/B/)RB(H (&R	KAI\ TH=| TESSARESKAIDEKA/TH|
+B/W	---
+{...}	KAI\
+--+	OU)K
+W/NWX	{...KAI\} A)NEPAU/SANTO
+B/XM$H (&R ^	^^^
+B/W	---
+W/(&H	H)=GON ^ DE\
+)T/W YWM	---
+^ ^^^ =B/XM$H (&R	KAI\ TH\N PENTEKAIDEKA/THN
+{...}	META\
+M$TH	{..pMETA\} XARA=S
+W/&MXH	KAI\ EU)FROSU/NHS
+
+Esth 9:19
+(L KN	DIA\ TOU=TO OU)=N
+H/YHWDYM	OI( IOUDAI=OI
+*H/PRWZYM **H/PRZYM	OI( DIESPARME/NOI
+H/Y$BYM	---
+B/(RY H/PRZWT	E)N PA/SH| XW/RA| TH=| E)/CW
+(&YM	A)/GOUSIN
+)T YWM )RB(H (&R	TH\N TESSARESKAIDEKA/THN --- ?
+L/XD$	TOU= --- ?
+)DR	ADAR
+&MXH {...?W/M$TH}	{..^MET' EU)FROSU/NHS}
+W/M$TH	--- ?
+W/YWM	H(ME/RAN
++WB	A)GAQH\N
+{...}	MET'
+{...}	{..pMET'} EU)FROSU/NHS
+W/M$LWX	A)POSTE/LLONTES
+MNWT	MERI/DAS
+)Y$	E(/KASTOS
+L/R(/HW	TW=| PLHSI/ON
+--+ '' =;W/H/Y$BYM	OI( DE\ KATOIKOU=NTES
+--+ '' =B/KRYWT <is1.26^>	E)N TAI=S MHTROPO/LESIN
+--+ '' =;)T YWM XM$H (&R	KAI\ TH\N PENTEKAIDEKA/THN --- ?
+--+ '' =;L/XD$ )DR	TOU= ADAR --- ?
+--+ '' =;YWM	H(ME/RAN
+--+ '' =;&MXH {...?W/M$TH}	EU)FROSU/NHN
+--+ '' =;+WB	A)GAQH\N
+--+ '' =;(&YM	A)/GOUSIN
+--+ '' =;W/M$LWX	E)CAPOSTE/LLONTES
+--+ '' =;MNWT	MERI/DAS
+--+ '' =;)Y$ L/R(/HW	TOI=S PLHSI/ON
+
+Esth 9:20
+W/YKTB	E)/GRAYEN ^ DE\
+MRDKY	MARDOXAI=OS
+)T H/DBRYM	TOU\S LO/GOUS
+H/)LH	TOU/TOUS
+--+ ?	EI)S BIBLI/ON
+W/Y$LX	KAI\ E)CAPE/STEILEN
+SPRYM	{..^BIBLI/ON}
+)L	TOI=S
+KL	---
+H/YHWDYM	{...TOI=S} IOUDAI/OIS
+)$R	O(/SOI H)=SAN
+B/KL	E)N ---
+MDYNWT H/MLK	TH=| {..^BASILEI/A|}
+)X$WRW$	A)RTACE/RCOU
+{...}	BASILEI/A|
+H/QRWBYM	TOI=S E)GGU\S
+W/H/RXWQYM	KAI\ TOI=S MAKRA/N
+
+Esth 9:21
+L/QYM	STH=SAI
+(L/YHM	---
+L/HYWT (&YM	{..^A)/GEIN}
+--+	TA\S H(ME/RAS
+--+	TAU/TAS
+--+	A)GAQA\S
+{...}	A)/GEIN
+)T YWM )RB(H (&R	TE TH\N TESSARESKAIDEKA/THN --- ?
+L/XD$ )DR	{..^TOU= ADAR} --- ?
+W/)T YWM XM$H (&R B/W	KAI\ TH\N PENTEKAIDEKA/THN --- ?
+{...}	TOU= ADAR
+B/KL	---
+$NH	---
+W/$NH	---
+
+Esth 9:22
+K/YMYM {...)$R} {...B/HM}	E)N GA\R TAU/TAIS TAI=S H(ME/RAIS
+)$R	{...}
+NXW	A)NEPAU/SANTO
+B/HM	{...}
+H/YHWDYM	OI( IOUDAI=OI
+M/)WYB/YHM	A)PO\ TW=N E)XQRW=N AU)TW=N
+W/H/XD$	KAI\ TO\N MH=NA
+)$R =?B/W	E)N W(=|
+NHPK	E)STRA/FH
+L/HM	AU)TOI=S
+M/YGWN	---
+L/&MXH	---
+W/M/)BL	---
+{...}	A)GAQH\N
+L/YWM	H(ME/RAN
++WB	{..^A)GAQH\N}
+L/(&WT	A)/GEIN
+)WT/M	O(/LON
+--+	A)GAQA\S
+YMY	H(ME/RAS
+M$TH	GA/MWN
+W/&MXH	KAI\ EU)FROSU/NHS
+W/M$LWX	E)CAPOSTE/LLONTAS
+MNWT	MERI/DAS
+)Y$ L/R(/HW	TOI=S FI/LOIS
+W/MTNWT	KAI\ ---
+L/)BYWNYM	TOI=S PTWXOI=S
+
+Esth 9:23
+W/QBL	KAI\ PROSEDE/CANTO
+H/YHWDYM	OI( IOUDAI=OI
+)T )$R	---
+HXLW	---
+L/(&WT	---
+W/)T )$R	KAQW\S
+KTB	E)/GRAYEN
+{...}	AU)TOI=S
+MRDKY	O( MARDOXAI=OS
+)L/YHM	{..^AU)TOI=S}
+
+Esth 9:24
+KY	PW=S
+HMN	AMAN
+BN HMDT)	AMADAQOU
+H/)GGY	O( MAKEDW\N
+CRR	E)POLE/MEI
+KL H/YHWDYM	AU)TOU/S
+X$B	--- ''
+(L	--- ''
+H/YHWDYM	--- ''
+L/)BD/M	--- ''
+W/HPYL	KAQW\S E)/QETO
+PWR	YH/FISMA
+HW) H/GWRL	KAI\ KLH=RON
+L/HM/M W/L/)BD/M	A)FANI/SAI AU)TOU/S --- ?
+
+Esth 9:25
+W/B/B)/H =v	KAI\ W(S EI)SH=LQEN
+L/PNY	PRO\S
+H/MLK	TO\N BASILE/A
+)MR	LE/GWN
+--+ {x}	KREMA/SAI
+--+ {x}	TO\N MARDOXAI=ON
+(M	--- {x}
+H/SPR	--- {x}
+Y$WB	{..^E)GE/NONTO}
+MX$BT/W	--- ?
+{...?MX$BT/W} H/R(H	{..^KAKA/}
+)$R	O(/SA DE\
+X$B	E)PEXEI/RHSEN {+} E)PA/CAI
+(L	E)PI\
+H/YHWDYM	TOU\S IOUDAI/OUS
+{...}	KAKA/
+(L R)$/W	E)P' AU)TO\N
+{...}	E)GE/NONTO
+W/TLW )T/W =%vap	KAI\ E)KREMA/SQH AU)TO\S
+W/)T BN/YW	KAI\ TA\ TE/KNA AU)TOU=
+(L	---
+H/(C	---
+
+Esth 9:26
+(L KN	DIA\ TOU=TO
+QR)W =%vap	E)PEKLH/QHSAN
+L/YMYM	AI( H(ME/RAI
+H/)LH	AU(=TAI
+PWRYM	FROURAI {t}
+(L $M	DIA\
+H/PWR	TOU\S KLH/ROUS
+--+ '' =KY	O(/TI
+--+ '' =B/L$WN/M	TH=| DIALE/KTW| AU)TW=N
+--+ '' =NQR)YM	KALOU=NTAI
+--+ '' =;PWRYM	FROURAI {t}
+(L KN (L	DIA\
+KL	---
+DBRY	TOU\S LO/GOUS
+H/)GRT	TH=S E)PISTOLH=S
+H/Z)T	TAU/THS
+W/MH	KAI\ O(/SA
+R)W	PEPO/NQASIN
+(L KKH	DIA\ TAU=TA
+W/MH	KAI\ O(/SA
+{...}	AU)TOI=S
+HGY(	E)GE/NETO
+)L/YHM	{..^AU)TOI=S}
+
+Esth 9:27
+QYMW	KAI\ E)/STHSEN
+*W/QBL **W/QBLW {**}	KAI\ PROSEDE/XONTO
+H/YHWDYM	OI( IOUDAI=OI
+(L/YHM	E)F' E(AUTOI=S
+W/(L	KAI\ E)PI\
+ZR(/M	TW=| SPE/RMATI AU)TW=N
+W/(L	KAI\ E)PI\
+KL	---
+H/NLWYM	TOI=S PROSTEQEIME/NOIS
+(L/YHM	E)P' AU)TW=N
+W/L)	OU)DE\ MH\N
+Y(BWR	A)/LLWS XRH/SONTAI
+L/HYWT (&YM	{...?XRH/SONTAI}
+)T $NY	--- ''
+H/YMYM	--- ''
+H/)LH	--- ''
+K/KTB/M	--- ''
+W/K/ZMN/M	--- ''
+B/KL	--- ''
+$NH	--- ''
+W/$NH	--- ''
+
+Esth 9:28
+W/H/YMYM	AI( DE\ ^ H(ME/RAI [27]
+H/)LH	AU(=TAI [27]
+NZKRYM	MNHMO/SUNON [27]
+W/N(&YM	E)PITELOU/MENON [27]
+B/KL DWR	KATA\ GENEA\N --- ? [27]
+W/DWR	KAI\ GENEA\N [27]
+^ ^^^ =(YR W/(YR	KAI\ PO/LIN --- ? [27]
+M$PXH W/M$PXH	KAI\ PATRIA\N --- ? [27]
+MDYNH W/MDYNH	KAI\ XW/RAN --- ? [27]
+^ W/(YR W/(YR	^^^
+W/YMY	AI( DE\ ^ H(ME/RAI
+{...}	AU(=TAI
+H/PWRYM	TW=N FROURAI {t}
+H/)LH	{..^AU(=TAI}
+L) Y(BRW	A)XQH/SONTAI {+?} EI)S TO\N A(/PANTA #
+#	XRO/NON
+M/TWK	--- ?
+H/YHWDYM	--- ?
+{...?M/TWK H/YHWDYM}	{...?EI)S TO\N A(/PANTA XRO/NON}
+W/ZKR/M	KAI\ TO\ MNHMO/SUNON AU)TW=N
+L)	OU) MH\
+YSWP	E)KLI/PH|
+M/ZR(/M	E)K TW=N GENEW=N
+
+Esth 9:29
+W/TKTB	KAI\ E)/GRAYEN
+)STR	ESQHR
+H/MLKH	H( BASI/LISSA
+BT	QUGA/THR
+)BYXYL =:(MYNDB	AMINADAB
+W/MRDKY	KAI\ MARDOXAI=OS
+H/YHWDY	O( IOUDAI=OS
+)T KL	O(/SA
+--+ ?	E)POI/HSAN
+TQP {...?L/QYM}	TO/ TE STERE/WMA
+L/QYM	{...?E)POI/HSAN}
+)T )GRT	TH=S E)PISTOLH=S
+H/PWRYM	TW=N FROURAI {t}
+H/Z)T	--- ''
+H/$NYT	--- ''
+
+Esth 9:30
+W/Y$LX	--- ''
+SPRYM	--- ''
+)L	--- ''
+KL	--- ''
+H/YHWDYM	--- ''
+)L	--- ''
+$B( W/(&RYM W/M)H	--- ''
+MDYNH	--- ''
+MLKWT	--- ''
+)X$WRW$	--- ''
+DBRY	--- ''
+$LWM	--- ''
+W/)MT	--- ''
+
+Esth 9:31
+L/QYM	--- ''
+)T YMY	--- ''
+H/PRYM	--- ''
+H/)LH	--- ''
+B/ZMN/YHM	--- ''
+K/)$R	--- ''
+QYM	{..^E)/STHSAN}
+(L/YHM	{..^E(AUTOI=S {+} KAQ' E(AUTW=N}
+MRDKY	KAI\ MARDOXAI=OS
+H/YHWDY	---
+W/)STR	KAI\ ESQHR
+H/MLKH	H( BASI/LISSA
+{...}	E)/STHSAN
+{...}	E(AUTOI=S
+{...}	KAQ' E(AUTW=N
+W/K/)$R	KAI\ TO/TE
+QYMW	STH/SANTES
+(L	KATA\
+NP$/M	TH=S U(GIEI/AS AU)TW=N
+W/(L ZR(/M	KAI\ {..^?EI)S TO\N AI)W=NA [32]}
+DBRY {...?H/CMWT W/Z(QT/M} #	TH\N BOULH\N AU)TW=N
+=?(CT/M	#
+H/CMWT	--- ?
+W/Z(QT/M	--- ?
+
+Esth 9:32
+W/M)MR	KAI\ {..^LO/GW|}
+)STR	ESQHR
+{...}	LO/GW|
+QYM	E)/STHSEN
+DBRY	---
+H/PRYM	---
+H/)LH	---
+--+ ?	EI)S TO\N AI)W=NA
+W/NKTB	KAI\ E)GRA/FH
+B/SPR	EI)S MNHMO/SUNON
+
+Esth 10:1
+W/Y&M	E)/GRAYEN ^ DE\
+H/MLK	O( BASILEU\S
+*)X$R$ **)X$WRW$	---
+MS	TE/LH
+(L	E)PI\
+{...}	TH\N BASILEI/AN
+H/)RC	TH=S TE GH=S
+W/)YY	{..^TH\N BASILEI/AN}
+H/YM	KAI\ TH=S QALA/SSHS
+
+Esth 10:2
+W/KL M(&H TQP/W	KAI\ TH\N I)SXU\N AU)TOU=
+W/GBWRT/W	KAI\ A)NDRAGAQI/AN {..dAU)TOU=}
+W/PR$T GDLT	--- ? PLOU=TO/N {...?TE KAI\ DO/CAN}
+MRDKY	---
+)$R	---
+GDL/W	TE KAI\ DO/CAN {..^AU)TOU=}
+H/MLK	TH=S BASILEI/AS
+{...}	AU)TOU=
+H/LW) HM	I)DOU\
+KTWBYM	GE/GRAPTAI
+(L	E)N
+SPR	BIBLI/W|
+DBRY	--- ?
+H/YMYM	--- ?
+DBRY H/YMYM	{...?EI)S MNHMO/SUNON}
+L/MLKY	BASILE/WN
+MDY ^ =:PRS	PERSW=N
+^ W/PRS =:W/MDY	KAI\ MH/DWN
+--+ ?	EI)S MNHMO/SUNON
+
+Esth 10:3
+{...}	O(
+KY	DE\
+MRDKY	{..^O(} MARDOXAI=OS
+H/YHWDY	---
+M$NH	DIEDE/XETO
+L/MLK	TO\N BASILE/A
+)X$WRW$	A)RTACE/RCHN
+W/GDWL	KAI\ ME/GAS H)=N {d} {..^KAI\ #
+#	DEDOCAME/NOS}
+--+	E)N TH=| BASILEI/A|
+{...}	KAI\ DEDOCASME/NOS
+{...}	U(PO\
+L/YHWDYM	{..pU(PO\} TW=N IOUDAI/WN
+W/RCWY L/RB )X/YW	KAI\ FILOU/MENOS --- ?
+DR$ {...W/DBR}	DIHGEI=TO
++WB {...SLWM}	TH\N A)GWGH\N
+{...}	PANTI\
+L/(M/W {...ZR(/W}	TW=| E)/QNEI AU)TOU=
+W/DBR	{...}
+$LWM	{...}
+L/KL	{..^PANTI\}
+ZR(/W	{...}
+--+ ''	KAI\ EI)=PEN
+--+ ''	MARDOXAI=OS
+--+ ''	PARA\
+--+ ''	TOU= QEOU=
+--+ ''	E)GE/NETO
+--+ ''	TAU=TA
+--+ ''	E)MNH/SQHN
+--+ ''	GA\R
+--+ ''	PERI\
+--+ ''	TOU= E)NUPNI/OU
+--+ ''	OU(=
+--+ ''	EI)=DON
+--+ ''	PERI\
+--+ ''	TW=N LO/GWN
+--+ ''	TOU/TWN
+--+ ''	OU)DE\
+--+ ''	GA\R
+--+ ''	PARH=LQEN
+--+ ''	A)P' AU)TW=N
+--+ ''	LO/GOS
+--+ ''	H( MIKRA\
+--+ ''	PHGH/
+--+ ''	H(\
+--+ ''	E)GE/NETO
+--+ ''	POTAMO\S
+--+ ''	KAI\ H)=N
+--+ ''	FW=S
+--+ ''	KAI\ H(/LIOS
+--+ ''	KAI\ U(/DWR
+--+ ''	POLU/
+--+ ''	ESQHR
+--+ ''	E)STI\N
+--+ ''	O( POTAMO/S
+--+ ''	H(\N
+--+ ''	E)GA/MHSEN
+--+ ''	O( BASILEU\S
+--+ ''	KAI\ E)POI/HSEN
+--+ ''	BASI/LISSAN
+--+ ''	OI( DE\ DU/O
+--+ ''	{...OI(} DRA/KONTES
+--+ ''	E)GW/ EI)MI
+--+ ''	KAI\ AMAN
+--+ ''	TA\ DE\ E)/QNH
+--+ ''	TA\
+--+ ''	E)PISUNAXQE/NTA
+--+ ''	A)POLE/SAI
+--+ ''	TO\ O)/NOMA
+--+ ''	TW=N IOUDAI/WN
+--+ ''	TO\ DE\ E)/QNOS
+--+ ''	TO\ E)MO/N
+--+ ''	OU(=TO/S E)STIN
+--+ ''	ISRAHL
+--+ ''	OI(
+--+ ''	BOH/SANTES
+--+ ''	PRO\S
+--+ ''	TO\N QEO\N
+--+ ''	KAI\ SWQE/NTES
+--+ ''	KAI\ E)/SWSEN
+--+ ''	KU/RIOS
+--+ ''	TO\N LAO\N AU)TOU=
+--+ ''	KAI\ E)RRU/SATO {..^H(MA=S}
+--+ ''	KU/RIOS
+--+ ''	H(MA=S
+--+ ''	E)K PA/NTWN
+--+ ''	TW=N KAKW=N
+--+ ''	TOU/TWN
+--+ ''	KAI\ E)POI/HSEN
+--+ ''	O( QEO\S
+--+ ''	TA\ SHMEI=A
+--+ ''	KAI\ TA\ TE/RATA
+--+ ''	TA\ MEGA/LA
+--+ ''	A(\
+--+ ''	OU)
+--+ ''	GE/GONEN
+--+ ''	E)N TOI=S E)/QNESIN
+--+ ''	DIA\ TOU=TO
+--+ ''	E)POI/HSEN
+--+ ''	KLH/ROUS
+--+ ''	DU/O
+--+ ''	E(/NA
+--+ ''	TW=| LAW=|
+--+ ''	TOU= QEOU=
+--+ ''	KAI\ E(/NA
+--+ ''	PA=SI
+--+ ''	TOI=S E)/QNESIN
+--+ ''	KAI\ H)=LQON
+--+ ''	OI( DU/O
+--+ ''	KLH=ROI
+--+ ''	OU(=TOI
+--+ ''	EI)S W(/RAN
+--+ ''	KAI\ KAIRO\N
+--+ ''	KAI\ EI)S H(ME/RAN
+--+ ''	KRI/SEWS
+--+ ''	E)NW/PION
+--+ ''	TOU= QEOU=
+--+ ''	KAI\ E)N PA=SI
+--+ ''	TOI=S E)/QNESIN
+--+ ''	KAI\ E)MNH/SQH
+--+ ''	O( QEO\S
+--+ ''	TOU= LAOU= AU)TOU=
+--+ ''	KAI\ E)DIKAI/WSEN
+--+ ''	TH\N KLHRONOMI/AN AU)TOU=
+--+ ''	KAI\ E)/SONTAI
+--+ ''	AU)TOI=S
+--+ ''	AI( H(ME/RAI
+--+ ''	AU(=TAI
+--+ ''	E)N MHNI\
+--+ ''	ADAR
+--+ ''	TH=! TESSARESKAIDEKA/TH|
+--+ ''	KAI\ TH=| PENTEKAIDEKA/TH|
+--+ ''	TOU= AU)TOU= MHNO\S
+--+ ''	META\
+--+ ''	SUNAGWGH=S
+--+ ''	XARA=S
+--+ ''	KAI\ EU)FROSU/NHS
+--+ ''	E)NW/PION
+--+ ''	TOU= QEOU=
+--+ ''	KATA\ GENEA\S
+--+ ''	EI)S TO\N AI)W=NA
+--+ ''	E)N TW=| LAW=| AU)TOU=
+--+ ''	ISRAHL
+--+ ''	E)/TOUS
+--+ ''	TETA/RTOU
+--+ ''	BASILEU/ONTOS
+--+ ''	PTOLEMAI/OU
+--+ ''	KAI\ KLEOPA/TRAS
+--+ ''	EI)SH/NEGKEN
+--+ ''	DWSI/QEOS
+--+ ''	O(\S
+--+ ''	E)/FH
+--+ ''	EI)=NAI
+--+ ''	I(EREU\S
+--+ ''	KAI\ LEUI/THS
+--+ ''	KAI\ PTOLEMAI=OS
+--+ ''	O( UI(O\S AU)TOU=
+--+ ''	TH\N PROKEIME/NHN
+--+ ''	E)PISTOLH\N
+--+ ''	TW=N FROURAI
+--+ ''	H(\N
+--+ ''	E)/FASAN
+--+ ''	EI)=NAI
+--+ ''	KAI\ E(RMHNEUKE/NAI
+--+ ''	LUSI/MAXON
+--+ ''	PTOLEMAI/OU
+--+ ''	TW=N E)N
+--+ ''	IEROUSALHM
