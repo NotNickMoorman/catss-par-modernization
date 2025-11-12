@@ -1,4 +1,4 @@
-// src/scripts/CATSSimport.js
+// src/scripts/import.js
 import fs from "fs";
 import path from "path";
 import sqlite3 from "sqlite3";
