@@ -15,6 +15,14 @@ Or maybe I should just learn directories...
 
 Need to Validate all tables, but for now we will continue working with Genesis only.
 
+1.1 2025-11-12 12:00 Processing
+Updated Path finding to find root at .traceroot
+Created outline in JS for Hebrew-Process.JS
+Confirmed pathing is correct for HP.JS
+NEXT STEPS:
+Create main loop function
+Create helper functions 1 by 1
+
 
 
 
