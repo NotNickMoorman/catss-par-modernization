@@ -19,7 +19,18 @@ export function stripAramaicTag(text, tags) {
   return { text: newText, tags: newTags };
 }
 //============================================//
-export function stripDashTag() {}
+export function stripDashTag(text, tags) {
+  const pattern = /--(?:[-+]+|=(?=\s|$))?(?:\s*'{0,2})?/g;
+  let newTags = tags;
+
+  if (pattern.test(text)) {
+    newTags += "<002>";
+  }
+
+  const newText = text.replace(pattern, "");
+
+  return { text: newText, tags: newTags };
+}
 
 //============================================//
 export function stripQuestionTag(text, tags) {

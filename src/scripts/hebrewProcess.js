@@ -105,7 +105,10 @@ async function processHebrew() {
         ({ text: processingText, tags: processingTags } =
           helpers.stripAramaicTag(processingText, processingTags));
 
-        helpers.stripDashTag();
+        ({ text: processingText, tags: processingTags } = helpers.stripDashTag(
+          processingText,
+          processingTags
+        ));
 
         ({ text: processingText, tags: processingTags } =
           helpers.stripQuestionTag(processingText, processingTags));
