@@ -1,11 +1,5 @@
 // src/scripts/modules/hebrewProcessHelpers.js
-//============================================//
-export function writeTags() {}
 
-//============================================//
-export function deDuplicateTags() {}
-
-//============================================//
 export function stripAramaicTag(text, tags) {
   const pattern = /,,a/g;
   let newTags = tags;
@@ -19,6 +13,23 @@ export function stripAramaicTag(text, tags) {
 
   return { text: newText, tags: newTags };
 }
+//============================================//
+export function moveAngleTag(text, tags, angle) {
+  const pattern = /<[^>]*>/g;
+  let newTags = tags;
+  let newAngle = angle;
+  let newText = text;
+
+  const matches = text.match(pattern);
+  if (matches) {
+    newTags += "<009>";
+    newAngle += matches.join(" ");
+    newText = newText.replace(pattern, "");
+  }
+
+  return { text: newText, tags: newTags, angle: newAngle };
+}
+
 //============================================//
 export function stripPlusesTag(text, tags, pluses) {
   const pattern = /--(?:[-+]+|=(?=\s|$))?(?:\s*'{0,2})?/g;
@@ -84,7 +95,45 @@ export function moveRetroversionTag(text, tags, retroversion) {
 }
 
 //============================================//
-export function moveQereTag() {}
+export function moveQereTag(text, tags, qere) {
+  let tagCheck = false;
+  let complete = 0;
+  let newTags = tags;
+  let newQere = qere;
+  let newText = text;
+
+  const patterns = [/\{\*{1,2}\}/g, /\*\*[^*\s]+/g, /\*[^*\s]+/g];
+
+  patterns.forEach((pattern, i) => {
+    const matches = newText.match(pattern);
+    if (matches) {
+      matches.forEach((m) => {
+        newQere += `[ ${m} ]`;
+        if (i === 2) {
+          // Remove only the leading * for pattern 3
+          newText = newText.replace("*", "");
+        }
+      });
+
+      if (i !== 2) {
+        // Remove the full match for patterns 0 and 1
+        newText = newText.replace(pattern, "");
+      }
+
+      tagCheck = true;
+      complete += 1;
+    }
+  });
+
+  if (tagCheck) {
+    newTags += "<006>";
+    if (complete !== 3) {
+      newTags += "<007>";
+    }
+  }
+
+  return { text: newText, tags: newTags, qere: newQere };
+}
 
 //============================================//
 export function moveCurlyTag(text, tags, curly) {
@@ -94,7 +143,7 @@ export function moveCurlyTag(text, tags, curly) {
 
   const match = text.match(pattern);
   if (match) {
-    newTags += "<007>";
+    newTags += "<008>";
     newCurly += match[0];
   }
 
@@ -104,7 +153,14 @@ export function moveCurlyTag(text, tags, curly) {
 }
 
 //============================================//
-export function removeWhitespace() {}
 
 //============================================//
-export function writeHebrew() {}
+export function removeWhiteSpace(text) {
+  if (!text) return text;
+  // Remove leading/trailing spaces
+  let newText = text.replace(/^ +| +$/g, "");
+  // Reduce multiple spaces between words to one
+  newText = newText.replace(/ {2,}/g, " ");
+  return { text: newText };
+}
+//============================================//
