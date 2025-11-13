@@ -27,6 +27,7 @@ export const OUTPUT = join(DATA, "output"); // root/src/data/output
 
 // Databases
 export const DB = join(DATA, "init.db");
+export const STAT_DB = join(DATA, "stat.db");
 
 export const HEBREW_PROCESSED_DB = join(DATA, "hebrew_processed.db");
 export const GREEK_PROCESSED_DB = join(DATA, "greek_processed.db");

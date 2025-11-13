@@ -39,3 +39,16 @@ MAJOR MILESTONE 1 phrase level alignment data has been effectively cleaned. -Sub
 2.  create a word level alignment based on catss. -------------------------------------------------------
 
 PATH 2) Morphological alignment for word level ordering.
+
+TAGS:
+| Tag | Meaning / Triggered by |
+| ------- | ---------------------------------------------------------- |
+| `<001>` | `,,a` Aramaic tag detected and removed (`stripAramaicTag`) |
+| `<002>` | `--` plus/minus/equals section detected (`stripPlusesTag`) |
+| `<003>` | `?` question mark detected (`stripQuestionTag`) |
+| `<004>` | `^` caret detected (`stripCarrotsTag`) |
+| `<005>` | `=` retroversion section detected (`moveRetroversionTag`) |
+| `<006>` | Any Qere pattern found (`moveQereTag`) |
+| `<007>` | Not all three Qere patterns found (`moveQereTag`) |
+| `<008>` | Curly bracket section detected (`moveCurlyTag`) |
+| `<009>` | Angle bracket section detected (`moveAngleTag`) |

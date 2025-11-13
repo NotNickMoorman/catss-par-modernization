@@ -39,3 +39,39 @@ Future Regex need content removed to specific columns and a tag.
 
 Devlog 1.5
 TO DO: Retroversions
+
+FINISHED ALL HEBREW REGEX!!!
+TAGS:
+| Tag | Meaning / Triggered by |
+| ------- | ---------------------------------------------------------- |
+| `<001>` | `,,a` Aramaic tag detected and removed (`stripAramaicTag`) |
+| `<002>` | `--` plus/minus/equals section detected (`stripPlusesTag`) |
+| `<003>` | `?` question mark detected (`stripQuestionTag`) |
+| `<004>` | `^` caret detected (`stripCarrotsTag`) |
+| `<005>` | `=` retroversion section detected (`moveRetroversionTag`) |
+| `<006>` | Any Qere pattern found (`moveQereTag`) |
+| `<007>` | Not all three Qere patterns found (`moveQereTag`) |
+| `<008>` | Curly bracket section detected (`moveCurlyTag`) |
+| `<009>` | Angle bracket section detected (`moveAngleTag`) |
+
+original data had more granularity to its tags.
+for now this is enough to organize for manual or deterministic review at a later date.
+The important thing is that the text is seperated from the tags.
+
+UP NEXT:
+TAG FACTS
+GREEK REGEX
+HEBREW AND GREEK ENCODING/DECODING
+HEBREW AND GREEK SUB-KEYS/LAZY ALIGN
+
+---
+
+PHASE 2
+
+---
+
+ALIGN TO THIRD PARTY TEXTS//TOOLS
+CREATE SMART WORD FOR WORD ALIGNMENT
+CREATE GUI AND SEARCH ENGINE
+
+1.6: GREEK PROCESSING
