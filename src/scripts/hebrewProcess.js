@@ -106,8 +106,13 @@ async function processHebrew() {
           helpers.stripAramaicTag(processingText, processingTags));
 
         helpers.stripDashTag();
-        helpers.stripQuestionTag();
-        helpers.stripCarrots();
+
+        ({ text: processingText, tags: processingTags } =
+          helpers.stripQuestionTag(processingText, processingTags));
+
+        ({ text: processingText, tags: processingTags } =
+          helpers.stripCarrotsTag(processingText, processingTags));
+
         helpers.stripRetroversion();
         helpers.stripQere();
         helpers.stripCurly();
