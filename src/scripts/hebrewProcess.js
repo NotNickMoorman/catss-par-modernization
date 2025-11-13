@@ -25,15 +25,6 @@ HEB_PROC_DB.exec("PRAGMA journal_mode=WAL");
 
 //helper functions
 //See modules/hebrewProcessHelpers
-function stripAramaicTag() {
-  let { text: processedText, tags: processedTags } = helpers.stripAramaicTag(
-    processingText,
-    processingTags
-  );
-  processingText = processedText;
-  processingTags = processedTags;
-}
-
 function allAsync(db, sql, params = []) {
   return new Promise((resolve, reject) => {
     db.all(sql, params, (err, rows) => (err ? reject(err) : resolve(rows)));
@@ -111,7 +102,8 @@ async function processHebrew() {
         let processingKere = "";
         let processingCurly = "";
 
-        stripAramaicTag();
+        ({ text: processingText, tags: processingTags } =
+          helpers.stripAramaicTag(processingText, processingTags));
 
         helpers.stripDashTag();
         helpers.stripQuestionTag();
