@@ -23,9 +23,19 @@ NEXT STEPS:
 Create main loop function
 Create helper functions 1 by 1
 
+2025-11-12 16:00
 hebrewProcess: stripAramaicTag
 'devlog 1.2.1 aramaic stripping'
 'devlog 1.2.2 aramaic stripping- readability'
 'devlog 1.2.3 aramaic stripping- database added to .gitignore'
 Added a function that removes ,,a and appends a tag: <001>
 Added Databases to .gitignore for filesize purposes. will export later.
+
+2025-11-12 20:00
+hebrewProcess: more stripping
+'devlog 1.3 added master script for running all scripts
+'devlog 1.4 added regex stripping for aramaic, dashes(pluses), question marks, and carrots.This covers all the regex that only require a tag.
+Future Regex need content removed to specific columns and a tag.
+
+Devlog 1.5
+TO DO: Retroversions
