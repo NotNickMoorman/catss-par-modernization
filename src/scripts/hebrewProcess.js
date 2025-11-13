@@ -85,6 +85,7 @@ async function processHebrew() {
         Retroversions TEXT,
         QereKetiv TEXT,
         CurlyBrackets TEXT,
+        Pluses TEXT,
         Original TEXT
       )`
     );
@@ -98,6 +99,7 @@ async function processHebrew() {
       for (const row of rows) {
         let processingText = row.Hebrew;
         let processingTags = "";
+        let processingPluses = "";
         let processingRetroversion = "";
         let processingKere = "";
         let processingCurly = "";
@@ -105,9 +107,14 @@ async function processHebrew() {
         ({ text: processingText, tags: processingTags } =
           helpers.stripAramaicTag(processingText, processingTags));
 
-        ({ text: processingText, tags: processingTags } = helpers.stripDashTag(
+        ({
+          text: processingText,
+          tags: processingTags,
+          pluses: processingPluses,
+        } = helpers.stripPlusesTag(
           processingText,
-          processingTags
+          processingTags,
+          processingPluses
         ));
 
         ({ text: processingText, tags: processingTags } =
@@ -116,9 +123,30 @@ async function processHebrew() {
         ({ text: processingText, tags: processingTags } =
           helpers.stripCarrotsTag(processingText, processingTags));
 
-        helpers.stripRetroversion();
-        helpers.stripQere();
-        helpers.stripCurly();
+        //TO DO=======//
+        ({
+          text: processingText,
+          tags: processingTags,
+          retroversion: processingRetroversion,
+        } = helpers.moveRetroversionTag(
+          processingText,
+          processingTags,
+          processingRetroversion
+        ));
+
+        helpers.moveQereTag();
+
+        ({
+          text: processingText,
+          tags: processingTags,
+          curly: processingCurly,
+        } = helpers.moveCurlyTag(
+          processingText,
+          processingTags,
+          processingCurly
+        ));
+        //reuse strip patterns above, but instead of deleting move to specificied column.
+        //TO DO=======//
 
         helpers.removeWhitespace();
         helpers.deDuplicateTags();
@@ -128,14 +156,15 @@ async function processHebrew() {
         const retro = processingRetroversion;
         const kere = processingKere;
         const curly = processingCurly;
+        const pluses = processingPluses;
         const original = row.Hebrew || "";
 
         await runAsync(
           HEB_PROC_DB,
           `INSERT INTO ${quotedTable} 
-           (Text, Tags, Retroversions, QereKetiv, CurlyBrackets, Original)
-           VALUES (?, ?, ?, ?, ?, ?)`,
-          [text, tags, retro, kere, curly, original]
+           (Text, Tags, Retroversions, QereKetiv, CurlyBrackets, Pluses, Original)
+           VALUES (?, ?, ?, ?, ?, ?, ?)`,
+          [text, tags, retro, kere, curly, pluses, original]
         );
       }
 
