@@ -57,6 +57,19 @@ TAGS:
 original data had more granularity to its tags.
 for now this is enough to organize for manual or deterministic review at a later date.
 The important thing is that the text is seperated from the tags.
+In the future, the value of each piece of data is:
+PHRASE LEVEL ALIGNMENT: main value
+TEXT- serves main main value
+
+RETROVERSION- textually interesting
+Qere/Ketiv- textually interesting
+Question marks- textually interesting
+
+Carets, curly brackets, angle brackets, pluses
+-only valuable for realignment, no inherent value
+
+1.5.2
+ALSO added a stats function for tags.
 
 UP NEXT:
 TAG FACTS
