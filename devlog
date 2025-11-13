@@ -1,15 +1,15 @@
 0.1&0.2 2025-11-11 18:00 Initialization
 
 0.3- 2025-11-11 18:45 - pushed to MAIN & WORKING
-    -create database via sqlite
-    -create script called "CATSSimport.js" to format & input .par text
-        -Create Table named via book name + "-Init"
-        -Remove verse headers from text rows, move to own column
-        -Create primary key for each row
-        -Create Hebrew and Greek columns
-    BOOK NAME: | PrimaryKey | VerseID | Hebrew | Greek |
+-create database via sqlite
+-create script called "CATSSimport.js" to format & input .par text
+-Create Table named via book name + "-Init"
+-Remove verse headers from text rows, move to own column
+-Create primary key for each row
+-Create Hebrew and Greek columns
+BOOK NAME: | PrimaryKey | VerseID | Hebrew | Greek |
 
-IMPORTED DATA INTO init.db 
+IMPORTED DATA INTO init.db
 Future databases tables should be created in new databases to prevent confusion.
 Or maybe I should just learn directories...
 
@@ -23,6 +23,9 @@ NEXT STEPS:
 Create main loop function
 Create helper functions 1 by 1
 
-
-
-
+hebrewProcess: stripAramaicTag
+'devlog 1.2.1 aramaic stripping'
+'devlog 1.2.2 aramaic stripping- readability'
+'devlog 1.2.3 aramaic stripping- database added to .gitignore'
+Added a function that removes ,,a and appends a tag: <001>
+Added Databases to .gitignore for filesize purposes. will export later.

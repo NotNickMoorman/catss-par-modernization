@@ -1,5 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,node,dropbox
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,node,dropbox
+### Databases ###
+*.db
+**/*.db
+
+
 
 ### Dropbox ###
 # Dropbox settings and caches
