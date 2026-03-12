@@ -137,14 +137,14 @@ export function moveQereTag(text, tags, qere) {
 
 //============================================//
 export function moveCurlyTag(text, tags, curly) {
-  const pattern = /\{.*?(?:\}|$)/;
+  const pattern = /\{.*?(?:\}|$)/g;
   let newTags = tags;
   let newCurly = curly;
 
-  const match = text.match(pattern);
-  if (match) {
+  const matches = text.match(pattern);
+  if (matches) {
     newTags += "<008>";
-    newCurly += match[0];
+    newCurly += matches.join(" ");
   }
 
   const newText = text.replace(pattern, "");
