@@ -35,7 +35,7 @@ export const GREEK_PROCESSED_DB = join(DATA, "greek_processed.db");
 export const HEBREW_ENCODED_DB = join(DATA, "hebrew_encoded.db");
 export const GREEK_ENCODED_DB = join(DATA, "greek_encoded.db");
 
-export const HEBREW_ALIGNED_DB = join(DATA, "hebrew_aligned.db");
+export const HEBREW_ALIGNED_DB = join(DATA, "hebrw_subtags.db");
 export const GREEK_ALIGNED_DB = join(DATA, "greek_aligned.db");
 
 // helpers

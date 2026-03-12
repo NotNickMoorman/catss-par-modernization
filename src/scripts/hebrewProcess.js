@@ -1,16 +1,35 @@
 // src/scripts/hebrewProcess.js
 import fs from "fs";
-import path from "path";
 import sqlite3 from "sqlite3";
-import { fileURLToPath } from "url";
 import * as paths from "./modules/paths.js";
 import * as helpers from "./modules/hebrewProcessHelpers.js";
 
-//paths
-const INIT_DB = new sqlite3.Database(paths.DB, sqlite3.OPEN_READONLY, (err) => {
-  if (err) console.error("Failed to open init.db:", err);
-});
-const HEB_PROC_DB = new sqlite3.Database(paths.HEBREW_PROCESSED_DB);
+let INIT_DB;
+let HEB_PROC_DB;
+
+function cleanupWalShm(dbPath) {
+  const wal = `${dbPath}-wal`;
+  const shm = `${dbPath}-shm`;
+
+  if (fs.existsSync(wal)) fs.unlinkSync(wal);
+  if (fs.existsSync(shm)) fs.unlinkSync(shm);
+}
+
+function resetOutputDatabase() {
+  if (fs.existsSync(paths.HEBREW_PROCESSED_DB)) {
+    fs.unlinkSync(paths.HEBREW_PROCESSED_DB);
+  }
+  cleanupWalShm(paths.HEBREW_PROCESSED_DB);
+  console.log("Reset hebrew_processed.db");
+}
+
+function initDatabases() {
+  INIT_DB = new sqlite3.Database(paths.DB, sqlite3.OPEN_READONLY, (err) => {
+    if (err) console.error("Failed to open init.db:", err);
+  });
+  HEB_PROC_DB = new sqlite3.Database(paths.HEBREW_PROCESSED_DB);
+  HEB_PROC_DB.exec("PRAGMA journal_mode=WAL");
+}
 
 //path logging
 /*
@@ -19,9 +38,6 @@ console.log("init.db", paths.HEBREW_PROCESSED_DB);
 console.log("init.db:", INIT_DB);
 console.log("hebrew_processed.db:", HEB_PROC_DB);
 */
-
-//config
-HEB_PROC_DB.exec("PRAGMA journal_mode=WAL");
 
 //helper functions
 //See modules/hebrewProcessHelpers
@@ -43,29 +59,25 @@ function runAsync(db, sql, params = []) {
 async function closeDatabases() {
   const closeDB = (db) => new Promise((resolve) => db.close(resolve));
 
-  await closeDB(INIT_DB);
-  await closeDB(HEB_PROC_DB);
+  if (INIT_DB) await closeDB(INIT_DB);
+  if (HEB_PROC_DB) await closeDB(HEB_PROC_DB);
 
-  const dbFiles = [paths.DB, paths.HEBREW_PROCESSED_DB];
-
-  for (const file of dbFiles) {
-    const wal = file + "-wal";
-    const shm = file + "-shm";
-
-    if (fs.existsSync(wal)) fs.unlinkSync(wal);
-    if (fs.existsSync(shm)) fs.unlinkSync(shm);
-  }
+  cleanupWalShm(paths.DB);
+  cleanupWalShm(paths.HEBREW_PROCESSED_DB);
 
   console.log("Databases closed and WAL/SHM cleaned up.");
 }
 
 // main async function
 async function processHebrew() {
+  resetOutputDatabase();
+  initDatabases();
+
   console.log("Starting Hebrew processing...");
 
   const tables = await allAsync(
     INIT_DB,
-    `SELECT name FROM sqlite_master WHERE type='table' AND name LIKE '%_Init';`
+    `SELECT name FROM sqlite_master WHERE type='table' AND name LIKE '%_Init';`,
   );
   console.log("Found tables:", tables.map((t) => t.name).join(", "));
 
@@ -88,7 +100,7 @@ async function processHebrew() {
         AngleBrackets TEXT,
         Pluses TEXT,
         Original TEXT
-      )`
+      )`,
     );
 
     const rows = await allAsync(INIT_DB, `SELECT * FROM ${quotedSourceTable}`);
@@ -116,7 +128,7 @@ async function processHebrew() {
         } = helpers.moveAngleTag(
           processingText,
           processingTags,
-          processingAngle
+          processingAngle,
         ));
 
         ({
@@ -126,7 +138,7 @@ async function processHebrew() {
         } = helpers.stripPlusesTag(
           processingText,
           processingTags,
-          processingPluses
+          processingPluses,
         ));
 
         ({ text: processingText, tags: processingTags } =
@@ -142,7 +154,7 @@ async function processHebrew() {
         } = helpers.moveRetroversionTag(
           processingText,
           processingTags,
-          processingRetroversion
+          processingRetroversion,
         ));
 
         ({
@@ -152,7 +164,7 @@ async function processHebrew() {
         } = helpers.moveQereTag(
           processingText,
           processingTags,
-          processingQere
+          processingQere,
         ));
 
         ({
@@ -162,7 +174,7 @@ async function processHebrew() {
         } = helpers.moveCurlyTag(
           processingText,
           processingTags,
-          processingCurly
+          processingCurly,
         ));
 
         ({ text: processingText } = helpers.removeWhiteSpace(processingText));
@@ -181,7 +193,7 @@ async function processHebrew() {
           `INSERT INTO ${quotedTable} 
            (Text, Tags, Retroversions, QereKetiv, CurlyBrackets, AngleBrackets, Pluses, Original)
            VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
-          [text, tags, retro, qere, curly, angle, pluses, original]
+          [text, tags, retro, qere, curly, angle, pluses, original],
         );
       }
 
