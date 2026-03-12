@@ -18,6 +18,8 @@ const TAG_LIST = [
   "<008>",
   "<009>",
   "<010>",
+  "<011>",
+  "<012>",
 ];
 
 function closeAsync(db) {

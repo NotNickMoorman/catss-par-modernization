@@ -31,9 +31,66 @@ Approach- run individual books through the process instead of the whole bible.
 -Step 4) Create sub keys in new tables by breaking the text column into individual words, breaking at whitespace and '/'
 -Step 5) Sub alignment step 1 (lazy align)
 
+HOW TO RUN:
+
+Prerequisites:
+
+- Node.js v18 or later
+- From the project root, run: npm install
+
+Run the full pipeline (recommended):
+node src/scripts/00.master.js
+
+This runs the following steps in sequence:
+
+1. import.js Parse all .par source files → init.db
+2. HebrewStack.js Full Hebrew pipeline:
+   hebrewProcess.js Clean Hebrew column, extract tags → hebrew_processed.db
+   hebrewStats.js Per-book tag statistics → hebrewStat.db
+   hebrewEncode.js Decode Beta-code to Unicode Hebrew → hebrew_encoded.db
+   HebrewSubtags.js Tokenize to word-level subtag rows → hebrew_subtags.db
+   compiledStats.js Merge available stats → CompiledStats.db
+3. GreekStack.js Full Greek pipeline:
+   greekProcess.js Clean Greek column, extract tags → greek_processed.db
+   greekStats.js Per-book tag statistics → GreekStat.db
+   greekEncode.js Decode Beta-code to Unicode Greek → greek_encoded.db
+   GreekSubtags.js Tokenize to word-level subtag rows → greek_subtags.db
+   compiledStats.js Merge both stat DBs → CompiledStats.db
+
+Run a single language stack:
+node src/scripts/HebrewStack.js
+node src/scripts/GreekStack.js
+
+Run individual scripts (useful for partial reruns or debugging):
+node src/scripts/import.js
+node src/scripts/hebrewProcess.js
+node src/scripts/hebrewStats.js
+node src/scripts/hebrewEncode.js
+node src/scripts/HebrewSubtags.js
+node src/scripts/greekProcess.js
+node src/scripts/greekStats.js
+node src/scripts/greekEncode.js
+node src/scripts/GreekSubtags.js
+node src/scripts/compiledStats.js
+
+Note: each script depends on the output of the preceding step.
+If you rerun a step, rerun everything downstream from it.
+
+Output databases (written to src/data/, excluded from the repository):
+init.db Raw imported parallel text (Prime, VerseID, Hebrew, Greek)
+hebrew_processed.db Hebrew with tags extracted (tables: BookName_processed)
+hebrew_encoded.db Hebrew decoded to Unicode (tables: BookName_encoded)
+hebrew_subtags.db Hebrew tokenized to word-level rows (tables: BookName_subtags)
+greek_processed.db Same for Greek
+greek_encoded.db Same for Greek
+greek_subtags.db Same for Greek
+hebrewStat.db Per-book Hebrew tag statistics
+GreekStat.db Per-book Greek tag statistics
+CompiledStats.db Merged Hebrew + Greek statistics (combined tag counts per book)
+
 ---
 
-MAJOR MILESTONE 1 phrase level alignment data has been effectively cleaned. -Submit uncleaned data, cleaned data, and script for cleaning data to github to preserve. Two parallel paths can now be pursued.
+MAJOR MILESTONE 1: phrase level alignment data has been effectively cleaned. -Submit uncleaned data, cleaned data, and script for cleaning data to github to preserve. Two parallel paths can now be pursued.
 
 1.  Manually or deterministically reviewing tags for reimplementation
 2.  create a word level alignment based on catss. -------------------------------------------------------
@@ -42,13 +99,16 @@ PATH 2) Morphological alignment for word level ordering.
 
 TAGS:
 | Tag | Meaning / Triggered by |
-| ------- | ---------------------------------------------------------- |
-| `<001>` | `,,a` Aramaic tag detected and removed (`stripAramaicTag`) |
-| `<002>` | `--` plus/minus/equals section detected (`stripPlusesTag`) |
-| `<003>` | `?` question mark detected (`stripQuestionTag`) |
-| `<004>` | `^` caret detected (`stripCarrotsTag`) |
-| `<005>` | `=` retroversion section detected (`moveRetroversionTag`) |
-| `<006>` | Any Qere pattern found (`moveQereTag`) |
-| `<007>` | Not all three Qere patterns found (`moveQereTag`) |
-| `<008>` | Curly bracket section detected (`moveCurlyTag`) |
-| `<009>` | Angle bracket section detected (`moveAngleTag`) |
+| ------- | ------------------------------------------------------------------ |
+| `<001>` | `,,a` Aramaic marker removed — Hebrew (`stripAramaicTag`) |
+| `<002>` | `--` plus/minus/equals section — Hebrew (`stripPlusesTag`) |
+| `<003>` | `?` question mark — Both (`stripQuestionTag`) |
+| `<004>` | `^` caret — Both (`stripCarrotsTag`) |
+| `<005>` | `=` retroversion section — Hebrew (`moveRetroversionTag`) |
+| `<006>` | Any Qere pattern found — Hebrew (`moveQereTag`) |
+| `<007>` | Not all three Qere patterns found — Hebrew (`moveQereTag`) |
+| `<008>` | `{...}` curly brackets — Both (`moveCurlyTag`) |
+| `<009>` | `<...>` angle brackets — Both (`moveAngleTag`) |
+| `<010>` | `---`/`--+` minus section — Greek (`stripMinusesTag`) |
+| `<011>` | `[...]` single square brackets — Greek (`moveSquareBracketsTag`) |
+| `<012>` | `[[...]]` double square brackets — Greek (`moveSquareBracketsTag`) |

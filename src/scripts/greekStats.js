@@ -33,6 +33,8 @@ async function generateStatistics() {
     "<008>",
     "<009>",
     "<010>",
+    "<011>",
+    "<012>",
   ];
   const columns = [
     "Book",

@@ -86,6 +86,7 @@ async function processGreek() {
         Tags TEXT,
         CurlyBrackets TEXT,
         AngleBrackets TEXT,
+        SquareBrackets TEXT,
         Minuses TEXT,
         Original TEXT
       )`,
@@ -102,6 +103,7 @@ async function processGreek() {
         let processingTags = "";
         let processingCurly = "";
         let processingAngle = "";
+        let processingSquare = "";
         let processingMinuses = "";
 
         ({
@@ -112,6 +114,16 @@ async function processGreek() {
           processingText,
           processingTags,
           processingAngle,
+        ));
+
+        ({
+          text: processingText,
+          tags: processingTags,
+          square: processingSquare,
+        } = helpers.moveSquareBracketsTag(
+          processingText,
+          processingTags,
+          processingSquare,
         ));
 
         ({
@@ -146,15 +158,16 @@ async function processGreek() {
         const tags = processingTags;
         const curly = processingCurly;
         const angle = processingAngle;
+        const square = processingSquare;
         const minuses = processingMinuses;
         const original = row.Greek || "";
 
         await runAsync(
           GREEK_PROC_DB,
           `INSERT INTO ${quotedTable}
-           (Text, Tags, CurlyBrackets, AngleBrackets, Minuses, Original)
-           VALUES (?, ?, ?, ?, ?, ?)`,
-          [text, tags, curly, angle, minuses, original],
+           (Text, Tags, CurlyBrackets, AngleBrackets, SquareBrackets, Minuses, Original)
+           VALUES (?, ?, ?, ?, ?, ?, ?)`,
+          [text, tags, curly, angle, square, minuses, original],
         );
       }
 

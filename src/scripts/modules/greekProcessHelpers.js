@@ -17,6 +17,33 @@ export function moveAngleTag(text, tags, angle) {
 }
 
 //============================================//
+export function moveSquareBracketsTag(text, tags, square) {
+  let newTags = tags;
+  let newSquare = square;
+  let newText = text;
+
+  // Handle [[...]] (double square brackets) first — tag <012>
+  const doublePattern = /\[\[.*?\]\]/g;
+  const doubleMatches = newText.match(doublePattern);
+  if (doubleMatches) {
+    newTags += "<012>";
+    newSquare += (newSquare ? " " : "") + doubleMatches.join(" ");
+    newText = newText.replace(doublePattern, "");
+  }
+
+  // Handle [...] (single square brackets) after doubles are removed — tag <011>
+  const singlePattern = /\[.*?\]/g;
+  const singleMatches = newText.match(singlePattern);
+  if (singleMatches) {
+    newTags += "<011>";
+    newSquare += (newSquare ? " " : "") + singleMatches.join(" ");
+    newText = newText.replace(singlePattern, "");
+  }
+
+  return { text: newText, tags: newTags, square: newSquare };
+}
+
+//============================================//
 export function stripMinusesTag(text, tags, minuses) {
   const pattern = /---\s*'{0,2}|--\+/g;
   let newTags = tags;
