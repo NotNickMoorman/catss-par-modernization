@@ -28,6 +28,9 @@ export const OUTPUT = join(DATA, "output"); // root/src/data/output
 // Databases
 export const DB = join(DATA, "init.db");
 export const STAT_DB = join(DATA, "stat.db");
+export const HEBREW_STAT_DB = join(DATA, "hebrewStat.db");
+export const GREEK_STAT_DB = join(DATA, "GreekStat.db");
+export const COMPILED_STAT_DB = join(DATA, "CompiledStats.db");
 
 export const HEBREW_PROCESSED_DB = join(DATA, "hebrew_processed.db");
 export const GREEK_PROCESSED_DB = join(DATA, "greek_processed.db");
@@ -35,8 +38,8 @@ export const GREEK_PROCESSED_DB = join(DATA, "greek_processed.db");
 export const HEBREW_ENCODED_DB = join(DATA, "hebrew_encoded.db");
 export const GREEK_ENCODED_DB = join(DATA, "greek_encoded.db");
 
-export const HEBREW_ALIGNED_DB = join(DATA, "hebrw_subtags.db");
-export const GREEK_ALIGNED_DB = join(DATA, "greek_aligned.db");
+export const HEBREW_ALIGNED_DB = join(DATA, "hebrew_subtags.db");
+export const GREEK_ALIGNED_DB = join(DATA, "greek_subtags.db");
 
 // helpers
 export const pathTo = (folder, filename = "") => join(ROOT, folder, filename);

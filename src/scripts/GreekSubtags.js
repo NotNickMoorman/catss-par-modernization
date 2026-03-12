@@ -39,28 +39,10 @@ function quoteIdentifier(identifier) {
 function tokenizePhrase(phrase) {
   if (typeof phrase !== "string" || phrase.length === 0) return [];
 
-  const tokens = [];
-  let current = "";
-
-  for (const ch of phrase) {
-    if (ch === "/") {
-      current += "/";
-      if (current.trim().length > 0) tokens.push(current.trim());
-      current = "";
-      continue;
-    }
-
-    if (/\s/u.test(ch)) {
-      if (current.trim().length > 0) tokens.push(current.trim());
-      current = "";
-      continue;
-    }
-
-    current += ch;
-  }
-
-  if (current.trim().length > 0) tokens.push(current.trim());
-  return tokens;
+  return phrase
+    .split(/\s+/u)
+    .map((token) => token.trim())
+    .filter((token) => token.length > 0);
 }
 
 function resetOutputDatabase() {

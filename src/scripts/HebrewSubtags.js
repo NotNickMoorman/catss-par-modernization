@@ -67,7 +67,7 @@ function resetOutputDatabase() {
     fs.unlinkSync(TARGET_DB_PATH);
   }
   cleanupWalShm(TARGET_DB_PATH);
-  console.log("Reset hebrw_subtags.db");
+  console.log("Reset hebrew_subtags.db");
 }
 
 async function verifySourceDatabase() {

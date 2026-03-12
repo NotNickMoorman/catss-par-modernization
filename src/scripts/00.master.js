@@ -1,13 +1,7 @@
 // src/scripts/master.js
 import { spawn } from "child_process";
 
-const scripts = [
-  "import.js",
-  "hebrewProcess.js",
-  "hebrewStats.js",
-  "hebrewEncode.js",
-  "HebrewSubtags.js",
-];
+const scripts = ["import.js", "HebrewStack.js", "GreekStack.js"];
 
 async function runScript(script) {
   return new Promise((resolve, reject) => {

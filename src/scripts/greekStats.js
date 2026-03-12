@@ -1,9 +1,9 @@
-// src/scripts/generateTagStatistics.js
+// src/scripts/greekStats.js
 import sqlite3 from "sqlite3";
 import * as paths from "./modules/paths.js";
 
-const HEB_PROC_DB = new sqlite3.Database(paths.HEBREW_PROCESSED_DB);
-const STAT_DB = new sqlite3.Database(paths.HEBREW_STAT_DB);
+const GREEK_PROC_DB = new sqlite3.Database(paths.GREEK_PROCESSED_DB);
+const STAT_DB = new sqlite3.Database(paths.GREEK_STAT_DB);
 
 // Promisified helpers
 function allAsync(db, sql, params = []) {
@@ -43,12 +43,12 @@ async function generateStatistics() {
   const placeholders = columns.map(() => "?").join(", ");
 
   // Drop old table
-  await runAsync(STAT_DB, "DROP TABLE IF EXISTS hebrewStats");
+  await runAsync(STAT_DB, "DROP TABLE IF EXISTS greekStats");
 
   // Create new table
   await runAsync(
     STAT_DB,
-    `CREATE TABLE hebrewStats (
+    `CREATE TABLE greekStats (
       Book TEXT PRIMARY KEY,
       TotalRows INTEGER,
       RowsWithAnyTag INTEGER,
@@ -58,7 +58,7 @@ async function generateStatistics() {
 
   // Get list of processed tables/books in order of appearance
   const tables = await allAsync(
-    HEB_PROC_DB,
+    GREEK_PROC_DB,
     "SELECT name FROM sqlite_master WHERE type='table' AND name LIKE '%_processed' ORDER BY name;",
   );
 
@@ -73,7 +73,7 @@ async function generateStatistics() {
   const bookTotalsList = [];
 
   for (const { name: tableName } of tables) {
-    const rows = await allAsync(HEB_PROC_DB, `SELECT * FROM "${tableName}"`);
+    const rows = await allAsync(GREEK_PROC_DB, `SELECT * FROM "${tableName}"`);
 
     const totals = {
       Book: tableName.replace("_processed", ""),
@@ -108,7 +108,7 @@ async function generateStatistics() {
   ];
   await runAsync(
     STAT_DB,
-    `INSERT INTO hebrewStats (${columns.join(", ")}) VALUES (${placeholders})`,
+    `INSERT INTO greekStats (${columns.join(", ")}) VALUES (${placeholders})`,
     corpusValues,
   );
 
@@ -122,18 +122,16 @@ async function generateStatistics() {
     ];
     await runAsync(
       STAT_DB,
-      `INSERT INTO hebrewStats (${columns.join(
-        ", ",
-      )}) VALUES (${placeholders})`,
+      `INSERT INTO greekStats (${columns.join(", ")}) VALUES (${placeholders})`,
       values,
     );
   }
 
   console.log(
-    "Statistics generated successfully, corpus-wide total inserted first.",
+    "Greek statistics generated successfully, corpus-wide total inserted first.",
   );
 
-  HEB_PROC_DB.close();
+  GREEK_PROC_DB.close();
   STAT_DB.close();
 }
 
